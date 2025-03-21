@@ -1,0 +1,90 @@
+New linecode.CAB102_3_1 nphases = 3 basefreq = 60 units = km Normamps = 150 
+~ R1 = 1.6118 !ohm/km 
+~ X1 = 0.662533 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB202_3_1 nphases = 3 basefreq = 60 units = km Normamps = 152 
+~ R1 = 1.551 !ohm/km 
+~ X1 = 0.5207 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB103_3_1 nphases = 3 basefreq = 60 units = km Normamps = 201 
+~ R1 = 1.0145 !ohm/km 
+~ X1 = 0.628433 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB202_3_3 nphases = 3 basefreq = 60 units = km Normamps = 152 
+~ R1 = 1.551 !ohm/km 
+~ X1 = 0.5207 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB103_3_3 nphases = 3 basefreq = 60 units = km Normamps = 201 
+~ R1 = 1.0145 !ohm/km 
+~ X1 = 0.628433 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CABA06_3_3 nphases = 3 basefreq = 60 units = km Normamps = 229 
+~ R1 = 0.7394 !ohm/km 
+~ X1 = 0.508 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB102_3_3 nphases = 3 basefreq = 60 units = km Normamps = 150 
+~ R1 = 1.6118 !ohm/km 
+~ X1 = 0.662533 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CABA08_3_3 nphases = 3 basefreq = 60 units = km Normamps = 456 
+~ R1 = 0.2469 !ohm/km 
+~ X1 = 0.435 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CABA06_3_1 nphases = 3 basefreq = 60 units = km Normamps = 229 
+~ R1 = 0.7394 !ohm/km 
+~ X1 = 0.508 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB108_3_3 nphases = 3 basefreq = 60 units = km Normamps = 576 
+~ R1 = 0.2006 !ohm/km 
+~ X1 = 0.7049 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB204_3_3 nphases = 3 basefreq = 60 units = km Normamps = 275 
+~ R1 = 0.65 !ohm/km 
+~ X1 = 0.630967 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB902_4_3 nphases = 3 basefreq = 60 units = km Normamps = 175 
+~ R1 = 0.822 !ohm/km 
+~ X1 = 0.243333 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB104_3_3 nphases = 3 basefreq = 60 units = km Normamps = 272 
+~ R1 = 0.6375 !ohm/km 
+~ X1 = 0.515267 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB203_3_3 nphases = 3 basefreq = 60 units = km Normamps = 204 
+~ R1 = 0.975 !ohm/km 
+~ X1 = 0.5244 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB107_3_3 nphases = 3 basefreq = 60 units = km Normamps = 425 
+~ R1 = 0.3184 !ohm/km 
+~ X1 = 0.537167 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB907_4_3 nphases = 3 basefreq = 60 units = km Normamps = 386 
+~ R1 = 0.211 !ohm/km 
+~ X1 = 0.176667 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB905_4_3 nphases = 3 basefreq = 60 units = km Normamps = 425 
+~ R1 = 0.2399 !ohm/km 
+~ X1 = 0.233333 !ohm/km 
+~ C1 = 0.00
+
+New linecode.CAB004_3_3 nphases = 3 basefreq = 60 units = km Normamps = 262 
+~ R1 = 0.62 !ohm/km 
+~ X1 = 0.4443 !ohm/km 
+~ C1 = 0.00
+

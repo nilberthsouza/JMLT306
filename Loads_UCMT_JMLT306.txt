@@ -1,0 +1,22 @@
+New load.5538 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 4778062.1.2.3 kv = 13.8 pf = 0.92 kw = 3.13733  conn = delta
+
+New load.6252 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 3410668.1.2.3 kv = 13.8 pf = 0.92 kw = 1.99342  conn = delta
+
+New load.7438 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 3603301.1.2.3 kv = 13.8 pf = 0.92 kw = 5.25454  conn = delta
+
+New load.8276 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 8087123.1.2.3 kv = 13.8 pf = 0.92 kw = 14.3386  conn = delta
+
+New load.9373 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 644485.1.2.3 kv = 13.8 pf = 0.92 kw = 87.6712  conn = delta
+
+New load.9554 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 802377.1.2.3 kv = 13.8 pf = 0.92 kw = 1068.54  conn = delta
+
+New load.10400 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 808082.1.2.3 kv = 13.8 pf = 0.92 kw = 6.33785  conn = delta
+
+New load.10861 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 3447796.1.2.3 kv = 13.8 pf = 0.92 kw = 3.68426  conn = delta
+
+New load.13483 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 802853.1.2.3 kv = 13.8 pf = 0.92 kw = 43.6221  conn = delta
+
+New load.13694 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 4897769.1.2.3 kv = 13.8 pf = 0.92 kw = 7.25208  conn = delta
+
+New load.13695 phases = 3 model = 8 ZIPV = [0.5 0 0.5 0 0 1 0.9] daily = A4 bus = 808103.1.2.3 kv = 13.8 pf = 0.92 kw = 61.5132  conn = delta
+

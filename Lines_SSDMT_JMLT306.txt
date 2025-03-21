@@ -1,0 +1,4848 @@
+New line.946317 phases = 3 bus1 = 642133 bus2 = 642140 
+~ length = 26.4 units = m 
+~ linecode = CAB103_3_1
+
+New line.946324 phases = 3 bus1 = 642140 bus2 = 642147 
+~ length = 32.695 units = m 
+~ linecode = CAB103_3_1
+
+New line.946331 phases = 3 bus1 = 642147 bus2 = 642154 
+~ length = 34.828 units = m 
+~ linecode = CAB103_3_1
+
+New line.946338 phases = 3 bus1 = 642147 bus2 = 5780721 
+~ length = 62.007 units = m 
+~ linecode = CAB103_3_1
+
+New line.946345 phases = 3 bus1 = 642154 bus2 = 642161 
+~ length = 30.479 units = m 
+~ linecode = CAB103_3_1
+
+New line.946352 phases = 3 bus1 = 642161 bus2 = 5994382 
+~ length = 24.515 units = m 
+~ linecode = CAB102_3_1
+
+New line.946366 phases = 3 bus1 = 642168 bus2 = 642133 
+~ length = 33.105 units = m 
+~ linecode = CAB103_3_1
+
+New line.946373 phases = 3 bus1 = 642175 bus2 = 642168 
+~ length = 35.341 units = m 
+~ linecode = CAB103_3_1
+
+New line.946380 phases = 3 bus1 = 642182 bus2 = 642175 
+~ length = 36.248 units = m 
+~ linecode = CAB103_3_1
+
+New line.946387 phases = 3 bus1 = 642182 bus2 = 642203 
+~ length = 34.669 units = m 
+~ linecode = CAB102_3_1
+
+New line.946401 phases = 3 bus1 = 642196 bus2 = 642189 
+~ length = 33.837 units = m 
+~ linecode = CAB102_3_1
+
+New line.946408 phases = 3 bus1 = 642203 bus2 = 642196 
+~ length = 36.055 units = m 
+~ linecode = CAB102_3_1
+
+New line.946450 phases = 3 bus1 = 642238 bus2 = 642245 
+~ length = 38.078 units = m 
+~ linecode = CAB202_3_1
+
+New line.946471 phases = 3 bus1 = 642245 bus2 = 642273 
+~ length = 42.543 units = m 
+~ linecode = CAB202_3_1
+
+New line.946520 phases = 3 bus1 = 642273 bus2 = 642280 
+~ length = 39.924 units = m 
+~ linecode = CAB202_3_1
+
+New line.946541 phases = 3 bus1 = 642280 bus2 = 642287 
+~ length = 39.395 units = m 
+~ linecode = CAB202_3_1
+
+New line.946562 phases = 3 bus1 = 642287 bus2 = 642182 
+~ length = 40.853 units = m 
+~ linecode = CAB202_3_1
+
+New line.946576 phases = 3 bus1 = 642294 bus2 = 642238 
+~ length = 39.924 units = m 
+~ linecode = CAB202_3_1
+
+New line.946590 phases = 3 bus1 = 642301 bus2 = 642294 
+~ length = 37.695 units = m 
+~ linecode = CAB202_3_1
+
+New line.946604 phases = 3 bus1 = 642308 bus2 = 642301 
+~ length = 42.543 units = m 
+~ linecode = CAB202_3_1
+
+New line.946611 phases = 3 bus1 = 642315 bus2 = 642308 
+~ length = 40.718 units = m 
+~ linecode = CAB202_3_1
+
+New line.946646 phases = 3 bus1 = 642336 bus2 = 642350 
+~ length = 40.261 units = m 
+~ linecode = CAB102_3_1
+
+New line.946653 phases = 3 bus1 = 642343 bus2 = 642336 
+~ length = 41.23 units = m 
+~ linecode = CAB102_3_1
+
+New line.946667 phases = 3 bus1 = 642350 bus2 = 642357 
+~ length = 25.495 units = m 
+~ linecode = CAB102_3_1
+
+New line.946681 phases = 3 bus1 = 642357 bus2 = 2291683 
+~ length = 14.318 units = m 
+~ linecode = CAB102_3_1
+
+New line.946737 phases = 3 bus1 = 642378 bus2 = 642343 
+~ length = 25.06 units = m 
+~ linecode = CAB102_3_1
+
+New line.946751 phases = 3 bus1 = 642385 bus2 = 5746057 
+~ length = 12.083 units = m 
+~ linecode = CAB202_3_1
+
+New line.946828 phases = 3 bus1 = 642434 bus2 = 642406 
+~ length = 38.587 units = m 
+~ linecode = CAB102_3_1
+
+New line.946849 phases = 3 bus1 = 642441 bus2 = 2291746 
+~ length = 31.78 units = m 
+~ linecode = CAB102_3_1
+
+New line.946884 phases = 3 bus1 = 642455 bus2 = 642441 
+~ length = 55.46 units = m 
+~ linecode = CAB102_3_1
+
+New line.946905 phases = 3 bus1 = 642462 bus2 = 642469 
+~ length = 27.513 units = m 
+~ linecode = CAB102_3_1
+
+New line.946926 phases = 3 bus1 = 642469 bus2 = 642476 
+~ length = 23.769 units = m 
+~ linecode = CAB102_3_1
+
+New line.946954 phases = 3 bus1 = 642476 bus2 = 642434 
+~ length = 32.248 units = m 
+~ linecode = CAB102_3_1
+
+New line.946961 phases = 3 bus1 = 642476 bus2 = 642483 
+~ length = 16.401 units = m 
+~ linecode = CAB102_3_1
+
+New line.947017 phases = 3 bus1 = 642490 bus2 = 642497 
+~ length = 21.024 units = m 
+~ linecode = CAB102_3_1
+
+New line.947038 phases = 3 bus1 = 642497 bus2 = 642546 
+~ length = 30.594 units = m 
+~ linecode = CAB102_3_1
+
+New line.947066 phases = 3 bus1 = 642511 bus2 = 642462 
+~ length = 32.015 units = m 
+~ linecode = CAB102_3_1
+
+New line.947080 phases = 3 bus1 = 642518 bus2 = 642511 
+~ length = 27.459 units = m 
+~ linecode = CAB102_3_1
+
+New line.947101 phases = 3 bus1 = 642525 bus2 = 642518 
+~ length = 34.481 units = m 
+~ linecode = CAB102_3_1
+
+New line.947122 phases = 3 bus1 = 642532 bus2 = 642525 
+~ length = 38.909 units = m 
+~ linecode = CAB102_3_1
+
+New line.947143 phases = 3 bus1 = 642539 bus2 = 5687250 
+~ length = 27.892 units = m 
+~ linecode = CAB102_3_1
+
+New line.947164 phases = 3 bus1 = 642546 bus2 = 642539 
+~ length = 30.413 units = m 
+~ linecode = CAB102_3_1
+
+New line.947206 phases = 3 bus1 = 642560 bus2 = 642588 
+~ length = 41.011 units = m 
+~ linecode = CAB202_3_1
+
+New line.947227 phases = 3 bus1 = 642567 bus2 = 642574 
+~ length = 34.928 units = m 
+~ linecode = CAB202_3_1
+
+New line.947234 phases = 3 bus1 = 642567 bus2 = 5174822 
+~ length = 27.294 units = m 
+~ linecode = CAB202_3_1
+
+New line.947255 phases = 3 bus1 = 642574 bus2 = 642581 
+~ length = 45.879 units = m 
+~ linecode = CAB202_3_1
+
+New line.947276 phases = 3 bus1 = 642581 bus2 = 642385 
+~ length = 44.384 units = m 
+~ linecode = CAB202_3_1
+
+New line.947311 phases = 3 bus1 = 642588 bus2 = 642595 
+~ length = 35.227 units = m 
+~ linecode = CAB102_3_1
+
+New line.947332 phases = 3 bus1 = 642595 bus2 = 800116 
+~ length = 28.071 units = m 
+~ linecode = CAB103_3_1
+
+New line.947409 phases = 3 bus1 = 642637 bus2 = 642630 
+~ length = 30.87 units = m 
+~ linecode = CAB103_3_1
+
+New line.947437 phases = 3 bus1 = 642651 bus2 = 642637 
+~ length = 41.109 units = m 
+~ linecode = CAB103_3_1
+
+New line.947472 phases = 3 bus1 = 642693 bus2 = 642707 
+~ length = 35.383 units = m 
+~ linecode = CAB103_3_1
+
+New line.947493 phases = 3 bus1 = 642707 bus2 = 642819 
+~ length = 34.204 units = m 
+~ linecode = CAB103_3_1
+
+New line.947500 phases = 3 bus1 = 642714 bus2 = 642693 
+~ length = 42.449 units = m 
+~ linecode = CAB102_3_1
+
+New line.947514 phases = 3 bus1 = 642721 bus2 = 642651 
+~ length = 38.209 units = m 
+~ linecode = CAB103_3_1
+
+New line.947528 phases = 3 bus1 = 642728 bus2 = 642721 
+~ length = 36.055 units = m 
+~ linecode = CAB103_3_1
+
+New line.947535 phases = 3 bus1 = 642735 bus2 = 642714 
+~ length = 35.355 units = m 
+~ linecode = CAB102_3_1
+
+New line.947542 phases = 3 bus1 = 642735 bus2 = 642728 
+~ length = 19.849 units = m 
+~ linecode = CAB102_3_1
+
+New line.947549 phases = 3 bus1 = 642735 bus2 = 642889 
+~ length = 38.896 units = m 
+~ linecode = CAB102_3_1
+
+New line.947563 phases = 3 bus1 = 642756 bus2 = 642749 
+~ length = 46.096 units = m 
+~ linecode = CAB102_3_1
+
+New line.947584 phases = 3 bus1 = 642763 bus2 = 642756 
+~ length = 64.279 units = m 
+~ linecode = CAB102_3_1
+
+New line.947598 phases = 3 bus1 = 642770 bus2 = 642763 
+~ length = 65.144 units = m 
+~ linecode = CAB102_3_1
+
+New line.947668 phases = 3 bus1 = 642819 bus2 = 642826 
+~ length = 36.069 units = m 
+~ linecode = CAB103_3_1
+
+New line.947675 phases = 3 bus1 = 642819 bus2 = 642833 
+~ length = 39.597 units = m 
+~ linecode = CAB102_3_1
+
+New line.947696 phases = 3 bus1 = 642826 bus2 = 642987 
+~ length = 34.712 units = m 
+~ linecode = CAB103_3_1
+
+New line.947710 phases = 3 bus1 = 642833 bus2 = 642840 
+~ length = 37.482 units = m 
+~ linecode = CAB102_3_1
+
+New line.947724 phases = 3 bus1 = 642840 bus2 = 642847 
+~ length = 28.999 units = m 
+~ linecode = CAB102_3_1
+
+New line.947759 phases = 3 bus1 = 642889 bus2 = 642903 
+~ length = 39.597 units = m 
+~ linecode = CAB102_3_1
+
+New line.947780 phases = 3 bus1 = 642924 bus2 = 642903 
+~ length = 33.94 units = m 
+~ linecode = CAB102_3_1
+
+New line.947822 phases = 3 bus1 = 642938 bus2 = 642924 
+~ length = 35.355 units = m 
+~ linecode = CAB102_3_1
+
+New line.947850 phases = 3 bus1 = 642952 bus2 = 642938 
+~ length = 33.241 units = m 
+~ linecode = CAB102_3_1
+
+New line.947871 phases = 3 bus1 = 642959 bus2 = 642952 
+~ length = 34.655 units = m 
+~ linecode = CAB102_3_1
+
+New line.947885 phases = 3 bus1 = 642966 bus2 = 642959 
+~ length = 30.016 units = m 
+~ linecode = CAB102_3_1
+
+New line.947899 phases = 3 bus1 = 642987 bus2 = 642994 
+~ length = 41.724 units = m 
+~ linecode = CAB102_3_1
+
+New line.947906 phases = 3 bus1 = 642994 bus2 = 643015 
+~ length = 36.796 units = m 
+~ linecode = CAB102_3_1
+
+New line.947920 phases = 3 bus1 = 643015 bus2 = 643022 
+~ length = 38.183 units = m 
+~ linecode = CAB102_3_1
+
+New line.947941 phases = 3 bus1 = 643057 bus2 = 643064 
+~ length = 57.217 units = m 
+~ linecode = CAB102_3_1
+
+New line.947955 phases = 3 bus1 = 643064 bus2 = 643071 
+~ length = 50.802 units = m 
+~ linecode = CAB102_3_1
+
+New line.947969 phases = 3 bus1 = 643071 bus2 = 642770 
+~ length = 64.844 units = m 
+~ linecode = CAB102_3_1
+
+New line.947976 phases = 3 bus1 = 643071 bus2 = 2291676 
+~ length = 37.215 units = m 
+~ linecode = CAB202_3_1
+
+New line.948018 phases = 3 bus1 = 643099 bus2 = 643057 
+~ length = 51.155 units = m 
+~ linecode = CAB102_3_1
+
+New line.948025 phases = 3 bus1 = 643099 bus2 = 643106 
+~ length = 56.434 units = m 
+~ linecode = CAB102_3_3
+
+New line.948032 phases = 3 bus1 = 643099 bus2 = 643155 
+~ length = 63.889 units = m 
+~ linecode = CABA06_3_3
+
+New line.948039 phases = 3 bus1 = 643106 bus2 = 643113 
+~ length = 58.692 units = m 
+~ linecode = CAB102_3_3
+
+New line.948046 phases = 3 bus1 = 643113 bus2 = 643120 
+~ length = 59.074 units = m 
+~ linecode = CAB102_3_3
+
+New line.948053 phases = 3 bus1 = 643120 bus2 = 643127 
+~ length = 60.015 units = m 
+~ linecode = CAB103_3_3
+
+New line.948060 phases = 3 bus1 = 643127 bus2 = 643141 
+~ length = 46.614 units = m 
+~ linecode = CAB102_3_3
+
+New line.948067 phases = 3 bus1 = 643141 bus2 = 2291669 
+~ length = 66.217 units = m 
+~ linecode = CAB102_3_3
+
+New line.948081 phases = 3 bus1 = 643155 bus2 = 643435 
+~ length = 63.889 units = m 
+~ linecode = CABA06_3_3
+
+New line.948172 phases = 3 bus1 = 643253 bus2 = 642966 
+~ length = 29.966 units = m 
+~ linecode = CAB102_3_1
+
+New line.948186 phases = 3 bus1 = 643260 bus2 = 643253 
+~ length = 10.63 units = m 
+~ linecode = CAB102_3_1
+
+New line.948200 phases = 3 bus1 = 643267 bus2 = 643260 
+~ length = 23.769 units = m 
+~ linecode = CAB102_3_1
+
+New line.948221 phases = 3 bus1 = 643274 bus2 = 643267 
+~ length = 39.05 units = m 
+~ linecode = CAB102_3_1
+
+New line.948228 phases = 3 bus1 = 643274 bus2 = 3102682 
+~ length = 4.123 units = m 
+~ linecode = CAB102_3_1
+
+New line.948340 phases = 3 bus1 = 643330 bus2 = 643274 
+~ length = 24.596 units = m 
+~ linecode = CAB102_3_1
+
+New line.948361 phases = 3 bus1 = 643337 bus2 = 643330 
+~ length = 29.41 units = m 
+~ linecode = CAB102_3_1
+
+New line.948375 phases = 3 bus1 = 643344 bus2 = 6009768 
+~ length = 29.427 units = m 
+~ linecode = CABA06_3_1
+
+New line.948389 phases = 3 bus1 = 643351 bus2 = 643337 
+~ length = 28.301 units = m 
+~ linecode = CAB102_3_1
+
+New line.948410 phases = 3 bus1 = 643358 bus2 = 643351 
+~ length = 30.413 units = m 
+~ linecode = CAB102_3_1
+
+New line.948424 phases = 3 bus1 = 643365 bus2 = 643358 
+~ length = 37.12 units = m 
+~ linecode = CAB102_3_1
+
+New line.948445 phases = 3 bus1 = 643372 bus2 = 643393 
+~ length = 39.204 units = m 
+~ linecode = CAB102_3_1
+
+New line.948466 phases = 3 bus1 = 643379 bus2 = 643372 
+~ length = 31.015 units = m 
+~ linecode = CAB102_3_1
+
+New line.948473 phases = 3 bus1 = 643386 bus2 = 643365 
+~ length = 34.928 units = m 
+~ linecode = CAB102_3_1
+
+New line.948494 phases = 3 bus1 = 643393 bus2 = 643407 
+~ length = 40.999 units = m 
+~ linecode = CAB102_3_1
+
+New line.948508 phases = 3 bus1 = 643400 bus2 = 643379 
+~ length = 35.127 units = m 
+~ linecode = CAB102_3_1
+
+New line.948522 phases = 3 bus1 = 643400 bus2 = 6527341 
+~ length = 16.279 units = m 
+~ linecode = CAB103_3_1
+
+New line.948536 phases = 3 bus1 = 643407 bus2 = 643386 
+~ length = 40.049 units = m 
+~ linecode = CAB102_3_1
+
+New line.948543 phases = 3 bus1 = 643414 bus2 = 643463 
+~ length = 70.878 units = m 
+~ linecode = CABA06_3_3
+
+New line.948557 phases = 3 bus1 = 643421 bus2 = 643414 
+~ length = 32.572 units = m 
+~ linecode = CABA06_3_3
+
+New line.948564 phases = 3 bus1 = 643428 bus2 = 643421 
+~ length = 32.572 units = m 
+~ linecode = CABA06_3_3
+
+New line.948578 phases = 3 bus1 = 643435 bus2 = 643428 
+~ length = 58.82 units = m 
+~ linecode = CABA06_3_3
+
+New line.948620 phases = 3 bus1 = 643463 bus2 = 643470 
+~ length = 69.919 units = m 
+~ linecode = CABA06_3_3
+
+New line.948634 phases = 3 bus1 = 643470 bus2 = 643477 
+~ length = 69.919 units = m 
+~ linecode = CABA06_3_3
+
+New line.948655 phases = 3 bus1 = 643477 bus2 = 643484 
+~ length = 69.424 units = m 
+~ linecode = CABA06_3_3
+
+New line.948669 phases = 3 bus1 = 643484 bus2 = 817987 
+~ length = 25.317 units = m 
+~ linecode = CABA06_3_3
+
+New line.948690 phases = 3 bus1 = 643491 bus2 = 643498 
+~ length = 31.4 units = m 
+~ linecode = CABA06_3_3
+
+New line.948704 phases = 3 bus1 = 643498 bus2 = 643505 
+~ length = 43.415 units = m 
+~ linecode = CABA06_3_3
+
+New line.948732 phases = 3 bus1 = 643505 bus2 = 643519 
+~ length = 34.481 units = m 
+~ linecode = CAB103_3_1
+
+New line.948739 phases = 3 bus1 = 643512 bus2 = 643491 
+~ length = 24.758 units = m 
+~ linecode = CABA06_3_3
+
+New line.948753 phases = 3 bus1 = 643519 bus2 = 643526 
+~ length = 33.135 units = m 
+~ linecode = CAB103_3_1
+
+New line.948767 phases = 3 bus1 = 643526 bus2 = 643554 
+~ length = 24.758 units = m 
+~ linecode = CAB102_3_1
+
+New line.948781 phases = 3 bus1 = 643533 bus2 = 643512 
+~ length = 34.481 units = m 
+~ linecode = CABA06_3_3
+
+New line.948795 phases = 3 bus1 = 643540 bus2 = 643533 
+~ length = 25.709 units = m 
+~ linecode = CABA06_3_3
+
+New line.948809 phases = 3 bus1 = 643547 bus2 = 643540 
+~ length = 18.439 units = m 
+~ linecode = CABA06_3_3
+
+New line.948823 phases = 3 bus1 = 643554 bus2 = 643400 
+~ length = 13.892 units = m 
+~ linecode = CAB102_3_1
+
+New line.948956 phases = 3 bus1 = 643610 bus2 = 643631 
+~ length = 34.885 units = m 
+~ linecode = CAB103_3_1
+
+New line.948963 phases = 3 bus1 = 643610 bus2 = 2291837 
+~ length = 25.553 units = m 
+~ linecode = CAB102_3_3
+
+New line.948998 phases = 3 bus1 = 643631 bus2 = 643638 
+~ length = 35.804 units = m 
+~ linecode = CAB103_3_1
+
+New line.949012 phases = 3 bus1 = 643638 bus2 = 793410 
+~ length = 78.445 units = m 
+~ linecode = CAB103_3_1
+
+New line.949019 phases = 3 bus1 = 643638 bus2 = 2291858 
+~ length = 156.18 units = m 
+~ linecode = CAB202_3_1
+
+New line.949040 phases = 3 bus1 = 643659 bus2 = 3985949 
+~ length = 32.649 units = m 
+~ linecode = CAB103_3_3
+
+New line.949047 phases = 3 bus1 = 643666 bus2 = 643673 
+~ length = 70.254 units = m 
+~ linecode = CAB103_3_3
+
+New line.949068 phases = 3 bus1 = 643708 bus2 = 643659 
+~ length = 68.247 units = m 
+~ linecode = CAB102_3_3
+
+New line.949096 phases = 3 bus1 = 643715 bus2 = 643708 
+~ length = 63.251 units = m 
+~ linecode = CAB102_3_3
+
+New line.949278 phases = 3 bus1 = 643806 bus2 = 2291872 
+~ length = 34.928 units = m 
+~ linecode = CAB204_3_3
+
+New line.949306 phases = 3 bus1 = 643813 bus2 = 643806 
+~ length = 32.572 units = m 
+~ linecode = CAB104_3_3
+
+New line.949327 phases = 3 bus1 = 643820 bus2 = 643813 
+~ length = 35.734 units = m 
+~ linecode = CAB104_3_3
+
+New line.949341 phases = 3 bus1 = 643827 bus2 = 643820 
+~ length = 36.687 units = m 
+~ linecode = CAB104_3_3
+
+New line.949355 phases = 3 bus1 = 643834 bus2 = 794761 
+~ length = 23.769 units = m 
+~ linecode = CAB102_3_1
+
+New line.949369 phases = 3 bus1 = 643841 bus2 = 643834 
+~ length = 29.427 units = m 
+~ linecode = CAB102_3_1
+
+New line.949383 phases = 3 bus1 = 643848 bus2 = 643841 
+~ length = 31.064 units = m 
+~ linecode = CAB102_3_1
+
+New line.949397 phases = 3 bus1 = 643862 bus2 = 643848 
+~ length = 21.633 units = m 
+~ linecode = CAB102_3_1
+
+New line.949411 phases = 3 bus1 = 643869 bus2 = 643862 
+~ length = 29.681 units = m 
+~ linecode = CAB102_3_1
+
+New line.949432 phases = 3 bus1 = 643883 bus2 = 643869 
+~ length = 32.695 units = m 
+~ linecode = CAB102_3_3
+
+New line.949460 phases = 3 bus1 = 643904 bus2 = 643883 
+~ length = 36.138 units = m 
+~ linecode = CAB102_3_3
+
+New line.949467 phases = 3 bus1 = 643918 bus2 = 643904 
+~ length = 32.756 units = m 
+~ linecode = CAB102_3_3
+
+New line.949481 phases = 3 bus1 = 643925 bus2 = 643918 
+~ length = 32.756 units = m 
+~ linecode = CAB102_3_3
+
+New line.949488 phases = 3 bus1 = 643932 bus2 = 643925 
+~ length = 31.78 units = m 
+~ linecode = CAB102_3_3
+
+New line.949495 phases = 3 bus1 = 643939 bus2 = 643610 
+~ length = 24.02 units = m 
+~ linecode = CAB102_3_3
+
+New line.949509 phases = 3 bus1 = 643946 bus2 = 643939 
+~ length = 30.413 units = m 
+~ linecode = CAB102_3_3
+
+New line.949530 phases = 3 bus1 = 643953 bus2 = 643946 
+~ length = 34.524 units = m 
+~ linecode = CAB102_3_3
+
+New line.949572 phases = 3 bus1 = 643974 bus2 = 643953 
+~ length = 33.376 units = m 
+~ linecode = CAB102_3_3
+
+New line.949593 phases = 3 bus1 = 643981 bus2 = 643974 
+~ length = 37.335 units = m 
+~ linecode = CAB102_3_3
+
+New line.949600 phases = 3 bus1 = 643988 bus2 = 643981 
+~ length = 31.144 units = m 
+~ linecode = CAB102_3_3
+
+New line.949607 phases = 3 bus1 = 643995 bus2 = 643988 
+~ length = 35.013 units = m 
+~ linecode = CAB102_3_3
+
+New line.949614 phases = 3 bus1 = 643995 bus2 = 644093 
+~ length = 37.107 units = m 
+~ linecode = CAB102_3_1
+
+New line.949621 phases = 3 bus1 = 644002 bus2 = 643995 
+~ length = 28.635 units = m 
+~ linecode = CAB102_3_3
+
+New line.949628 phases = 3 bus1 = 644009 bus2 = 644002 
+~ length = 32.557 units = m 
+~ linecode = CAB102_3_3
+
+New line.949635 phases = 3 bus1 = 644016 bus2 = 644009 
+~ length = 34.712 units = m 
+~ linecode = CAB102_3_3
+
+New line.949649 phases = 3 bus1 = 644023 bus2 = 644016 
+~ length = 34.524 units = m 
+~ linecode = CAB102_3_3
+
+New line.949726 phases = 3 bus1 = 644086 bus2 = 644079 
+~ length = 26.305 units = m 
+~ linecode = CAB102_3_1
+
+New line.949754 phases = 3 bus1 = 644093 bus2 = 644114 
+~ length = 28.861 units = m 
+~ linecode = CAB102_3_1
+
+New line.949810 phases = 3 bus1 = 644114 bus2 = 644086 
+~ length = 7.616 units = m 
+~ linecode = CAB102_3_1
+
+New line.949817 phases = 3 bus1 = 644114 bus2 = 644121 
+~ length = 35.902 units = m 
+~ linecode = CAB102_3_1
+
+New line.949831 phases = 3 bus1 = 644121 bus2 = 644128 
+~ length = 30.805 units = m 
+~ linecode = CAB102_3_1
+
+New line.949845 phases = 3 bus1 = 644128 bus2 = 644590 
+~ length = 35.692 units = m 
+~ linecode = CAB102_3_1
+
+New line.949894 phases = 3 bus1 = 644156 bus2 = 644149 
+~ length = 60.727 units = m 
+~ linecode = CAB103_3_3
+
+New line.949908 phases = 3 bus1 = 644163 bus2 = 644156 
+~ length = 63.243 units = m 
+~ linecode = CAB103_3_3
+
+New line.949922 phases = 3 bus1 = 644170 bus2 = 644177 
+~ length = 42.519 units = m 
+~ linecode = CAB102_3_3
+
+New line.949943 phases = 3 bus1 = 644177 bus2 = 643715 
+~ length = 68.247 units = m 
+~ linecode = CAB102_3_3
+
+New line.949950 phases = 3 bus1 = 644177 bus2 = 644184 
+~ length = 31.256 units = m 
+~ linecode = CAB102_3_3
+
+New line.949957 phases = 3 bus1 = 644184 bus2 = 644191 
+~ length = 29.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.949971 phases = 3 bus1 = 644191 bus2 = 644198 
+~ length = 35.127 units = m 
+~ linecode = CAB103_3_3
+
+New line.949978 phases = 3 bus1 = 644198 bus2 = 644205 
+~ length = 33.105 units = m 
+~ linecode = CAB103_3_3
+
+New line.950090 phases = 3 bus1 = 644268 bus2 = 644261 
+~ length = 36.999 units = m 
+~ linecode = CAB102_3_1
+
+New line.950118 phases = 3 bus1 = 644275 bus2 = 644268 
+~ length = 38.052 units = m 
+~ linecode = CAB102_3_1
+
+New line.950132 phases = 3 bus1 = 644282 bus2 = 644275 
+~ length = 36.055 units = m 
+~ linecode = CAB102_3_1
+
+New line.950146 phases = 3 bus1 = 644289 bus2 = 644282 
+~ length = 34.014 units = m 
+~ linecode = CAB102_3_1
+
+New line.950160 phases = 3 bus1 = 644303 bus2 = 643827 
+~ length = 37.335 units = m 
+~ linecode = CAB104_3_3
+
+New line.950181 phases = 3 bus1 = 644310 bus2 = 644303 
+~ length = 18.111 units = m 
+~ linecode = CAB104_3_3
+
+New line.950237 phases = 3 bus1 = 644338 bus2 = 644310 
+~ length = 20.248 units = m 
+~ linecode = CAB104_3_3
+
+New line.950244 phases = 3 bus1 = 644338 bus2 = 644723 
+~ length = 38.287 units = m 
+~ linecode = CAB103_3_3
+
+New line.950279 phases = 3 bus1 = 644352 bus2 = 644338 
+~ length = 11.18 units = m 
+~ linecode = CAB104_3_3
+
+New line.950300 phases = 3 bus1 = 644366 bus2 = 644352 
+~ length = 21.931 units = m 
+~ linecode = CAB104_3_3
+
+New line.950314 phases = 3 bus1 = 644373 bus2 = 644366 
+~ length = 33.615 units = m 
+~ linecode = CAB104_3_3
+
+New line.950321 phases = 3 bus1 = 644373 bus2 = 644485 
+~ length = 18.385 units = m 
+~ linecode = CAB102_3_3
+
+New line.950335 phases = 3 bus1 = 644380 bus2 = 644373 
+~ length = 36.714 units = m 
+~ linecode = CAB107_3_3
+
+New line.950349 phases = 3 bus1 = 644387 bus2 = 644380 
+~ length = 38.078 units = m 
+~ linecode = CAB107_3_3
+
+New line.950370 phases = 3 bus1 = 644394 bus2 = 644387 
+~ length = 25.019 units = m 
+~ linecode = CAB107_3_3
+
+New line.950391 phases = 3 bus1 = 644401 bus2 = 644394 
+~ length = 17 units = m 
+~ linecode = CAB107_3_3
+
+New line.950398 phases = 3 bus1 = 644401 bus2 = 645402 
+~ length = 32.756 units = m 
+~ linecode = CAB107_3_3
+
+New line.950419 phases = 3 bus1 = 644408 bus2 = 3537144 
+~ length = 27.513 units = m 
+~ linecode = CABA08_3_3
+
+New line.950433 phases = 3 bus1 = 644415 bus2 = 644408 
+~ length = 29.41 units = m 
+~ linecode = CABA08_3_3
+
+New line.950552 phases = 3 bus1 = 644485 bus2 = 3536857 
+~ length = 6.325 units = m 
+~ linecode = CAB102_3_3
+
+New line.950671 phases = 3 bus1 = 644590 bus2 = 644604 
+~ length = 34.712 units = m 
+~ linecode = CAB102_3_1
+
+New line.950685 phases = 3 bus1 = 644604 bus2 = 644618 
+~ length = 34.712 units = m 
+~ linecode = CAB102_3_1
+
+New line.950706 phases = 3 bus1 = 644618 bus2 = 644646 
+~ length = 31.4 units = m 
+~ linecode = CAB102_3_1
+
+New line.950741 phases = 3 bus1 = 644646 bus2 = 644653 
+~ length = 32.572 units = m 
+~ linecode = CAB102_3_1
+
+New line.950762 phases = 3 bus1 = 644653 bus2 = 644667 
+~ length = 31.048 units = m 
+~ linecode = CAB102_3_1
+
+New line.950895 phases = 3 bus1 = 644716 bus2 = 643932 
+~ length = 39.811 units = m 
+~ linecode = CAB102_3_3
+
+New line.950930 phases = 3 bus1 = 644723 bus2 = 644737 
+~ length = 44.821 units = m 
+~ linecode = CAB103_3_3
+
+New line.950937 phases = 3 bus1 = 644730 bus2 = 644023 
+~ length = 33.955 units = m 
+~ linecode = CAB102_3_3
+
+New line.950944 phases = 3 bus1 = 644737 bus2 = 644716 
+~ length = 40.791 units = m 
+~ linecode = CAB102_3_3
+
+New line.950951 phases = 3 bus1 = 644737 bus2 = 644751 
+~ length = 33.97 units = m 
+~ linecode = CAB103_3_3
+
+New line.950958 phases = 3 bus1 = 644744 bus2 = 644730 
+~ length = 35.902 units = m 
+~ linecode = CAB102_3_3
+
+New line.950965 phases = 3 bus1 = 644751 bus2 = 644758 
+~ length = 34.712 units = m 
+~ linecode = CAB103_3_3
+
+New line.950972 phases = 3 bus1 = 644758 bus2 = 644744 
+~ length = 32.893 units = m 
+~ linecode = CAB102_3_3
+
+New line.950979 phases = 3 bus1 = 644758 bus2 = 644765 
+~ length = 37.335 units = m 
+~ linecode = CAB103_3_3
+
+New line.950993 phases = 3 bus1 = 644765 bus2 = 644772 
+~ length = 38.274 units = m 
+~ linecode = CAB103_3_3
+
+New line.951007 phases = 3 bus1 = 644772 bus2 = 644779 
+~ length = 25.999 units = m 
+~ linecode = CAB103_3_3
+
+New line.951021 phases = 3 bus1 = 644779 bus2 = 644786 
+~ length = 34.234 units = m 
+~ linecode = CAB103_3_3
+
+New line.951028 phases = 3 bus1 = 644786 bus2 = 644793 
+~ length = 34.234 units = m 
+~ linecode = CAB103_3_3
+
+New line.951056 phases = 3 bus1 = 644807 bus2 = 644289 
+~ length = 29.017 units = m 
+~ linecode = CAB102_3_1
+
+New line.951091 phases = 3 bus1 = 644821 bus2 = 644807 
+~ length = 40.049 units = m 
+~ linecode = CAB102_3_1
+
+New line.951119 phases = 3 bus1 = 644863 bus2 = 644821 
+~ length = 36.054 units = m 
+~ linecode = CAB102_3_1
+
+New line.951133 phases = 3 bus1 = 644870 bus2 = 644863 
+~ length = 25.999 units = m 
+~ linecode = CAB102_3_1
+
+New line.952029 phases = 3 bus1 = 645339 bus2 = 645395 
+~ length = 49.657 units = m 
+~ linecode = CAB103_3_1
+
+New line.952043 phases = 3 bus1 = 645346 bus2 = 645339 
+~ length = 24.207 units = m 
+~ linecode = CAB103_3_1
+
+New line.952057 phases = 3 bus1 = 645353 bus2 = 645346 
+~ length = 38.078 units = m 
+~ linecode = CAB103_3_1
+
+New line.952064 phases = 3 bus1 = 645360 bus2 = 645353 
+~ length = 34.131 units = m 
+~ linecode = CAB103_3_1
+
+New line.952078 phases = 3 bus1 = 645367 bus2 = 645360 
+~ length = 36.399 units = m 
+~ linecode = CAB103_3_1
+
+New line.952092 phases = 3 bus1 = 645374 bus2 = 806850 
+~ length = 55.577 units = m 
+~ linecode = CAB103_3_1
+
+New line.952113 phases = 3 bus1 = 645381 bus2 = 645374 
+~ length = 37.482 units = m 
+~ linecode = CAB103_3_1
+
+New line.952127 phases = 3 bus1 = 645388 bus2 = 645367 
+~ length = 36.399 units = m 
+~ linecode = CAB103_3_1
+
+New line.952134 phases = 3 bus1 = 645388 bus2 = 645381 
+~ length = 30.082 units = m 
+~ linecode = CAB103_3_1
+
+New line.952155 phases = 3 bus1 = 645395 bus2 = 793011 
+~ length = 32.202 units = m 
+~ linecode = CAB103_3_1
+
+New line.952183 phases = 3 bus1 = 645402 bus2 = 645409 
+~ length = 40.52 units = m 
+~ linecode = CAB107_3_3
+
+New line.952204 phases = 3 bus1 = 645409 bus2 = 645430 
+~ length = 23.086 units = m 
+~ linecode = CAB107_3_3
+
+New line.952253 phases = 3 bus1 = 645430 bus2 = 645451 
+~ length = 21.587 units = m 
+~ linecode = CAB107_3_3
+
+New line.952288 phases = 3 bus1 = 645451 bus2 = 645472 
+~ length = 24.02 units = m 
+~ linecode = CAB107_3_3
+
+New line.952316 phases = 3 bus1 = 645465 bus2 = 645563 
+~ length = 35.354 units = m 
+~ linecode = CABA08_3_3
+
+New line.952330 phases = 3 bus1 = 645472 bus2 = 645493 
+~ length = 21.54 units = m 
+~ linecode = CABA08_3_3
+
+New line.952337 phases = 3 bus1 = 645472 bus2 = 4901227 
+~ length = 37.575 units = m 
+~ linecode = CABA08_3_3
+
+New line.952351 phases = 3 bus1 = 645479 bus2 = 645465 
+~ length = 13.928 units = m 
+~ linecode = CABA08_3_3
+
+New line.952358 phases = 3 bus1 = 645486 bus2 = 645479 
+~ length = 13.892 units = m 
+~ linecode = CABA08_3_3
+
+New line.952372 phases = 3 bus1 = 645493 bus2 = 645486 
+~ length = 23.769 units = m 
+~ linecode = CABA08_3_3
+
+New line.952379 phases = 3 bus1 = 645493 bus2 = 645507 
+~ length = 22.022 units = m 
+~ linecode = CABA08_3_3
+
+New line.952442 phases = 3 bus1 = 645542 bus2 = 645556 
+~ length = 12.649 units = m 
+~ linecode = CABA08_3_3
+
+New line.952449 phases = 3 bus1 = 645549 bus2 = 645542 
+~ length = 10 units = m 
+~ linecode = CABA08_3_3
+
+New line.952456 phases = 3 bus1 = 645556 bus2 = 646319 
+~ length = 34.985 units = m 
+~ linecode = CABA08_3_3
+
+New line.952470 phases = 3 bus1 = 645563 bus2 = 645549 
+~ length = 25.079 units = m 
+~ linecode = CABA08_3_3
+
+New line.952484 phases = 3 bus1 = 645570 bus2 = 644870 
+~ length = 31.384 units = m 
+~ linecode = CAB102_3_1
+
+New line.952498 phases = 3 bus1 = 645577 bus2 = 645584 
+~ length = 53.234 units = m 
+~ linecode = CAB102_3_1
+
+New line.952505 phases = 3 bus1 = 645584 bus2 = 645570 
+~ length = 27.658 units = m 
+~ linecode = CAB102_3_1
+
+New line.952519 phases = 3 bus1 = 645591 bus2 = 645577 
+~ length = 53.449 units = m 
+~ linecode = CAB102_3_1
+
+New line.952526 phases = 3 bus1 = 645598 bus2 = 645591 
+~ length = 34.175 units = m 
+~ linecode = CAB102_3_1
+
+New line.952547 phases = 3 bus1 = 645605 bus2 = 645598 
+~ length = 42.201 units = m 
+~ linecode = CAB102_3_1
+
+New line.952568 phases = 3 bus1 = 645619 bus2 = 645605 
+~ length = 36.714 units = m 
+~ linecode = CAB102_3_1
+
+New line.952582 phases = 3 bus1 = 645626 bus2 = 645640 
+~ length = 16.643 units = m 
+~ linecode = CAB102_3_1
+
+New line.952596 phases = 3 bus1 = 645633 bus2 = 645619 
+~ length = 21.023 units = m 
+~ linecode = CAB102_3_1
+
+New line.952603 phases = 3 bus1 = 645640 bus2 = 645633 
+~ length = 19.105 units = m 
+~ linecode = CAB102_3_1
+
+New line.952792 phases = 3 bus1 = 645738 bus2 = 645731 
+~ length = 36.877 units = m 
+~ linecode = CAB103_3_3
+
+New line.952813 phases = 3 bus1 = 645745 bus2 = 645738 
+~ length = 39.622 units = m 
+~ linecode = CAB103_3_3
+
+New line.952834 phases = 3 bus1 = 645752 bus2 = 645745 
+~ length = 32.802 units = m 
+~ linecode = CAB103_3_3
+
+New line.952841 phases = 3 bus1 = 645752 bus2 = 645962 
+~ length = 31.064 units = m 
+~ linecode = CABA06_3_3
+
+New line.953009 phases = 3 bus1 = 645829 bus2 = 645822 
+~ length = 33.97 units = m 
+~ linecode = CABA06_3_3
+
+New line.953023 phases = 3 bus1 = 645836 bus2 = 645843 
+~ length = 32.526 units = m 
+~ linecode = CABA06_3_3
+
+New line.953030 phases = 3 bus1 = 645843 bus2 = 645829 
+~ length = 36.796 units = m 
+~ linecode = CABA06_3_3
+
+New line.953037 phases = 3 bus1 = 645843 bus2 = 645857 
+~ length = 29.731 units = m 
+~ linecode = CABA06_3_3
+
+New line.953044 phases = 3 bus1 = 645850 bus2 = 645836 
+~ length = 31.827 units = m 
+~ linecode = CABA06_3_3
+
+New line.953058 phases = 3 bus1 = 645857 bus2 = 645871 
+~ length = 31.89 units = m 
+~ linecode = CABA06_3_3
+
+New line.953072 phases = 3 bus1 = 645864 bus2 = 645850 
+~ length = 41.724 units = m 
+~ linecode = CABA06_3_3
+
+New line.953086 phases = 3 bus1 = 645871 bus2 = 645920 
+~ length = 31.112 units = m 
+~ linecode = CABA06_3_3
+
+New line.953093 phases = 3 bus1 = 645878 bus2 = 645864 
+~ length = 29.731 units = m 
+~ linecode = CABA06_3_3
+
+New line.953121 phases = 3 bus1 = 645892 bus2 = 645878 
+~ length = 33.014 units = m 
+~ linecode = CABA06_3_3
+
+New line.953163 phases = 3 bus1 = 645927 bus2 = 806885 
+~ length = 9.22 units = m 
+~ linecode = CABA06_3_3
+
+New line.953177 phases = 3 bus1 = 645934 bus2 = 645927 
+~ length = 35.127 units = m 
+~ linecode = CABA06_3_3
+
+New line.953198 phases = 3 bus1 = 645941 bus2 = 645934 
+~ length = 30.066 units = m 
+~ linecode = CABA06_3_3
+
+New line.953219 phases = 3 bus1 = 645948 bus2 = 645941 
+~ length = 30.805 units = m 
+~ linecode = CABA06_3_3
+
+New line.953240 phases = 3 bus1 = 645955 bus2 = 646095 
+~ length = 14.036 units = m 
+~ linecode = CABA06_3_3
+
+New line.953261 phases = 3 bus1 = 645962 bus2 = 645948 
+~ length = 34.058 units = m 
+~ linecode = CABA06_3_3
+
+New line.953296 phases = 3 bus1 = 645969 bus2 = 645752 
+~ length = 37.482 units = m 
+~ linecode = CABA06_3_3
+
+New line.953317 phases = 3 bus1 = 645976 bus2 = 645969 
+~ length = 34.058 units = m 
+~ linecode = CABA06_3_3
+
+New line.953338 phases = 3 bus1 = 645983 bus2 = 645626 
+~ length = 30.265 units = m 
+~ linecode = CAB102_3_1
+
+New line.953352 phases = 3 bus1 = 645990 bus2 = 645983 
+~ length = 51.106 units = m 
+~ linecode = CAB102_3_1
+
+New line.953359 phases = 3 bus1 = 645990 bus2 = 3546566 
+~ length = 72.011 units = m 
+~ linecode = CAB202_3_3
+
+New line.953373 phases = 3 bus1 = 645997 bus2 = 645990 
+~ length = 44.72 units = m 
+~ linecode = CAB102_3_3
+
+New line.953387 phases = 3 bus1 = 646004 bus2 = 645997 
+~ length = 52.324 units = m 
+~ linecode = CAB102_3_3
+
+New line.953394 phases = 3 bus1 = 646011 bus2 = 646004 
+~ length = 48.465 units = m 
+~ linecode = CAB102_3_3
+
+New line.953401 phases = 3 bus1 = 646018 bus2 = 646025 
+~ length = 40.607 units = m 
+~ linecode = CAB102_3_3
+
+New line.953408 phases = 3 bus1 = 646025 bus2 = 646039 
+~ length = 31.4 units = m 
+~ linecode = CAB102_3_3
+
+New line.953415 phases = 3 bus1 = 646032 bus2 = 646011 
+~ length = 43.01 units = m 
+~ linecode = CAB102_3_3
+
+New line.953422 phases = 3 bus1 = 646039 bus2 = 646046 
+~ length = 39.458 units = m 
+~ linecode = CAB102_3_3
+
+New line.953429 phases = 3 bus1 = 646046 bus2 = 646053 
+~ length = 29.068 units = m 
+~ linecode = CAB102_3_3
+
+New line.953436 phases = 3 bus1 = 646053 bus2 = 646032 
+~ length = 30.675 units = m 
+~ linecode = CAB102_3_3
+
+New line.953450 phases = 3 bus1 = 646060 bus2 = 645388 
+~ length = 27.458 units = m 
+~ linecode = CAB103_3_1
+
+New line.953471 phases = 3 bus1 = 646074 bus2 = 646060 
+~ length = 23.021 units = m 
+~ linecode = CAB103_3_1
+
+New line.953485 phases = 3 bus1 = 646081 bus2 = 646074 
+~ length = 24.738 units = m 
+~ linecode = CAB103_3_1
+
+New line.953513 phases = 3 bus1 = 646095 bus2 = 646109 
+~ length = 29.068 units = m 
+~ linecode = CABA06_3_3
+
+New line.953534 phases = 3 bus1 = 646102 bus2 = 646081 
+~ length = 23.706 units = m 
+~ linecode = CAB103_3_1
+
+New line.953555 phases = 3 bus1 = 646109 bus2 = 646123 
+~ length = 23.706 units = m 
+~ linecode = CABA06_3_3
+
+New line.953569 phases = 3 bus1 = 646123 bus2 = 646102 
+~ length = 24.999 units = m 
+~ linecode = CAB103_3_1
+
+New line.953576 phases = 3 bus1 = 646123 bus2 = 646137 
+~ length = 35.383 units = m 
+~ linecode = CABA06_3_3
+
+New line.953583 phases = 3 bus1 = 646123 bus2 = 646557 
+~ length = 41.011 units = m 
+~ linecode = CAB102_3_3
+
+New line.953632 phases = 3 bus1 = 646137 bus2 = 646144 
+~ length = 20.518 units = m 
+~ linecode = CABA06_3_3
+
+New line.953646 phases = 3 bus1 = 646144 bus2 = 646172 
+~ length = 22.671 units = m 
+~ linecode = CABA06_3_3
+
+New line.953667 phases = 3 bus1 = 646151 bus2 = 646158 
+~ length = 55.143 units = m 
+~ linecode = CABA06_3_3
+
+New line.953674 phases = 3 bus1 = 646151 bus2 = 646214 
+~ length = 22.36 units = m 
+~ linecode = CAB102_3_3
+
+New line.953695 phases = 3 bus1 = 646158 bus2 = 3541862 
+~ length = 37.012 units = m 
+~ linecode = CABA06_3_3
+
+New line.953709 phases = 3 bus1 = 646165 bus2 = 646151 
+~ length = 20.518 units = m 
+~ linecode = CABA06_3_3
+
+New line.953723 phases = 3 bus1 = 646172 bus2 = 646165 
+~ length = 17.692 units = m 
+~ linecode = CABA06_3_3
+
+New line.953786 phases = 3 bus1 = 646214 bus2 = 646221 
+~ length = 23.537 units = m 
+~ linecode = CAB102_3_3
+
+New line.953793 phases = 3 bus1 = 646221 bus2 = 647467 
+~ length = 32.202 units = m 
+~ linecode = CAB102_3_3
+
+New line.953982 phases = 3 bus1 = 646319 bus2 = 646326 
+~ length = 29.681 units = m 
+~ linecode = CABA08_3_3
+
+New line.953996 phases = 3 bus1 = 646326 bus2 = 646340 
+~ length = 33.014 units = m 
+~ linecode = CAB107_3_3
+
+New line.954024 phases = 3 bus1 = 646340 bus2 = 646347 
+~ length = 36.124 units = m 
+~ linecode = CAB107_3_3
+
+New line.954038 phases = 3 bus1 = 646347 bus2 = 646354 
+~ length = 33.135 units = m 
+~ linecode = CAB107_3_3
+
+New line.954066 phases = 3 bus1 = 646354 bus2 = 646361 
+~ length = 33.06 units = m 
+~ linecode = CAB107_3_3
+
+New line.954073 phases = 3 bus1 = 646361 bus2 = 646368 
+~ length = 34.233 units = m 
+~ linecode = CAB107_3_3
+
+New line.954087 phases = 3 bus1 = 646368 bus2 = 646375 
+~ length = 33.014 units = m 
+~ linecode = CAB107_3_3
+
+New line.954101 phases = 3 bus1 = 646375 bus2 = 646382 
+~ length = 31.064 units = m 
+~ linecode = CAB107_3_3
+
+New line.954122 phases = 3 bus1 = 646382 bus2 = 646389 
+~ length = 30.016 units = m 
+~ linecode = CAB107_3_3
+
+New line.954136 phases = 3 bus1 = 646389 bus2 = 646396 
+~ length = 27.458 units = m 
+~ linecode = CAB107_3_3
+
+New line.954157 phases = 3 bus1 = 646396 bus2 = 646403 
+~ length = 30.462 units = m 
+~ linecode = CAB102_3_3
+
+New line.954178 phases = 3 bus1 = 646403 bus2 = 646550 
+~ length = 30.462 units = m 
+~ linecode = CAB102_3_3
+
+New line.954213 phases = 3 bus1 = 646431 bus2 = 646424 
+~ length = 34.175 units = m 
+~ linecode = CABA06_3_3
+
+New line.954220 phases = 3 bus1 = 646438 bus2 = 646431 
+~ length = 32.31 units = m 
+~ linecode = CABA06_3_3
+
+New line.954234 phases = 3 bus1 = 646445 bus2 = 646438 
+~ length = 33.105 units = m 
+~ linecode = CAB102_3_3
+
+New line.954241 phases = 3 bus1 = 646452 bus2 = 646445 
+~ length = 32.248 units = m 
+~ linecode = CAB102_3_3
+
+New line.954255 phases = 3 bus1 = 646459 bus2 = 646452 
+~ length = 36.714 units = m 
+~ linecode = CAB102_3_3
+
+New line.954269 phases = 3 bus1 = 646466 bus2 = 646459 
+~ length = 35.902 units = m 
+~ linecode = CAB102_3_3
+
+New line.954402 phases = 3 bus1 = 646529 bus2 = 646522 
+~ length = 33.06 units = m 
+~ linecode = CAB102_3_3
+
+New line.954409 phases = 3 bus1 = 646536 bus2 = 646529 
+~ length = 37.053 units = m 
+~ linecode = CAB102_3_3
+
+New line.954416 phases = 3 bus1 = 646543 bus2 = 646536 
+~ length = 34.058 units = m 
+~ linecode = CAB102_3_3
+
+New line.954423 phases = 3 bus1 = 646550 bus2 = 646543 
+~ length = 7.211 units = m 
+~ linecode = CAB102_3_3
+
+New line.954437 phases = 3 bus1 = 646557 bus2 = 646578 
+~ length = 41.108 units = m 
+~ linecode = CAB102_3_3
+
+New line.954479 phases = 3 bus1 = 646578 bus2 = 646606 
+~ length = 41.868 units = m 
+~ linecode = CAB102_3_3
+
+New line.954521 phases = 3 bus1 = 646606 bus2 = 646613 
+~ length = 31.89 units = m 
+~ linecode = CAB102_3_3
+
+New line.954542 phases = 3 bus1 = 646613 bus2 = 646620 
+~ length = 24.207 units = m 
+~ linecode = CAB102_3_3
+
+New line.954549 phases = 3 bus1 = 646620 bus2 = 646627 
+~ length = 29.274 units = m 
+~ linecode = CAB103_3_3
+
+New line.954556 phases = 3 bus1 = 646627 bus2 = 647684 
+~ length = 29.274 units = m 
+~ linecode = CAB103_3_3
+
+New line.954584 phases = 3 bus1 = 646648 bus2 = 645976 
+~ length = 35.467 units = m 
+~ linecode = CABA06_3_3
+
+New line.954598 phases = 3 bus1 = 646655 bus2 = 646648 
+~ length = 36.124 units = m 
+~ linecode = CABA06_3_3
+
+New line.954612 phases = 3 bus1 = 646662 bus2 = 646655 
+~ length = 36.399 units = m 
+~ linecode = CABA06_3_3
+
+New line.954626 phases = 3 bus1 = 646669 bus2 = 646662 
+~ length = 35.467 units = m 
+~ linecode = CABA06_3_3
+
+New line.954640 phases = 3 bus1 = 646676 bus2 = 646690 
+~ length = 41.108 units = m 
+~ linecode = CAB102_3_3
+
+New line.954654 phases = 3 bus1 = 646690 bus2 = 646697 
+~ length = 34.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.954668 phases = 3 bus1 = 646697 bus2 = 646683 
+~ length = 32.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.954682 phases = 3 bus1 = 646704 bus2 = 646718 
+~ length = 42.295 units = m 
+~ linecode = CAB102_3_3
+
+New line.954696 phases = 3 bus1 = 646711 bus2 = 647355 
+~ length = 43.565 units = m 
+~ linecode = CAB102_3_3
+
+New line.954710 phases = 3 bus1 = 646718 bus2 = 646711 
+~ length = 22.803 units = m 
+~ linecode = CAB102_3_3
+
+New line.955697 phases = 3 bus1 = 647341 bus2 = 646466 
+~ length = 38.209 units = m 
+~ linecode = CAB102_3_3
+
+New line.955711 phases = 3 bus1 = 647348 bus2 = 647341 
+~ length = 27.658 units = m 
+~ linecode = CAB102_3_3
+
+New line.955732 phases = 3 bus1 = 647355 bus2 = 647362 
+~ length = 31.064 units = m 
+~ linecode = CAB102_3_3
+
+New line.955753 phases = 3 bus1 = 647362 bus2 = 647369 
+~ length = 36.124 units = m 
+~ linecode = CAB102_3_3
+
+New line.955788 phases = 3 bus1 = 647369 bus2 = 647348 
+~ length = 39.622 units = m 
+~ linecode = CAB102_3_3
+
+New line.955823 phases = 3 bus1 = 647383 bus2 = 808950 
+~ length = 36.124 units = m 
+~ linecode = CAB103_3_3
+
+New line.955844 phases = 3 bus1 = 647397 bus2 = 647383 
+~ length = 37.801 units = m 
+~ linecode = CAB103_3_3
+
+New line.955851 phases = 3 bus1 = 647404 bus2 = 647397 
+~ length = 31.827 units = m 
+~ linecode = CAB103_3_3
+
+New line.955858 phases = 3 bus1 = 647411 bus2 = 646669 
+~ length = 34.058 units = m 
+~ linecode = CABA06_3_3
+
+New line.955865 phases = 3 bus1 = 647418 bus2 = 647404 
+~ length = 39.698 units = m 
+~ linecode = CAB103_3_3
+
+New line.955872 phases = 3 bus1 = 647418 bus2 = 647411 
+~ length = 27.802 units = m 
+~ linecode = CABA06_3_3
+
+New line.955900 phases = 3 bus1 = 647425 bus2 = 5023678 
+~ length = 48.763 units = m 
+~ linecode = CAB103_3_3
+
+New line.955914 phases = 3 bus1 = 647432 bus2 = 647425 
+~ length = 33.421 units = m 
+~ linecode = CABA06_3_3
+
+New line.955928 phases = 3 bus1 = 647439 bus2 = 647432 
+~ length = 30.805 units = m 
+~ linecode = CABA06_3_3
+
+New line.955949 phases = 3 bus1 = 647446 bus2 = 647439 
+~ length = 35.846 units = m 
+~ linecode = CABA06_3_3
+
+New line.955977 phases = 3 bus1 = 647453 bus2 = 647817 
+~ length = 38.418 units = m 
+~ linecode = CAB103_3_3
+
+New line.955984 phases = 3 bus1 = 647453 bus2 = 5023678 
+~ length = 24.083 units = m 
+~ linecode = CAB103_3_3
+
+New line.956005 phases = 3 bus1 = 647467 bus2 = 647474 
+~ length = 28.017 units = m 
+~ linecode = CAB102_3_3
+
+New line.956026 phases = 3 bus1 = 647474 bus2 = 647481 
+~ length = 41.047 units = m 
+~ linecode = CAB102_3_3
+
+New line.956509 phases = 3 bus1 = 647684 bus2 = 647691 
+~ length = 32.387 units = m 
+~ linecode = CAB103_3_3
+
+New line.956530 phases = 3 bus1 = 647691 bus2 = 647698 
+~ length = 39.458 units = m 
+~ linecode = CAB103_3_3
+
+New line.956663 phases = 3 bus1 = 647817 bus2 = 647824 
+~ length = 17 units = m 
+~ linecode = CAB103_3_3
+
+New line.956677 phases = 3 bus1 = 647824 bus2 = 647838 
+~ length = 36.234 units = m 
+~ linecode = CAB103_3_3
+
+New line.956691 phases = 3 bus1 = 647838 bus2 = 647831 
+~ length = 31.24 units = m 
+~ linecode = CAB103_3_3
+
+New line.956698 phases = 3 bus1 = 647838 bus2 = 647852 
+~ length = 34.712 units = m 
+~ linecode = CAB103_3_1
+
+New line.956712 phases = 3 bus1 = 647852 bus2 = 647859 
+~ length = 36.877 units = m 
+~ linecode = CAB102_3_1
+
+New line.956726 phases = 3 bus1 = 647859 bus2 = 648440 
+~ length = 34.827 units = m 
+~ linecode = CAB102_3_1
+
+New line.957524 phases = 3 bus1 = 648286 bus2 = 647446 
+~ length = 43.415 units = m 
+~ linecode = CABA06_3_3
+
+New line.957531 phases = 3 bus1 = 648286 bus2 = 648272 
+~ length = 35.846 units = m 
+~ linecode = CAB103_3_1
+
+New line.957552 phases = 3 bus1 = 648293 bus2 = 648286 
+~ length = 26.925 units = m 
+~ linecode = CABA06_3_3
+
+New line.957594 phases = 3 bus1 = 648307 bus2 = 648293 
+~ length = 33.999 units = m 
+~ linecode = CABA06_3_3
+
+New line.957685 phases = 3 bus1 = 648349 bus2 = 648342 
+~ length = 27.073 units = m 
+~ linecode = CAB103_3_3
+
+New line.957706 phases = 3 bus1 = 648356 bus2 = 648349 
+~ length = 27.202 units = m 
+~ linecode = CAB103_3_3
+
+New line.957727 phases = 3 bus1 = 648363 bus2 = 648356 
+~ length = 30.886 units = m 
+~ linecode = CAB103_3_3
+
+New line.957748 phases = 3 bus1 = 648370 bus2 = 648839 
+~ length = 31.622 units = m 
+~ linecode = CABA06_3_3
+
+New line.957755 phases = 3 bus1 = 648370 bus2 = 2291620 
+~ length = 15.524 units = m 
+~ linecode = CABA06_3_3
+
+New line.957825 phases = 3 bus1 = 648440 bus2 = 648419 
+~ length = 40.36 units = m 
+~ linecode = CAB103_3_1
+
+New line.957832 phases = 3 bus1 = 648440 bus2 = 648461 
+~ length = 36.124 units = m 
+~ linecode = CAB102_3_1
+
+New line.957874 phases = 3 bus1 = 648461 bus2 = 649707 
+~ length = 34.058 units = m 
+~ linecode = CAB102_3_1
+
+New line.958385 phases = 3 bus1 = 648741 bus2 = 648307 
+~ length = 30.87 units = m 
+~ linecode = CABA06_3_3
+
+New line.958574 phases = 3 bus1 = 648811 bus2 = 648370 
+~ length = 33.12 units = m 
+~ linecode = CABA08_3_3
+
+New line.958616 phases = 3 bus1 = 648832 bus2 = 648741 
+~ length = 34.927 units = m 
+~ linecode = CABA06_3_3
+
+New line.958630 phases = 3 bus1 = 648839 bus2 = 648832 
+~ length = 36.248 units = m 
+~ linecode = CABA06_3_3
+
+New line.958791 phases = 3 bus1 = 648951 bus2 = 648944 
+~ length = 31.952 units = m 
+~ linecode = CAB103_3_3
+
+New line.958826 phases = 3 bus1 = 648972 bus2 = 648951 
+~ length = 38.625 units = m 
+~ linecode = CAB103_3_3
+
+New line.958840 phases = 3 bus1 = 648979 bus2 = 648972 
+~ length = 34.927 units = m 
+~ linecode = CAB103_3_3
+
+New line.959008 phases = 3 bus1 = 649084 bus2 = 649609 
+~ length = 28.46 units = m 
+~ linecode = CABA08_3_3
+
+New line.959155 phases = 3 bus1 = 649210 bus2 = 649217 
+~ length = 21.931 units = m 
+~ linecode = CAB103_3_3
+
+New line.959162 phases = 3 bus1 = 649217 bus2 = 649224 
+~ length = 32.695 units = m 
+~ linecode = CAB103_3_3
+
+New line.959204 phases = 3 bus1 = 649245 bus2 = 649252 
+~ length = 34.999 units = m 
+~ linecode = CAB107_3_3
+
+New line.959218 phases = 3 bus1 = 649252 bus2 = 649259 
+~ length = 28.284 units = m 
+~ linecode = CAB107_3_3
+
+New line.959246 phases = 3 bus1 = 649259 bus2 = 649266 
+~ length = 25.019 units = m 
+~ linecode = CAB107_3_3
+
+New line.959260 phases = 3 bus1 = 649266 bus2 = 649273 
+~ length = 24.999 units = m 
+~ linecode = CAB107_3_3
+
+New line.959274 phases = 3 bus1 = 649273 bus2 = 649294 
+~ length = 27.073 units = m 
+~ linecode = CAB107_3_3
+
+New line.959295 phases = 3 bus1 = 649294 bus2 = 649210 
+~ length = 25.709 units = m 
+~ linecode = CAB103_3_3
+
+New line.959302 phases = 3 bus1 = 649294 bus2 = 649301 
+~ length = 31.015 units = m 
+~ linecode = CAB107_3_3
+
+New line.959309 phases = 3 bus1 = 649301 bus2 = 649322 
+~ length = 28.999 units = m 
+~ linecode = CAB107_3_3
+
+New line.959330 phases = 3 bus1 = 649308 bus2 = 648979 
+~ length = 29.546 units = m 
+~ linecode = CAB103_3_3
+
+New line.959337 phases = 3 bus1 = 649315 bus2 = 649308 
+~ length = 32.695 units = m 
+~ linecode = CAB103_3_3
+
+New line.959344 phases = 3 bus1 = 649322 bus2 = 649329 
+~ length = 7.071 units = m 
+~ linecode = CAB103_3_3
+
+New line.959351 phases = 3 bus1 = 649322 bus2 = 649336 
+~ length = 26.999 units = m 
+~ linecode = CAB107_3_3
+
+New line.959365 phases = 3 bus1 = 649329 bus2 = 649315 
+~ length = 33.241 units = m 
+~ linecode = CAB103_3_3
+
+New line.959379 phases = 3 bus1 = 649336 bus2 = 650106 
+~ length = 24.999 units = m 
+~ linecode = CAB107_3_3
+
+New line.959694 phases = 3 bus1 = 649518 bus2 = 649581 
+~ length = 9 units = m 
+~ linecode = CABA08_3_3
+
+New line.959715 phases = 3 bus1 = 649525 bus2 = 649518 
+~ length = 11.402 units = m 
+~ linecode = CABA08_3_3
+
+New line.959722 phases = 3 bus1 = 649532 bus2 = 649525 
+~ length = 40.161 units = m 
+~ linecode = CABA08_3_3
+
+New line.959736 phases = 3 bus1 = 649539 bus2 = 649532 
+~ length = 36.999 units = m 
+~ linecode = CABA08_3_3
+
+New line.959750 phases = 3 bus1 = 649546 bus2 = 649539 
+~ length = 38.896 units = m 
+~ linecode = CABA08_3_3
+
+New line.959778 phases = 3 bus1 = 649553 bus2 = 649546 
+~ length = 40.161 units = m 
+~ linecode = CABA08_3_3
+
+New line.959799 phases = 3 bus1 = 649560 bus2 = 649553 
+~ length = 40.496 units = m 
+~ linecode = CABA08_3_3
+
+New line.959813 phases = 3 bus1 = 649567 bus2 = 649560 
+~ length = 33.837 units = m 
+~ linecode = CABA08_3_3
+
+New line.959827 phases = 3 bus1 = 649574 bus2 = 649567 
+~ length = 28.46 units = m 
+~ linecode = CABA08_3_3
+
+New line.959834 phases = 3 bus1 = 649574 bus2 = 650897 
+~ length = 30.364 units = m 
+~ linecode = CAB102_3_1
+
+New line.959855 phases = 3 bus1 = 649581 bus2 = 649588 
+~ length = 24.698 units = m 
+~ linecode = CABA08_3_3
+
+New line.959876 phases = 3 bus1 = 649588 bus2 = 649595 
+~ length = 22.825 units = m 
+~ linecode = CABA08_3_3
+
+New line.959897 phases = 3 bus1 = 649595 bus2 = 649602 
+~ length = 31.764 units = m 
+~ linecode = CABA08_3_3
+
+New line.959911 phases = 3 bus1 = 649602 bus2 = 649084 
+~ length = 30.886 units = m 
+~ linecode = CABA08_3_3
+
+New line.959932 phases = 3 bus1 = 649609 bus2 = 649616 
+~ length = 27.458 units = m 
+~ linecode = CABA08_3_3
+
+New line.959953 phases = 3 bus1 = 649616 bus2 = 649623 
+~ length = 28.442 units = m 
+~ linecode = CABA08_3_3
+
+New line.959981 phases = 3 bus1 = 649623 bus2 = 649630 
+~ length = 31.144 units = m 
+~ linecode = CABA08_3_3
+
+New line.960002 phases = 3 bus1 = 649630 bus2 = 649637 
+~ length = 30.066 units = m 
+~ linecode = CABA08_3_3
+
+New line.960016 phases = 3 bus1 = 649637 bus2 = 649644 
+~ length = 30.066 units = m 
+~ linecode = CABA08_3_3
+
+New line.960023 phases = 3 bus1 = 649637 bus2 = 4778062 
+~ length = 20.025 units = m 
+~ linecode = CAB902_4_3
+
+New line.960030 phases = 3 bus1 = 649644 bus2 = 648811 
+~ length = 16.643 units = m 
+~ linecode = CABA08_3_3
+
+New line.960100 phases = 3 bus1 = 649707 bus2 = 649714 
+~ length = 34.204 units = m 
+~ linecode = CAB102_3_1
+
+New line.960107 phases = 3 bus1 = 649714 bus2 = 649721 
+~ length = 34.131 units = m 
+~ linecode = CAB102_3_1
+
+New line.960149 phases = 3 bus1 = 649721 bus2 = 649728 
+~ length = 28.301 units = m 
+~ linecode = CAB102_3_1
+
+New line.960177 phases = 3 bus1 = 649728 bus2 = 6218452 
+~ length = 7.616 units = m 
+~ linecode = CAB102_3_1
+
+New line.960331 phases = 3 bus1 = 649840 bus2 = 649833 
+~ length = 25.494 units = m 
+~ linecode = CAB102_3_3
+
+New line.960359 phases = 3 bus1 = 649854 bus2 = 649840 
+~ length = 27.294 units = m 
+~ linecode = CAB102_3_3
+
+New line.960373 phases = 3 bus1 = 649861 bus2 = 649854 
+~ length = 8.246 units = m 
+~ linecode = CAB102_3_3
+
+New line.960709 phases = 3 bus1 = 650106 bus2 = 650141 
+~ length = 29.016 units = m 
+~ linecode = CAB107_3_3
+
+New line.960744 phases = 3 bus1 = 650141 bus2 = 649861 
+~ length = 12.165 units = m 
+~ linecode = CAB103_3_3
+
+New line.960751 phases = 3 bus1 = 650141 bus2 = 650162 
+~ length = 18.601 units = m 
+~ linecode = CAB107_3_3
+
+New line.960758 phases = 3 bus1 = 650141 bus2 = 650183 
+~ length = 25.019 units = m 
+~ linecode = CAB107_3_3
+
+New line.960793 phases = 3 bus1 = 650162 bus2 = 650176 
+~ length = 24.186 units = m 
+~ linecode = CABA06_3_3
+
+New line.960814 phases = 3 bus1 = 650176 bus2 = 650197 
+~ length = 26.832 units = m 
+~ linecode = CABA06_3_3
+
+New line.960821 phases = 3 bus1 = 650183 bus2 = 651114 
+~ length = 25.019 units = m 
+~ linecode = CAB107_3_3
+
+New line.960828 phases = 3 bus1 = 650190 bus2 = 650169 
+~ length = 34.927 units = m 
+~ linecode = CAB102_3_3
+
+New line.960842 phases = 3 bus1 = 650197 bus2 = 650204 
+~ length = 25.494 units = m 
+~ linecode = CABA06_3_3
+
+New line.960856 phases = 3 bus1 = 650204 bus2 = 650190 
+~ length = 34.539 units = m 
+~ linecode = CAB102_3_3
+
+New line.960863 phases = 3 bus1 = 650204 bus2 = 650428 
+~ length = 23.259 units = m 
+~ linecode = CAB102_3_3
+
+New line.961164 phases = 3 bus1 = 650421 bus2 = 650414 
+~ length = 28.017 units = m 
+~ linecode = CAB103_3_3
+
+New line.961171 phases = 3 bus1 = 650428 bus2 = 650442 
+~ length = 27.018 units = m 
+~ linecode = CAB102_3_3
+
+New line.961192 phases = 3 bus1 = 650435 bus2 = 650421 
+~ length = 30.232 units = m 
+~ linecode = CAB102_3_3
+
+New line.961206 phases = 3 bus1 = 650442 bus2 = 650456 
+~ length = 26.248 units = m 
+~ linecode = CAB102_3_3
+
+New line.961227 phases = 3 bus1 = 650449 bus2 = 650435 
+~ length = 29.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.961248 phases = 3 bus1 = 650456 bus2 = 650463 
+~ length = 27.585 units = m 
+~ linecode = CAB102_3_3
+
+New line.961262 phases = 3 bus1 = 650463 bus2 = 650449 
+~ length = 29.154 units = m 
+~ linecode = CAB102_3_3
+
+New line.962137 phases = 3 bus1 = 650897 bus2 = 650904 
+~ length = 31.78 units = m 
+~ linecode = CAB102_3_1
+
+New line.962151 phases = 3 bus1 = 650904 bus2 = 807312 
+~ length = 38.999 units = m 
+~ linecode = CAB102_3_1
+
+New line.962165 phases = 3 bus1 = 650918 bus2 = 649574 
+~ length = 21.931 units = m 
+~ linecode = CABA08_3_3
+
+New line.962172 phases = 3 bus1 = 650925 bus2 = 650918 
+~ length = 22.847 units = m 
+~ linecode = CABA08_3_3
+
+New line.962179 phases = 3 bus1 = 650939 bus2 = 650925 
+~ length = 26.925 units = m 
+~ linecode = CABA08_3_3
+
+New line.962403 phases = 3 bus1 = 651114 bus2 = 651121 
+~ length = 24.02 units = m 
+~ linecode = CAB107_3_3
+
+New line.962424 phases = 3 bus1 = 651121 bus2 = 651128 
+~ length = 29.068 units = m 
+~ linecode = CAB107_3_3
+
+New line.962438 phases = 3 bus1 = 651128 bus2 = 651135 
+~ length = 28.652 units = m 
+~ linecode = CABA08_3_3
+
+New line.962445 phases = 3 bus1 = 651128 bus2 = 651142 
+~ length = 33.733 units = m 
+~ linecode = CAB107_3_3
+
+New line.962459 phases = 3 bus1 = 651135 bus2 = 651149 
+~ length = 31.304 units = m 
+~ linecode = CABA08_3_3
+
+New line.962480 phases = 3 bus1 = 651142 bus2 = 651163 
+~ length = 33.525 units = m 
+~ linecode = CAB107_3_3
+
+New line.962494 phases = 3 bus1 = 651149 bus2 = 652052 
+~ length = 19.235 units = m 
+~ linecode = CABA08_3_3
+
+New line.962515 phases = 3 bus1 = 651163 bus2 = 651212 
+~ length = 32.572 units = m 
+~ linecode = CAB107_3_3
+
+New line.962578 phases = 3 bus1 = 651212 bus2 = 652766 
+~ length = 25.298 units = m 
+~ linecode = CAB107_3_3
+
+New line.963894 phases = 3 bus1 = 652052 bus2 = 652066 
+~ length = 21.47 units = m 
+~ linecode = CABA08_3_3
+
+New line.963936 phases = 3 bus1 = 652066 bus2 = 652059 
+~ length = 21.931 units = m 
+~ linecode = CABA08_3_3
+
+New line.963943 phases = 3 bus1 = 652066 bus2 = 652073 
+~ length = 21.47 units = m 
+~ linecode = CAB103_3_3
+
+New line.963957 phases = 3 bus1 = 652073 bus2 = 652080 
+~ length = 36.124 units = m 
+~ linecode = CAB102_3_3
+
+New line.964335 phases = 3 bus1 = 652311 bus2 = 652318 
+~ length = 29.832 units = m 
+~ linecode = CAB107_3_3
+
+New line.964356 phases = 3 bus1 = 652318 bus2 = 652325 
+~ length = 28.861 units = m 
+~ linecode = CAB107_3_3
+
+New line.964370 phases = 3 bus1 = 652325 bus2 = 3976058 
+~ length = 39.559 units = m 
+~ linecode = CAB107_3_3
+
+New line.964587 phases = 3 bus1 = 652458 bus2 = 652472 
+~ length = 29.068 units = m 
+~ linecode = CAB107_3_3
+
+New line.964594 phases = 3 bus1 = 652465 bus2 = 652458 
+~ length = 32.557 units = m 
+~ linecode = CAB107_3_3
+
+New line.964608 phases = 3 bus1 = 652472 bus2 = 652493 
+~ length = 33.059 units = m 
+~ linecode = CAB107_3_3
+
+New line.964622 phases = 3 bus1 = 652479 bus2 = 652465 
+~ length = 37.535 units = m 
+~ linecode = CAB107_3_3
+
+New line.964636 phases = 3 bus1 = 652486 bus2 = 652500 
+~ length = 31.827 units = m 
+~ linecode = CAB107_3_3
+
+New line.964650 phases = 3 bus1 = 652493 bus2 = 653578 
+~ length = 33.059 units = m 
+~ linecode = CAB107_3_3
+
+New line.964671 phases = 3 bus1 = 652500 bus2 = 652479 
+~ length = 32.557 units = m 
+~ linecode = CAB107_3_3
+
+New line.964678 phases = 3 bus1 = 652500 bus2 = 652507 
+~ length = 36.124 units = m 
+~ linecode = CAB103_3_3
+
+New line.964720 phases = 3 bus1 = 652521 bus2 = 652528 
+~ length = 35.227 units = m 
+~ linecode = CAB102_3_1
+
+New line.964727 phases = 3 bus1 = 652528 bus2 = 652535 
+~ length = 34.058 units = m 
+~ linecode = CAB102_3_1
+
+New line.964741 phases = 3 bus1 = 652535 bus2 = 652542 
+~ length = 33.42 units = m 
+~ linecode = CAB102_3_1
+
+New line.964769 phases = 3 bus1 = 652577 bus2 = 652598 
+~ length = 36.714 units = m 
+~ linecode = CABA08_3_3
+
+New line.964790 phases = 3 bus1 = 652584 bus2 = 652577 
+~ length = 36.358 units = m 
+~ linecode = CABA08_3_3
+
+New line.964797 phases = 3 bus1 = 652591 bus2 = 652584 
+~ length = 37.012 units = m 
+~ linecode = CABA08_3_3
+
+New line.964825 phases = 3 bus1 = 652598 bus2 = 807417 
+~ length = 34.784 units = m 
+~ linecode = CABA08_3_3
+
+New line.965105 phases = 3 bus1 = 652766 bus2 = 652787 
+~ length = 26.683 units = m 
+~ linecode = CAB107_3_3
+
+New line.965126 phases = 3 bus1 = 652780 bus2 = 652794 
+~ length = 28.442 units = m 
+~ linecode = CAB107_3_3
+
+New line.965140 phases = 3 bus1 = 652787 bus2 = 652780 
+~ length = 6.403 units = m 
+~ linecode = CAB107_3_3
+
+New line.965147 phases = 3 bus1 = 652787 bus2 = 652808 
+~ length = 25.961 units = m 
+~ linecode = CAB103_3_3
+
+New line.965168 phases = 3 bus1 = 652794 bus2 = 652311 
+~ length = 30.593 units = m 
+~ linecode = CAB107_3_3
+
+New line.965189 phases = 3 bus1 = 652808 bus2 = 652815 
+~ length = 31.32 units = m 
+~ linecode = CAB103_3_3
+
+New line.966442 phases = 3 bus1 = 653578 bus2 = 653585 
+~ length = 9.487 units = m 
+~ linecode = CAB107_3_3
+
+New line.966463 phases = 3 bus1 = 653585 bus2 = 653592 
+~ length = 28.319 units = m 
+~ linecode = CAB107_3_3
+
+New line.966477 phases = 3 bus1 = 653592 bus2 = 653599 
+~ length = 31.889 units = m 
+~ linecode = CAB107_3_3
+
+New line.966491 phases = 3 bus1 = 653599 bus2 = 653613 
+~ length = 29.731 units = m 
+~ linecode = CAB107_3_3
+
+New line.966519 phases = 3 bus1 = 653613 bus2 = 653627 
+~ length = 29.068 units = m 
+~ linecode = CAB107_3_3
+
+New line.966540 phases = 3 bus1 = 653627 bus2 = 653634 
+~ length = 32.649 units = m 
+~ linecode = CAB107_3_3
+
+New line.966547 phases = 3 bus1 = 653634 bus2 = 653641 
+~ length = 29.731 units = m 
+~ linecode = CAB107_3_3
+
+New line.966568 phases = 3 bus1 = 653641 bus2 = 653648 
+~ length = 32.526 units = m 
+~ linecode = CAB102_3_3
+
+New line.966575 phases = 3 bus1 = 653641 bus2 = 653655 
+~ length = 36.124 units = m 
+~ linecode = CAB107_3_3
+
+New line.966582 phases = 3 bus1 = 653648 bus2 = 655062 
+~ length = 35.467 units = m 
+~ linecode = CAB102_3_3
+
+New line.966603 phases = 3 bus1 = 653655 bus2 = 655300 
+~ length = 37.535 units = m 
+~ linecode = CAB107_3_3
+
+New line.968318 phases = 3 bus1 = 654649 bus2 = 652591 
+~ length = 35.467 units = m 
+~ linecode = CABA08_3_3
+
+New line.968332 phases = 3 bus1 = 654656 bus2 = 654649 
+~ length = 36.673 units = m 
+~ linecode = CABA08_3_3
+
+New line.968346 phases = 3 bus1 = 654663 bus2 = 654656 
+~ length = 34.827 units = m 
+~ linecode = CABA08_3_3
+
+New line.968374 phases = 3 bus1 = 654670 bus2 = 654663 
+~ length = 27.585 units = m 
+~ linecode = CABA08_3_3
+
+New line.968388 phases = 3 bus1 = 654677 bus2 = 654670 
+~ length = 34.927 units = m 
+~ linecode = CABA08_3_3
+
+New line.968395 phases = 3 bus1 = 654677 bus2 = 655671 
+~ length = 38.599 units = m 
+~ linecode = CAB103_3_1
+
+New line.968409 phases = 3 bus1 = 654684 bus2 = 654677 
+~ length = 27.784 units = m 
+~ linecode = CABA08_3_3
+
+New line.969228 phases = 3 bus1 = 655062 bus2 = 655076 
+~ length = 33.301 units = m 
+~ linecode = CAB102_3_3
+
+New line.969263 phases = 3 bus1 = 655076 bus2 = 655097 
+~ length = 38.287 units = m 
+~ linecode = CAB102_3_3
+
+New line.969557 phases = 3 bus1 = 655223 bus2 = 655230 
+~ length = 35.467 units = m 
+~ linecode = CAB107_3_3
+
+New line.969571 phases = 3 bus1 = 655230 bus2 = 655237 
+~ length = 31.144 units = m 
+~ linecode = CAB103_3_3
+
+New line.969578 phases = 3 bus1 = 655230 bus2 = 655244 
+~ length = 34.654 units = m 
+~ linecode = CAB107_3_3
+
+New line.969606 phases = 3 bus1 = 655237 bus2 = 655258 
+~ length = 30.413 units = m 
+~ linecode = CAB103_3_3
+
+New line.969613 phases = 3 bus1 = 655244 bus2 = 656210 
+~ length = 33.969 units = m 
+~ linecode = CAB107_3_3
+
+New line.969627 phases = 3 bus1 = 655258 bus2 = 655251 
+~ length = 9.22 units = m 
+~ linecode = CAB103_3_3
+
+New line.969634 phases = 3 bus1 = 655300 bus2 = 655223 
+~ length = 36.234 units = m 
+~ linecode = CAB107_3_3
+
+New line.969641 phases = 3 bus1 = 655300 bus2 = 655307 
+~ length = 32.557 units = m 
+~ linecode = CAB102_3_3
+
+New line.969648 phases = 3 bus1 = 655307 bus2 = 655314 
+~ length = 33.301 units = m 
+~ linecode = CAB102_3_3
+
+New line.969662 phases = 3 bus1 = 655314 bus2 = 655321 
+~ length = 29.068 units = m 
+~ linecode = CAB102_3_3
+
+New line.969676 phases = 3 bus1 = 655321 bus2 = 655328 
+~ length = 25.494 units = m 
+~ linecode = CAB102_3_3
+
+New line.970173 phases = 3 bus1 = 655671 bus2 = 655685 
+~ length = 38.078 units = m 
+~ linecode = CAB103_3_1
+
+New line.970208 phases = 3 bus1 = 655685 bus2 = 655692 
+~ length = 33.24 units = m 
+~ linecode = CAB103_3_1
+
+New line.971153 phases = 3 bus1 = 656210 bus2 = 656217 
+~ length = 6 units = m 
+~ linecode = CAB107_3_3
+
+New line.971160 phases = 3 bus1 = 656210 bus2 = 656231 
+~ length = 34.827 units = m 
+~ linecode = CAB107_3_3
+
+New line.971174 phases = 3 bus1 = 656217 bus2 = 656224 
+~ length = 29.068 units = m 
+~ linecode = CAB102_3_3
+
+New line.971188 phases = 3 bus1 = 656224 bus2 = 656238 
+~ length = 24.083 units = m 
+~ linecode = CAB102_3_3
+
+New line.971202 phases = 3 bus1 = 656231 bus2 = 656245 
+~ length = 33.969 units = m 
+~ linecode = CAB107_3_3
+
+New line.971237 phases = 3 bus1 = 656238 bus2 = 656952 
+~ length = 30.479 units = m 
+~ linecode = CAB102_3_3
+
+New line.971251 phases = 3 bus1 = 656245 bus2 = 656252 
+~ length = 36.124 units = m 
+~ linecode = CAB107_3_3
+
+New line.971265 phases = 3 bus1 = 656252 bus2 = 656259 
+~ length = 33.301 units = m 
+~ linecode = CAB107_3_3
+
+New line.971286 phases = 3 bus1 = 656259 bus2 = 656266 
+~ length = 35.227 units = m 
+~ linecode = CAB107_3_3
+
+New line.971307 phases = 3 bus1 = 656266 bus2 = 660501 
+~ length = 36.495 units = m 
+~ linecode = CAB107_3_3
+
+New line.971517 phases = 3 bus1 = 656343 bus2 = 654684 
+~ length = 29.731 units = m 
+~ linecode = CABA08_3_3
+
+New line.971524 phases = 3 bus1 = 656343 bus2 = 656364 
+~ length = 33.599 units = m 
+~ linecode = CAB103_3_1
+
+New line.971538 phases = 3 bus1 = 656350 bus2 = 656343 
+~ length = 28.791 units = m 
+~ linecode = CABA08_3_3
+
+New line.971559 phases = 3 bus1 = 656357 bus2 = 656350 
+~ length = 24.515 units = m 
+~ linecode = CABA08_3_3
+
+New line.971594 phases = 3 bus1 = 656371 bus2 = 656357 
+~ length = 29.41 units = m 
+~ linecode = CABA08_3_3
+
+New line.971671 phases = 3 bus1 = 656406 bus2 = 656371 
+~ length = 27.856 units = m 
+~ linecode = CABA08_3_3
+
+New line.971678 phases = 3 bus1 = 656406 bus2 = 657708 
+~ length = 31.32 units = m 
+~ linecode = CAB103_3_1
+
+New line.972546 phases = 3 bus1 = 656952 bus2 = 656959 
+~ length = 34.539 units = m 
+~ linecode = CAB102_3_3
+
+New line.972609 phases = 3 bus1 = 657036 bus2 = 657043 
+~ length = 34.999 units = m 
+~ linecode = CAB004_3_3
+
+New line.972616 phases = 3 bus1 = 657043 bus2 = 657050 
+~ length = 33.999 units = m 
+~ linecode = CAB004_3_3
+
+New line.972651 phases = 3 bus1 = 657064 bus2 = 657036 
+~ length = 32.756 units = m 
+~ linecode = CAB004_3_3
+
+New line.973785 phases = 3 bus1 = 657687 bus2 = 657694 
+~ length = 37.16 units = m 
+~ linecode = CABA08_3_3
+
+New line.973799 phases = 3 bus1 = 657694 bus2 = 657701 
+~ length = 33.24 units = m 
+~ linecode = CABA08_3_3
+
+New line.973820 phases = 3 bus1 = 657701 bus2 = 656406 
+~ length = 36.495 units = m 
+~ linecode = CABA08_3_3
+
+New line.973834 phases = 3 bus1 = 657708 bus2 = 657715 
+~ length = 27.585 units = m 
+~ linecode = CAB103_3_1
+
+New line.973848 phases = 3 bus1 = 657715 bus2 = 657722 
+~ length = 34.984 units = m 
+~ linecode = CAB103_3_1
+
+New line.973862 phases = 3 bus1 = 657722 bus2 = 657729 
+~ length = 27.784 units = m 
+~ linecode = CAB103_3_1
+
+New line.973876 phases = 3 bus1 = 657729 bus2 = 657736 
+~ length = 19.416 units = m 
+~ linecode = CAB103_3_1
+
+New line.973890 phases = 3 bus1 = 657736 bus2 = 657743 
+~ length = 16.492 units = m 
+~ linecode = CAB103_3_1
+
+New line.973904 phases = 3 bus1 = 657743 bus2 = 659199 
+~ length = 33.999 units = m 
+~ linecode = CAB103_3_1
+
+New line.973918 phases = 3 bus1 = 657750 bus2 = 657687 
+~ length = 36.999 units = m 
+~ linecode = CABA08_3_3
+
+New line.973932 phases = 3 bus1 = 657757 bus2 = 657792 
+~ length = 29.529 units = m 
+~ linecode = CABA08_3_3
+
+New line.973946 phases = 3 bus1 = 657764 bus2 = 657757 
+~ length = 6 units = m 
+~ linecode = CABA08_3_3
+
+New line.973967 phases = 3 bus1 = 657778 bus2 = 657764 
+~ length = 23.323 units = m 
+~ linecode = CABA08_3_3
+
+New line.973995 phases = 3 bus1 = 657792 bus2 = 657806 
+~ length = 34.481 units = m 
+~ linecode = CABA08_3_3
+
+New line.974016 phases = 3 bus1 = 657799 bus2 = 657778 
+~ length = 24.839 units = m 
+~ linecode = CABA08_3_3
+
+New line.974037 phases = 3 bus1 = 657806 bus2 = 657820 
+~ length = 30.886 units = m 
+~ linecode = CABA08_3_3
+
+New line.974072 phases = 3 bus1 = 657813 bus2 = 657799 
+~ length = 31.384 units = m 
+~ linecode = CABA08_3_3
+
+New line.974093 phases = 3 bus1 = 657820 bus2 = 657827 
+~ length = 29.681 units = m 
+~ linecode = CABA08_3_3
+
+New line.974114 phases = 3 bus1 = 657827 bus2 = 657834 
+~ length = 31.384 units = m 
+~ linecode = CABA08_3_3
+
+New line.974135 phases = 3 bus1 = 657834 bus2 = 657841 
+~ length = 30.413 units = m 
+~ linecode = CABA08_3_3
+
+New line.974149 phases = 3 bus1 = 657841 bus2 = 657848 
+~ length = 24.186 units = m 
+~ linecode = CABA08_3_3
+
+New line.974177 phases = 3 bus1 = 657848 bus2 = 658485 
+~ length = 31.015 units = m 
+~ linecode = CABA08_3_3
+
+New line.975514 phases = 3 bus1 = 658429 bus2 = 657750 
+~ length = 27.018 units = m 
+~ linecode = CABA08_3_3
+
+New line.975528 phases = 3 bus1 = 658436 bus2 = 658429 
+~ length = 38.326 units = m 
+~ linecode = CABA08_3_3
+
+New line.975542 phases = 3 bus1 = 658443 bus2 = 658436 
+~ length = 32.649 units = m 
+~ linecode = CABA08_3_3
+
+New line.975556 phases = 3 bus1 = 658450 bus2 = 658443 
+~ length = 29.068 units = m 
+~ linecode = CABA08_3_3
+
+New line.975570 phases = 3 bus1 = 658457 bus2 = 658450 
+~ length = 37.482 units = m 
+~ linecode = CABA08_3_3
+
+New line.975584 phases = 3 bus1 = 658464 bus2 = 658457 
+~ length = 36.618 units = m 
+~ linecode = CABA08_3_3
+
+New line.975591 phases = 3 bus1 = 658471 bus2 = 658464 
+~ length = 34.712 units = m 
+~ linecode = CABA08_3_3
+
+New line.975598 phases = 3 bus1 = 658478 bus2 = 658471 
+~ length = 28.999 units = m 
+~ linecode = CABA08_3_3
+
+New line.975605 phases = 3 bus1 = 658485 bus2 = 658499 
+~ length = 25.553 units = m 
+~ linecode = CABA08_3_3
+
+New line.975612 phases = 3 bus1 = 658492 bus2 = 658478 
+~ length = 37.107 units = m 
+~ linecode = CABA08_3_3
+
+New line.975619 phases = 3 bus1 = 658499 bus2 = 658513 
+~ length = 30.231 units = m 
+~ linecode = CABA08_3_3
+
+New line.975626 phases = 3 bus1 = 658506 bus2 = 658492 
+~ length = 27.294 units = m 
+~ linecode = CABA08_3_3
+
+New line.975640 phases = 3 bus1 = 658513 bus2 = 658506 
+~ length = 18.11 units = m 
+~ linecode = CABA08_3_3
+
+New line.975738 phases = 3 bus1 = 658562 bus2 = 657064 
+~ length = 30.805 units = m 
+~ linecode = CAB004_3_3
+
+New line.975759 phases = 3 bus1 = 658569 bus2 = 658562 
+~ length = 33.614 units = m 
+~ linecode = CAB004_3_3
+
+New line.975787 phases = 3 bus1 = 658590 bus2 = 658569 
+~ length = 28.6 units = m 
+~ linecode = CAB004_3_3
+
+New line.975801 phases = 3 bus1 = 658597 bus2 = 658590 
+~ length = 23.706 units = m 
+~ linecode = CAB004_3_3
+
+New line.975822 phases = 3 bus1 = 658604 bus2 = 658597 
+~ length = 33.614 units = m 
+~ linecode = CAB004_3_3
+
+New line.975836 phases = 3 bus1 = 658611 bus2 = 658604 
+~ length = 30.016 units = m 
+~ linecode = CAB004_3_3
+
+New line.975850 phases = 3 bus1 = 658618 bus2 = 658611 
+~ length = 34.131 units = m 
+~ linecode = CAB004_3_3
+
+New line.975857 phases = 3 bus1 = 658618 bus2 = 658968 
+~ length = 22.825 units = m 
+~ linecode = CAB103_3_3
+
+New line.975864 phases = 3 bus1 = 658618 bus2 = 660340 
+~ length = 35.509 units = m 
+~ linecode = CAB004_3_3
+
+New line.975885 phases = 3 bus1 = 658625 bus2 = 658618 
+~ length = 32.201 units = m 
+~ linecode = CAB107_3_3
+
+New line.975899 phases = 3 bus1 = 658632 bus2 = 658625 
+~ length = 28.652 units = m 
+~ linecode = CAB107_3_3
+
+New line.976228 phases = 3 bus1 = 658821 bus2 = 658828 
+~ length = 40.705 units = m 
+~ linecode = CAB103_3_3
+
+New line.976368 phases = 3 bus1 = 658947 bus2 = 658940 
+~ length = 30.413 units = m 
+~ linecode = CAB102_3_3
+
+New line.976403 phases = 3 bus1 = 658961 bus2 = 658947 
+~ length = 21.094 units = m 
+~ linecode = CAB102_3_3
+
+New line.976424 phases = 3 bus1 = 658968 bus2 = 658961 
+~ length = 25.059 units = m 
+~ linecode = CAB102_3_3
+
+New line.976760 phases = 3 bus1 = 659199 bus2 = 659206 
+~ length = 34.669 units = m 
+~ linecode = CAB103_3_1
+
+New line.976774 phases = 3 bus1 = 659206 bus2 = 659213 
+~ length = 34.712 units = m 
+~ linecode = CAB103_3_1
+
+New line.977264 phases = 3 bus1 = 659486 bus2 = 657813 
+~ length = 39.66 units = m 
+~ linecode = CABA08_3_3
+
+New line.977271 phases = 3 bus1 = 659486 bus2 = 659500 
+~ length = 31.063 units = m 
+~ linecode = CABA08_3_3
+
+New line.977285 phases = 3 bus1 = 659493 bus2 = 659486 
+~ length = 28.301 units = m 
+~ linecode = CABA08_3_3
+
+New line.977320 phases = 3 bus1 = 659507 bus2 = 659493 
+~ length = 26.925 units = m 
+~ linecode = CABA08_3_3
+
+New line.977334 phases = 3 bus1 = 659514 bus2 = 659500 
+~ length = 38.469 units = m 
+~ linecode = CAB103_3_3
+
+New line.977355 phases = 3 bus1 = 659521 bus2 = 658821 
+~ length = 33.12 units = m 
+~ linecode = CAB102_3_3
+
+New line.977376 phases = 3 bus1 = 659528 bus2 = 659514 
+~ length = 37.589 units = m 
+~ linecode = CAB103_3_3
+
+New line.977383 phases = 3 bus1 = 659535 bus2 = 659521 
+~ length = 29.529 units = m 
+~ linecode = CAB102_3_3
+
+New line.977390 phases = 3 bus1 = 659535 bus2 = 659528 
+~ length = 32.694 units = m 
+~ linecode = CAB102_3_3
+
+New line.977397 phases = 3 bus1 = 659535 bus2 = 659542 
+~ length = 36.358 units = m 
+~ linecode = CAB102_3_3
+
+New line.977425 phases = 3 bus1 = 659542 bus2 = 661313 
+~ length = 34.884 units = m 
+~ linecode = CAB102_3_3
+
+New line.977439 phases = 3 bus1 = 659549 bus2 = 659535 
+~ length = 39.823 units = m 
+~ linecode = CAB102_3_3
+
+New line.977565 phases = 3 bus1 = 659612 bus2 = 659605 
+~ length = 41.592 units = m 
+~ linecode = CAB102_3_3
+
+New line.977579 phases = 3 bus1 = 659619 bus2 = 659612 
+~ length = 35.776 units = m 
+~ linecode = CAB102_3_3
+
+New line.977586 phases = 3 bus1 = 659626 bus2 = 659619 
+~ length = 38.012 units = m 
+~ linecode = CAB102_3_3
+
+New line.978272 phases = 3 bus1 = 659927 bus2 = 659507 
+~ length = 26.076 units = m 
+~ linecode = CABA08_3_3
+
+New line.978363 phases = 3 bus1 = 659962 bus2 = 659948 
+~ length = 33.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.978384 phases = 3 bus1 = 659969 bus2 = 659962 
+~ length = 40.705 units = m 
+~ linecode = CAB102_3_3
+
+New line.978405 phases = 3 bus1 = 659976 bus2 = 659549 
+~ length = 29.966 units = m 
+~ linecode = CAB102_3_3
+
+New line.978412 phases = 3 bus1 = 659976 bus2 = 659969 
+~ length = 37.575 units = m 
+~ linecode = CAB102_3_3
+
+New line.979245 phases = 3 bus1 = 660340 bus2 = 660354 
+~ length = 39.445 units = m 
+~ linecode = CAB004_3_3
+
+New line.979266 phases = 3 bus1 = 660354 bus2 = 660361 
+~ length = 36.673 units = m 
+~ linecode = CAB004_3_3
+
+New line.979280 phases = 3 bus1 = 660361 bus2 = 660347 
+~ length = 38.012 units = m 
+~ linecode = CAB102_3_3
+
+New line.979287 phases = 3 bus1 = 660361 bus2 = 660382 
+~ length = 34.669 units = m 
+~ linecode = CAB004_3_3
+
+New line.979294 phases = 3 bus1 = 660382 bus2 = 659626 
+~ length = 33.105 units = m 
+~ linecode = CAB004_3_3
+
+New line.979427 phases = 3 bus1 = 660501 bus2 = 660515 
+~ length = 35.227 units = m 
+~ linecode = CAB107_3_3
+
+New line.979462 phases = 3 bus1 = 660515 bus2 = 660536 
+~ length = 27.165 units = m 
+~ linecode = CAB107_3_3
+
+New line.979476 phases = 3 bus1 = 660522 bus2 = 659927 
+~ length = 19.646 units = m 
+~ linecode = CABA08_3_3
+
+New line.979497 phases = 3 bus1 = 660536 bus2 = 660522 
+~ length = 39.961 units = m 
+~ linecode = CAB107_3_3
+
+New line.979504 phases = 3 bus1 = 660536 bus2 = 660550 
+~ length = 33.614 units = m 
+~ linecode = CAB107_3_3
+
+New line.979518 phases = 3 bus1 = 660550 bus2 = 660557 
+~ length = 24.165 units = m 
+~ linecode = CAB102_3_3
+
+New line.979525 phases = 3 bus1 = 660550 bus2 = 660564 
+~ length = 37.442 units = m 
+~ linecode = CAB107_3_3
+
+New line.979532 phases = 3 bus1 = 660557 bus2 = 660872 
+~ length = 26.248 units = m 
+~ linecode = CAB102_3_3
+
+New line.979546 phases = 3 bus1 = 660564 bus2 = 660578 
+~ length = 32.248 units = m 
+~ linecode = CAB107_3_3
+
+New line.979574 phases = 3 bus1 = 660578 bus2 = 660585 
+~ length = 26.626 units = m 
+~ linecode = CAB107_3_3
+
+New line.979588 phases = 3 bus1 = 660585 bus2 = 660592 
+~ length = 36.714 units = m 
+~ linecode = CAB107_3_3
+
+New line.979602 phases = 3 bus1 = 660592 bus2 = 662062 
+~ length = 34.999 units = m 
+~ linecode = CAB107_3_3
+
+New line.980071 phases = 3 bus1 = 660872 bus2 = 660879 
+~ length = 31.905 units = m 
+~ linecode = CAB102_3_3
+
+New line.980078 phases = 3 bus1 = 660872 bus2 = 660886 
+~ length = 32.649 units = m 
+~ linecode = CAB102_3_3
+
+New line.980099 phases = 3 bus1 = 660879 bus2 = 660893 
+~ length = 38.469 units = m 
+~ linecode = CAB102_3_3
+
+New line.980106 phases = 3 bus1 = 660893 bus2 = 661950 
+~ length = 39.356 units = m 
+~ linecode = CAB102_3_3
+
+New line.980708 phases = 3 bus1 = 661313 bus2 = 661320 
+~ length = 29.529 units = m 
+~ linecode = CAB102_3_3
+
+New line.980729 phases = 3 bus1 = 661320 bus2 = 661327 
+~ length = 23.706 units = m 
+~ linecode = CAB102_3_3
+
+New line.980750 phases = 3 bus1 = 661327 bus2 = 661341 
+~ length = 26.076 units = m 
+~ linecode = CAB102_3_3
+
+New line.981723 phases = 3 bus1 = 661943 bus2 = 659976 
+~ length = 33.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.981730 phases = 3 bus1 = 661950 bus2 = 661957 
+~ length = 40.705 units = m 
+~ linecode = CAB102_3_3
+
+New line.981751 phases = 3 bus1 = 661957 bus2 = 661964 
+~ length = 33.105 units = m 
+~ linecode = CAB102_3_3
+
+New line.981765 phases = 3 bus1 = 661964 bus2 = 661943 
+~ length = 36.234 units = m 
+~ linecode = CAB102_3_3
+
+New line.981772 phases = 3 bus1 = 661964 bus2 = 661971 
+~ length = 36.358 units = m 
+~ linecode = CAB102_3_3
+
+New line.981779 phases = 3 bus1 = 661964 bus2 = 661978 
+~ length = 34.884 units = m 
+~ linecode = CAB102_3_3
+
+New line.981989 phases = 3 bus1 = 662055 bus2 = 658632 
+~ length = 34.984 units = m 
+~ linecode = CAB107_3_3
+
+New line.982003 phases = 3 bus1 = 662062 bus2 = 662069 
+~ length = 33.999 units = m 
+~ linecode = CAB107_3_3
+
+New line.982017 phases = 3 bus1 = 662069 bus2 = 662055 
+~ length = 32.756 units = m 
+~ linecode = CAB107_3_3
+
+New line.982024 phases = 3 bus1 = 662069 bus2 = 662083 
+~ length = 36.618 units = m 
+~ linecode = CAB107_3_3
+
+New line.982031 phases = 3 bus1 = 662069 bus2 = 662090 
+~ length = 34.481 units = m 
+~ linecode = CAB103_3_3
+
+New line.982059 phases = 3 bus1 = 662090 bus2 = 662104 
+~ length = 38.274 units = m 
+~ linecode = CAB103_3_3
+
+New line.982080 phases = 3 bus1 = 662104 bus2 = 662650 
+~ length = 35.804 units = m 
+~ linecode = CAB102_3_3
+
+New line.982087 phases = 3 bus1 = 662104 bus2 = 662881 
+~ length = 13.601 units = m 
+~ linecode = CAB103_3_3
+
+New line.983025 phases = 3 bus1 = 662566 bus2 = 662573 
+~ length = 35.776 units = m 
+~ linecode = CABA08_3_3
+
+New line.983039 phases = 3 bus1 = 662573 bus2 = 662580 
+~ length = 36.358 units = m 
+~ linecode = CABA08_3_3
+
+New line.983053 phases = 3 bus1 = 662580 bus2 = 662587 
+~ length = 30.016 units = m 
+~ linecode = CABA08_3_3
+
+New line.983067 phases = 3 bus1 = 662587 bus2 = 662594 
+~ length = 30.528 units = m 
+~ linecode = CABA08_3_3
+
+New line.983081 phases = 3 bus1 = 662594 bus2 = 662608 
+~ length = 24.041 units = m 
+~ linecode = CABA08_3_3
+
+New line.983305 phases = 3 bus1 = 662748 bus2 = 661978 
+~ length = 35.354 units = m 
+~ linecode = CAB102_3_3
+
+New line.983312 phases = 3 bus1 = 662748 bus2 = 662755 
+~ length = 31.905 units = m 
+~ linecode = CAB103_3_3
+
+New line.983333 phases = 3 bus1 = 662755 bus2 = 662769 
+~ length = 38.909 units = m 
+~ linecode = CAB103_3_3
+
+New line.983354 phases = 3 bus1 = 662762 bus2 = 662748 
+~ length = 37.588 units = m 
+~ linecode = CAB102_3_3
+
+New line.983375 phases = 3 bus1 = 662769 bus2 = 662783 
+~ length = 31.764 units = m 
+~ linecode = CAB103_3_3
+
+New line.983403 phases = 3 bus1 = 662783 bus2 = 662790 
+~ length = 36.234 units = m 
+~ linecode = CAB103_3_3
+
+New line.983424 phases = 3 bus1 = 662790 bus2 = 5902185 
+~ length = 15.811 units = m 
+~ linecode = CAB103_3_3
+
+New line.983634 phases = 3 bus1 = 662881 bus2 = 662888 
+~ length = 17.804 units = m 
+~ linecode = CAB102_3_3
+
+New line.983655 phases = 3 bus1 = 662888 bus2 = 662895 
+~ length = 24.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.983669 phases = 3 bus1 = 662895 bus2 = 662902 
+~ length = 25.238 units = m 
+~ linecode = CAB102_3_3
+
+New line.983683 phases = 3 bus1 = 662902 bus2 = 663105 
+~ length = 10.44 units = m 
+~ linecode = CAB102_3_3
+
+New line.984005 phases = 3 bus1 = 663070 bus2 = 663112 
+~ length = 31.256 units = m 
+~ linecode = CAB102_3_3
+
+New line.984019 phases = 3 bus1 = 663077 bus2 = 663070 
+~ length = 28.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.984033 phases = 3 bus1 = 663084 bus2 = 663077 
+~ length = 32.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.984054 phases = 3 bus1 = 663091 bus2 = 663084 
+~ length = 36.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.984075 phases = 3 bus1 = 663098 bus2 = 663091 
+~ length = 38.012 units = m 
+~ linecode = CAB102_3_3
+
+New line.984089 phases = 3 bus1 = 663105 bus2 = 663098 
+~ length = 35.999 units = m 
+~ linecode = CAB102_3_3
+
+New line.984096 phases = 3 bus1 = 663105 bus2 = 663812 
+~ length = 18.11 units = m 
+~ linecode = CAB102_3_3
+
+New line.984110 phases = 3 bus1 = 663112 bus2 = 662762 
+~ length = 32.201 units = m 
+~ linecode = CAB102_3_3
+
+New line.984250 phases = 3 bus1 = 663161 bus2 = 5902192 
+~ length = 29.41 units = m 
+~ linecode = CABA06_3_1
+
+New line.984257 phases = 3 bus1 = 663168 bus2 = 663161 
+~ length = 36.687 units = m 
+~ linecode = CABA06_3_1
+
+New line.985391 phases = 3 bus1 = 663812 bus2 = 663826 
+~ length = 29.427 units = m 
+~ linecode = CAB102_3_3
+
+New line.985440 phases = 3 bus1 = 663826 bus2 = 663861 
+~ length = 27.073 units = m 
+~ linecode = CAB102_3_3
+
+New line.985503 phases = 3 bus1 = 663854 bus2 = 663840 
+~ length = 40.048 units = m 
+~ linecode = CAB103_3_3
+
+New line.985531 phases = 3 bus1 = 663861 bus2 = 663854 
+~ length = 46.009 units = m 
+~ linecode = CAB103_3_3
+
+New line.985538 phases = 3 bus1 = 663861 bus2 = 663896 
+~ length = 38.117 units = m 
+~ linecode = CAB102_3_3
+
+New line.985580 phases = 3 bus1 = 663889 bus2 = 664575 
+~ length = 26.906 units = m 
+~ linecode = CAB004_3_3
+
+New line.986126 phases = 3 bus1 = 664246 bus2 = 664225 
+~ length = 30.478 units = m 
+~ linecode = CABA08_3_3
+
+New line.986161 phases = 3 bus1 = 664267 bus2 = 664246 
+~ length = 35.467 units = m 
+~ linecode = CABA08_3_3
+
+New line.986595 phases = 3 bus1 = 664575 bus2 = 664589 
+~ length = 28.319 units = m 
+~ linecode = CABA06_3_3
+
+New line.986602 phases = 3 bus1 = 664582 bus2 = 664414 
+~ length = 37.535 units = m 
+~ linecode = CABA06_3_3
+
+New line.986609 phases = 3 bus1 = 664589 bus2 = 664582 
+~ length = 31.144 units = m 
+~ linecode = CABA06_3_3
+
+New line.986616 phases = 3 bus1 = 664589 bus2 = 664596 
+~ length = 26.248 units = m 
+~ linecode = CABA06_3_3
+
+New line.986623 phases = 3 bus1 = 664589 bus2 = 664603 
+~ length = 35.382 units = m 
+~ linecode = CABA06_3_3
+
+New line.986637 phases = 3 bus1 = 664596 bus2 = 664610 
+~ length = 24.082 units = m 
+~ linecode = CABA06_3_3
+
+New line.986672 phases = 3 bus1 = 664610 bus2 = 664617 
+~ length = 32.556 units = m 
+~ linecode = CAB004_3_3
+
+New line.986693 phases = 3 bus1 = 664617 bus2 = 664624 
+~ length = 31.889 units = m 
+~ linecode = CAB004_3_3
+
+New line.986714 phases = 3 bus1 = 664624 bus2 = 664631 
+~ length = 29.731 units = m 
+~ linecode = CAB004_3_3
+
+New line.986735 phases = 3 bus1 = 664631 bus2 = 664645 
+~ length = 22.671 units = m 
+~ linecode = CAB004_3_3
+
+New line.986770 phases = 3 bus1 = 664645 bus2 = 664652 
+~ length = 28.319 units = m 
+~ linecode = CAB004_3_3
+
+New line.986791 phases = 3 bus1 = 664652 bus2 = 665926 
+~ length = 26.906 units = m 
+~ linecode = CAB004_3_3
+
+New line.987015 phases = 3 bus1 = 664792 bus2 = 664267 
+~ length = 34.827 units = m 
+~ linecode = CABA08_3_3
+
+New line.987022 phases = 3 bus1 = 664792 bus2 = 664799 
+~ length = 26.172 units = m 
+~ linecode = CABA08_3_3
+
+New line.987029 phases = 3 bus1 = 664792 bus2 = 2291823 
+~ length = 15.62 units = m 
+~ linecode = CAB103_3_3
+
+New line.987043 phases = 3 bus1 = 664799 bus2 = 664813 
+~ length = 29.731 units = m 
+~ linecode = CABA08_3_3
+
+New line.987064 phases = 3 bus1 = 664813 bus2 = 664834 
+~ length = 31.889 units = m 
+~ linecode = CABA08_3_3
+
+New line.987092 phases = 3 bus1 = 664834 bus2 = 664848 
+~ length = 33.24 units = m 
+~ linecode = CABA08_3_3
+
+New line.987106 phases = 3 bus1 = 664848 bus2 = 665632 
+~ length = 38.287 units = m 
+~ linecode = CABA08_3_3
+
+New line.988443 phases = 3 bus1 = 665632 bus2 = 665639 
+~ length = 23.6 units = m 
+~ linecode = CABA08_3_3
+
+New line.988457 phases = 3 bus1 = 665639 bus2 = 665646 
+~ length = 28.635 units = m 
+~ linecode = CABA08_3_3
+
+New line.988485 phases = 3 bus1 = 665653 bus2 = 665646 
+~ length = 33.969 units = m 
+~ linecode = CABA08_3_3
+
+New line.988513 phases = 3 bus1 = 665660 bus2 = 665653 
+~ length = 29.681 units = m 
+~ linecode = CABA08_3_3
+
+New line.988541 phases = 3 bus1 = 665667 bus2 = 665660 
+~ length = 29.681 units = m 
+~ linecode = CABA08_3_3
+
+New line.988548 phases = 3 bus1 = 665667 bus2 = 666094 
+~ length = 32.248 units = m 
+~ linecode = CABA08_3_3
+
+New line.989115 phases = 3 bus1 = 665926 bus2 = 665947 
+~ length = 31.889 units = m 
+~ linecode = CAB004_3_3
+
+New line.989479 phases = 3 bus1 = 666094 bus2 = 666101 
+~ length = 34.364 units = m 
+~ linecode = CABA08_3_3
+
+New line.989493 phases = 3 bus1 = 666101 bus2 = 666108 
+~ length = 25.961 units = m 
+~ linecode = CABA08_3_3
+
+New line.989507 phases = 3 bus1 = 666108 bus2 = 666136 
+~ length = 25.612 units = m 
+~ linecode = CABA08_3_3
+
+New line.989556 phases = 3 bus1 = 666136 bus2 = 666178 
+~ length = 33.3 units = m 
+~ linecode = CABA08_3_3
+
+New line.1192920 phases = 3 bus1 = 793004 bus2 = 793018 
+~ length = 36.124 units = m 
+~ linecode = CAB103_3_1
+
+New line.1192934 phases = 3 bus1 = 793011 bus2 = 793004 
+~ length = 27.458 units = m 
+~ linecode = CAB103_3_1
+
+New line.1192948 phases = 3 bus1 = 793018 bus2 = 793025 
+~ length = 32.139 units = m 
+~ linecode = CAB103_3_1
+
+New line.1192955 phases = 3 bus1 = 793025 bus2 = 793032 
+~ length = 19.026 units = m 
+~ linecode = CAB103_3_1
+
+New line.1192969 phases = 3 bus1 = 793032 bus2 = 793123 
+~ length = 35.227 units = m 
+~ linecode = CAB103_3_1
+
+New line.1193123 phases = 3 bus1 = 793116 bus2 = 815838 
+~ length = 33.54 units = m 
+~ linecode = CAB103_3_1
+
+New line.1193130 phases = 3 bus1 = 793123 bus2 = 793116 
+~ length = 24.02 units = m 
+~ linecode = CAB103_3_1
+
+New line.1194761 phases = 3 bus1 = 794551 bus2 = 794558 
+~ length = 50.989 units = m 
+~ linecode = CAB202_3_1
+
+New line.1194789 phases = 3 bus1 = 794558 bus2 = 4369598 
+~ length = 54.743 units = m 
+~ linecode = CAB202_3_1
+
+New line.1195055 phases = 3 bus1 = 794754 bus2 = 794768 
+~ length = 21.023 units = m 
+~ linecode = CAB102_3_1
+
+New line.1195083 phases = 3 bus1 = 794761 bus2 = 794754 
+~ length = 29.41 units = m 
+~ linecode = CAB102_3_1
+
+New line.1195097 phases = 3 bus1 = 794768 bus2 = 794775 
+~ length = 14.56 units = m 
+~ linecode = CAB102_3_1
+
+New line.1195104 phases = 3 bus1 = 794775 bus2 = 794782 
+~ length = 30.805 units = m 
+~ linecode = CAB102_3_1
+
+New line.1195118 phases = 3 bus1 = 794782 bus2 = 2907298 
+~ length = 23.853 units = m 
+~ linecode = CAB102_3_1
+
+New line.1196651 phases = 3 bus1 = 795951 bus2 = 795958 
+~ length = 55.541 units = m 
+~ linecode = CAB102_3_3
+
+New line.1196658 phases = 3 bus1 = 795951 bus2 = 4255974 
+~ length = 53.998 units = m 
+~ linecode = CAB202_3_3
+
+New line.1196672 phases = 3 bus1 = 795958 bus2 = 646018 
+~ length = 41.435 units = m 
+~ linecode = CAB102_3_3
+
+New line.1196686 phases = 3 bus1 = 795965 bus2 = 795951 
+~ length = 21.095 units = m 
+~ linecode = CAB202_3_3
+
+New line.1196693 phases = 3 bus1 = 795972 bus2 = 795965 
+~ length = 23.853 units = m 
+~ linecode = CAB202_3_3
+
+New line.1196707 phases = 3 bus1 = 795979 bus2 = 795972 
+~ length = 31.905 units = m 
+~ linecode = CAB202_3_3
+
+New line.1196721 phases = 3 bus1 = 795986 bus2 = 646676 
+~ length = 42.189 units = m 
+~ linecode = CAB102_3_3
+
+New line.1196777 phases = 3 bus1 = 796000 bus2 = 795979 
+~ length = 26.076 units = m 
+~ linecode = CABA06_3_3
+
+New line.1202867 phases = 3 bus1 = 800095 bus2 = 800088 
+~ length = 21.587 units = m 
+~ linecode = CAB103_3_1
+
+New line.1202874 phases = 3 bus1 = 800095 bus2 = 800172 
+~ length = 30.675 units = m 
+~ linecode = CAB103_3_1
+
+New line.1202895 phases = 3 bus1 = 800102 bus2 = 800095 
+~ length = 26.57 units = m 
+~ linecode = CAB103_3_1
+
+New line.1202916 phases = 3 bus1 = 800109 bus2 = 800102 
+~ length = 33.525 units = m 
+~ linecode = CAB103_3_1
+
+New line.1202930 phases = 3 bus1 = 800116 bus2 = 800109 
+~ length = 29.546 units = m 
+~ linecode = CAB103_3_1
+
+New line.1203014 phases = 3 bus1 = 800172 bus2 = 800207 
+~ length = 30.675 units = m 
+~ linecode = CAB103_3_1
+
+New line.1203063 phases = 3 bus1 = 800200 bus2 = 800179 
+~ length = 20.396 units = m 
+~ linecode = CAB103_3_1
+
+New line.1203070 phases = 3 bus1 = 800200 bus2 = 800214 
+~ length = 23.409 units = m 
+~ linecode = CAB103_3_1
+
+New line.1203084 phases = 3 bus1 = 800207 bus2 = 800200 
+~ length = 27.202 units = m 
+~ linecode = CAB103_3_1
+
+New line.1203105 phases = 3 bus1 = 800214 bus2 = 800263 
+~ length = 33.837 units = m 
+~ linecode = CAB103_3_1
+
+New line.1203168 phases = 3 bus1 = 800256 bus2 = 800228 
+~ length = 19.416 units = m 
+~ linecode = CAB103_3_1
+
+New line.1203182 phases = 3 bus1 = 800263 bus2 = 800256 
+~ length = 20.88 units = m 
+~ linecode = CAB103_3_1
+
+New line.1206430 phases = 3 bus1 = 802846 bus2 = 802839 
+~ length = 33.241 units = m 
+~ linecode = CAB103_3_3
+
+New line.1206458 phases = 3 bus1 = 802853 bus2 = 2291662 
+~ length = 14.213 units = m 
+~ linecode = CAB202_3_3
+
+New line.1211526 phases = 3 bus1 = 806843 bus2 = 806801 
+~ length = 26.172 units = m 
+~ linecode = CAB103_3_1
+
+New line.1211540 phases = 3 bus1 = 806850 bus2 = 806843 
+~ length = 55.225 units = m 
+~ linecode = CAB103_3_1
+
+New line.1211554 phases = 3 bus1 = 806857 bus2 = 806906 
+~ length = 27.294 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211568 phases = 3 bus1 = 806864 bus2 = 806857 
+~ length = 29.427 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211582 phases = 3 bus1 = 806871 bus2 = 806864 
+~ length = 32.557 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211589 phases = 3 bus1 = 806878 bus2 = 806871 
+~ length = 34.234 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211596 phases = 3 bus1 = 806885 bus2 = 645955 
+~ length = 19.235 units = m 
+~ linecode = CABA06_3_3
+
+New line.1211603 phases = 3 bus1 = 806885 bus2 = 806878 
+~ length = 31.144 units = m 
+~ linecode = CABA06_3_3
+
+New line.1211631 phases = 3 bus1 = 806906 bus2 = 806913 
+~ length = 39.622 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211659 phases = 3 bus1 = 806913 bus2 = 806948 
+~ length = 19.235 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211736 phases = 3 bus1 = 806948 bus2 = 806962 
+~ length = 23.537 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211757 phases = 3 bus1 = 806955 bus2 = 806997 
+~ length = 43.565 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211764 phases = 3 bus1 = 806962 bus2 = 806955 
+~ length = 43.415 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211771 phases = 3 bus1 = 806997 bus2 = 807004 
+~ length = 8.062 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211778 phases = 3 bus1 = 806997 bus2 = 807011 
+~ length = 44.406 units = m 
+~ linecode = CABA06_3_3
+
+New line.1211785 phases = 3 bus1 = 806997 bus2 = 807018 
+~ length = 36.619 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211799 phases = 3 bus1 = 807004 bus2 = 807074 
+~ length = 38.418 units = m 
+~ linecode = CAB103_3_3
+
+New line.1211813 phases = 3 bus1 = 807011 bus2 = 807025 
+~ length = 41.772 units = m 
+~ linecode = CABA06_3_3
+
+New line.1211820 phases = 3 bus1 = 807018 bus2 = 3410605 
+~ length = 26.248 units = m 
+~ linecode = CABA06_3_3
+
+New line.1211834 phases = 3 bus1 = 807025 bus2 = 4035915 
+~ length = 29.427 units = m 
+~ linecode = CABA06_3_3
+
+New line.1211918 phases = 3 bus1 = 807074 bus2 = 807032 
+~ length = 43.184 units = m 
+~ linecode = CAB103_3_3
+
+New line.1212254 phases = 3 bus1 = 807305 bus2 = 807319 
+~ length = 26.57 units = m 
+~ linecode = CAB102_3_1
+
+New line.1212275 phases = 3 bus1 = 807312 bus2 = 807305 
+~ length = 34.927 units = m 
+~ linecode = CAB102_3_1
+
+New line.1212359 phases = 3 bus1 = 807354 bus2 = 650939 
+~ length = 24.698 units = m 
+~ linecode = CABA08_3_3
+
+New line.1212366 phases = 3 bus1 = 807354 bus2 = 807361 
+~ length = 33.614 units = m 
+~ linecode = CAB102_3_1
+
+New line.1212373 phases = 3 bus1 = 807361 bus2 = 807382 
+~ length = 32.893 units = m 
+~ linecode = CAB102_3_1
+
+New line.1212401 phases = 3 bus1 = 807368 bus2 = 807354 
+~ length = 37.642 units = m 
+~ linecode = CABA08_3_3
+
+New line.1212408 phases = 3 bus1 = 807375 bus2 = 807368 
+~ length = 35.901 units = m 
+~ linecode = CABA08_3_3
+
+New line.1212422 phases = 3 bus1 = 807382 bus2 = 807389 
+~ length = 32.31 units = m 
+~ linecode = CAB102_3_1
+
+New line.1212429 phases = 3 bus1 = 807389 bus2 = 652521 
+~ length = 28.177 units = m 
+~ linecode = CAB102_3_1
+
+New line.1212443 phases = 3 bus1 = 807396 bus2 = 807375 
+~ length = 36.344 units = m 
+~ linecode = CABA08_3_3
+
+New line.1212478 phases = 3 bus1 = 807410 bus2 = 807403 
+~ length = 40.31 units = m 
+~ linecode = CABA08_3_3
+
+New line.1212499 phases = 3 bus1 = 807417 bus2 = 807410 
+~ length = 35.34 units = m 
+~ linecode = CABA08_3_3
+
+New line.1215159 phases = 3 bus1 = 808936 bus2 = 808922 
+~ length = 40.459 units = m 
+~ linecode = CABA06_3_3
+
+New line.1215173 phases = 3 bus1 = 808943 bus2 = 808936 
+~ length = 34.712 units = m 
+~ linecode = CAB103_3_3
+
+New line.1215187 phases = 3 bus1 = 808950 bus2 = 808943 
+~ length = 36.234 units = m 
+~ linecode = CAB103_3_3
+
+New line.1225302 phases = 3 bus1 = 815824 bus2 = 815817 
+~ length = 35.439 units = m 
+~ linecode = CAB103_3_1
+
+New line.1225309 phases = 3 bus1 = 815831 bus2 = 815824 
+~ length = 34.928 units = m 
+~ linecode = CAB103_3_1
+
+New line.1225316 phases = 3 bus1 = 815838 bus2 = 815831 
+~ length = 30.805 units = m 
+~ linecode = CAB103_3_1
+
+New line.1228886 phases = 3 bus1 = 817987 bus2 = 817994 
+~ length = 49.728 units = m 
+~ linecode = CAB202_3_3
+
+New line.1228893 phases = 3 bus1 = 817987 bus2 = 3447796 
+~ length = 17.888 units = m 
+~ linecode = CABA06_3_3
+
+New line.1228914 phases = 3 bus1 = 817994 bus2 = 5845569 
+~ length = 52.171 units = m 
+~ linecode = CAB202_3_3
+
+New line.4458826 phases = 3 bus1 = 2284550 bus2 = 2284557 
+~ length = 94.426 units = m 
+~ linecode = CAB108_3_3
+
+New line.4478258 phases = 3 bus1 = 2291620 bus2 = 648363 
+~ length = 16.279 units = m 
+~ linecode = CAB103_3_3
+
+New line.4478272 phases = 3 bus1 = 2291627 bus2 = 2291424 
+~ length = 142.795 units = m 
+~ linecode = CAB203_3_3
+
+New line.4478286 phases = 3 bus1 = 2291634 bus2 = 4255981 
+~ length = 41.011 units = m 
+~ linecode = CAB202_3_3
+
+New line.4478300 phases = 3 bus1 = 2291641 bus2 = 4263562 
+~ length = 39.622 units = m 
+~ linecode = CAB202_3_3
+
+New line.4478314 phases = 3 bus1 = 2291648 bus2 = 2291655 
+~ length = 64.898 units = m 
+~ linecode = CAB202_3_3
+
+New line.4478321 phases = 3 bus1 = 2291648 bus2 = 4897769 
+~ length = 37.012 units = m 
+~ linecode = CAB203_3_3
+
+New line.4478335 phases = 3 bus1 = 2291655 bus2 = 4264759 
+~ length = 57.426 units = m 
+~ linecode = CAB202_3_3
+
+New line.4478342 phases = 3 bus1 = 2291662 bus2 = 4263989 
+~ length = 61.292 units = m 
+~ linecode = CAB103_3_1
+
+New line.4478349 phases = 3 bus1 = 2291669 bus2 = 4728803 
+~ length = 22.203 units = m 
+~ linecode = CAB103_3_3
+
+New line.4478363 phases = 3 bus1 = 2291676 bus2 = 4276631 
+~ length = 403.658 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478377 phases = 3 bus1 = 2291683 bus2 = 4275875 
+~ length = 49.648 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478391 phases = 3 bus1 = 2291690 bus2 = 2291697 
+~ length = 221.995 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478398 phases = 3 bus1 = 2291690 bus2 = 4276085 
+~ length = 103.075 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478412 phases = 3 bus1 = 2291697 bus2 = 642315 
+~ length = 38.626 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478419 phases = 3 bus1 = 2291697 bus2 = 3241912 
+~ length = 104.806 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478433 phases = 3 bus1 = 2291704 bus2 = 812807 
+~ length = 130.38 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478440 phases = 3 bus1 = 2291704 bus2 = 2291711 
+~ length = 190.257 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478454 phases = 3 bus1 = 2291711 bus2 = 2291718 
+~ length = 240.594 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478461 phases = 3 bus1 = 2291711 bus2 = 4276239 
+~ length = 308.224 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478475 phases = 3 bus1 = 2291718 bus2 = 812842 
+~ length = 136.337 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478489 phases = 3 bus1 = 2291725 bus2 = 2291732 
+~ length = 112.727 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478510 phases = 3 bus1 = 2291732 bus2 = 793263 
+~ length = 64.03 units = m 
+~ linecode = CAB103_3_1
+
+New line.4478517 phases = 3 bus1 = 2291732 bus2 = 2291739 
+~ length = 112.251 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478559 phases = 3 bus1 = 2291746 bus2 = 642532 
+~ length = 34.234 units = m 
+~ linecode = CAB103_3_1
+
+New line.4478587 phases = 3 bus1 = 2291753 bus2 = 4265753 
+~ length = 91.829 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478594 phases = 3 bus1 = 2291760 bus2 = 2291774 
+~ length = 55.568 units = m 
+~ linecode = CAB202_3_3
+
+New line.4478601 phases = 3 bus1 = 2291767 bus2 = 2291781 
+~ length = 50.357 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478608 phases = 3 bus1 = 2291767 bus2 = 5845611 
+~ length = 142.083 units = m 
+~ linecode = CAB202_3_3
+
+New line.4478657 phases = 3 bus1 = 2291781 bus2 = 794439 
+~ length = 46.388 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478664 phases = 3 bus1 = 2291781 bus2 = 4265466 
+~ length = 251.023 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478678 phases = 3 bus1 = 2291788 bus2 = 4265970 
+~ length = 102.588 units = m 
+~ linecode = CAB202_3_3
+
+New line.4478685 phases = 3 bus1 = 2291788 bus2 = 4275280 
+~ length = 78.407 units = m 
+~ linecode = CAB202_3_3
+
+New line.4478699 phases = 3 bus1 = 2291795 bus2 = 3410493 
+~ length = 343.436 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478706 phases = 3 bus1 = 2291795 bus2 = 4275301 
+~ length = 68.35 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478727 phases = 3 bus1 = 2291802 bus2 = 794453 
+~ length = 31.622 units = m 
+~ linecode = CAB103_3_1
+
+New line.4478734 phases = 3 bus1 = 2291802 bus2 = 2291809 
+~ length = 125.714 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478748 phases = 3 bus1 = 2291809 bus2 = 4275567 
+~ length = 61.618 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478762 phases = 3 bus1 = 2291823 bus2 = 664806 
+~ length = 16.97 units = m 
+~ linecode = CAB103_3_3
+
+New line.4478769 phases = 3 bus1 = 2291823 bus2 = 808082 
+~ length = 18.11 units = m 
+~ linecode = CABA06_3_3
+
+New line.4478790 phases = 3 bus1 = 2291837 bus2 = 3534610 
+~ length = 19.105 units = m 
+~ linecode = CABA06_3_3
+
+New line.4478853 phases = 3 bus1 = 2291858 bus2 = 794551 
+~ length = 22.36 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478874 phases = 3 bus1 = 2291865 bus2 = 794565 
+~ length = 50.989 units = m 
+~ linecode = CAB202_3_1
+
+New line.4478895 phases = 3 bus1 = 2291872 bus2 = 4384620 
+~ length = 396.958 units = m 
+~ linecode = CAB204_3_3
+
+New line.4478916 phases = 3 bus1 = 2291879 bus2 = 4384578 
+~ length = 106.02 units = m 
+~ linecode = CAB204_3_3
+
+New line.4478930 phases = 3 bus1 = 2291886 bus2 = 4384473 
+~ length = 76.939 units = m 
+~ linecode = CAB204_3_3
+
+New line.4478951 phases = 3 bus1 = 2291893 bus2 = 2291900 
+~ length = 209.994 units = m 
+~ linecode = CABA06_3_3
+
+New line.4478958 phases = 3 bus1 = 2291893 bus2 = 3687154 
+~ length = 246.216 units = m 
+~ linecode = CAB204_3_3
+
+New line.4478972 phases = 3 bus1 = 2291900 bus2 = 2291907 
+~ length = 139.996 units = m 
+~ linecode = CABA06_3_3
+
+New line.4478986 phases = 3 bus1 = 2291907 bus2 = 3603301 
+~ length = 23.769 units = m 
+~ linecode = CABA06_3_3
+
+New line.6413219 phases = 3 bus1 = 2907284 bus2 = 812863 
+~ length = 140.711 units = m 
+~ linecode = CAB102_3_1
+
+New line.6413233 phases = 3 bus1 = 2907291 bus2 = 2907284 
+~ length = 35.776 units = m 
+~ linecode = CAB102_3_1
+
+New line.6413247 phases = 3 bus1 = 2907298 bus2 = 5557834 
+~ length = 23.021 units = m 
+~ linecode = CAB102_3_1
+
+New line.7143396 phases = 3 bus1 = 3241905 bus2 = 3241912 
+~ length = 36.4 units = m 
+~ linecode = CAB202_3_1
+
+New line.7143403 phases = 3 bus1 = 3241905 bus2 = 3242073 
+~ length = 49.395 units = m 
+~ linecode = CAB103_3_1
+
+New line.7143424 phases = 3 bus1 = 3241919 bus2 = 3241905 
+~ length = 26.925 units = m 
+~ linecode = CAB202_3_1
+
+New line.7143431 phases = 3 bus1 = 3241919 bus2 = 4275749 
+~ length = 26.925 units = m 
+~ linecode = CAB202_3_1
+
+New line.7144453 phases = 3 bus1 = 3242549 bus2 = 2291795 
+~ length = 144.217 units = m 
+~ linecode = CAB202_3_1
+
+New line.7144467 phases = 3 bus1 = 3242556 bus2 = 793277 
+~ length = 111.827 units = m 
+~ linecode = CAB202_3_1
+
+New line.7493683 phases = 3 bus1 = 3410605 bus2 = 3410668 
+~ length = 14.422 units = m 
+~ linecode = CABA06_3_3
+
+New line.7772304 phases = 3 bus1 = 3534610 bus2 = 643547 
+~ length = 21.954 units = m 
+~ linecode = CABA06_3_3
+
+New line.7777316 phases = 3 bus1 = 3537144 bus2 = 644401 
+~ length = 6 units = m 
+~ linecode = CABA08_3_3
+
+New line.7797861 phases = 3 bus1 = 3546566 bus2 = 644163 
+~ length = 189.355 units = m 
+~ linecode = CAB202_3_3
+
+New line.8086443 phases = 3 bus1 = 3687154 bus2 = 6407263 
+~ length = 40.853 units = m 
+~ linecode = CAB204_3_3
+
+New line.8489342 phases = 3 bus1 = 3976058 bus2 = 652486 
+~ length = 33.614 units = m 
+~ linecode = CAB107_3_3
+
+New line.8489349 phases = 3 bus1 = 3976058 bus2 = 3976191 
+~ length = 34.712 units = m 
+~ linecode = CABA06_3_3
+
+New line.8489601 phases = 3 bus1 = 3976191 bus2 = 3976198 
+~ length = 31.889 units = m 
+~ linecode = CABA06_3_3
+
+New line.8489615 phases = 3 bus1 = 3976198 bus2 = 3976205 
+~ length = 33.24 units = m 
+~ linecode = CABA06_3_3
+
+New line.8489629 phases = 3 bus1 = 3976205 bus2 = 3976212 
+~ length = 37.535 units = m 
+~ linecode = CABA06_3_3
+
+New line.8489643 phases = 3 bus1 = 3976212 bus2 = 3976219 
+~ length = 55.971 units = m 
+~ linecode = CABA06_3_3
+
+New line.8498358 phases = 3 bus1 = 3985949 bus2 = 643666 
+~ length = 32.649 units = m 
+~ linecode = CAB103_3_3
+
+New line.8550095 phases = 3 bus1 = 4035915 bus2 = 4035922 
+~ length = 28.442 units = m 
+~ linecode = CABA06_3_1
+
+New line.8550109 phases = 3 bus1 = 4035922 bus2 = 4035929 
+~ length = 28.16 units = m 
+~ linecode = CABA06_3_1
+
+New line.8550116 phases = 3 bus1 = 4035929 bus2 = 4035936 
+~ length = 26.305 units = m 
+~ linecode = CABA06_3_1
+
+New line.8740649 phases = 3 bus1 = 4255974 bus2 = 2291634 
+~ length = 35.227 units = m 
+~ linecode = CAB202_3_3
+
+New line.8740656 phases = 3 bus1 = 4255981 bus2 = 5557946 
+~ length = 35.692 units = m 
+~ linecode = CAB202_3_3
+
+New line.8740670 phases = 3 bus1 = 4255995 bus2 = 4256191 
+~ length = 72.997 units = m 
+~ linecode = CAB202_3_3
+
+New line.8740845 phases = 3 bus1 = 4256191 bus2 = 4256198 
+~ length = 45.01 units = m 
+~ linecode = CAB202_3_3
+
+New line.8740852 phases = 3 bus1 = 4256198 bus2 = 4256205 
+~ length = 44.999 units = m 
+~ linecode = CAB202_3_3
+
+New line.8740859 phases = 3 bus1 = 4256205 bus2 = 4256219 
+~ length = 27.166 units = m 
+~ linecode = CAB202_3_3
+
+New line.8740880 phases = 3 bus1 = 4256219 bus2 = 4256226 
+~ length = 22.803 units = m 
+~ linecode = CAB202_3_3
+
+New line.8740887 phases = 3 bus1 = 4256226 bus2 = 2291641 
+~ length = 22.136 units = m 
+~ linecode = CAB202_3_3
+
+New line.8740894 phases = 3 bus1 = 4256226 bus2 = 2291662 
+~ length = 135.586 units = m 
+~ linecode = CAB202_3_3
+
+New line.8745444 phases = 3 bus1 = 4263485 bus2 = 2291648 
+~ length = 29.681 units = m 
+~ linecode = CAB202_3_3
+
+New line.8745521 phases = 3 bus1 = 4263562 bus2 = 4263485 
+~ length = 35.383 units = m 
+~ linecode = CAB202_3_3
+
+New line.8746179 phases = 3 bus1 = 4264759 bus2 = 4264787 
+~ length = 17.692 units = m 
+~ linecode = CAB103_3_3
+
+New line.8746186 phases = 3 bus1 = 4264787 bus2 = 808103 
+~ length = 41.108 units = m 
+~ linecode = CAB103_3_3
+
+New line.8746655 phases = 3 bus1 = 4265466 bus2 = 811071 
+~ length = 24.758 units = m 
+~ linecode = CAB103_3_1
+
+New line.8746767 phases = 3 bus1 = 4265753 bus2 = 2291760 
+~ length = 305.492 units = m 
+~ linecode = CAB202_3_1
+
+New line.8746893 phases = 3 bus1 = 4265970 bus2 = 4265977 
+~ length = 111.5 units = m 
+~ linecode = CAB202_3_3
+
+New line.8746900 phases = 3 bus1 = 4265977 bus2 = 4266159 
+~ length = 120.412 units = m 
+~ linecode = CAB202_3_3
+
+New line.8746907 phases = 3 bus1 = 4265977 bus2 = 5845688 
+~ length = 36.234 units = m 
+~ linecode = CAB103_3_1
+
+New line.8747103 phases = 3 bus1 = 4266159 bus2 = 812793 
+~ length = 22.36 units = m 
+~ linecode = CAB103_3_1
+
+New line.8747110 phases = 3 bus1 = 4266159 bus2 = 4267160 
+~ length = 111.032 units = m 
+~ linecode = CAB202_3_3
+
+New line.8747796 phases = 3 bus1 = 4267153 bus2 = 2291816 
+~ length = 89.019 units = m 
+~ linecode = CAB202_3_3
+
+New line.8747803 phases = 3 bus1 = 4267160 bus2 = 4267153 
+~ length = 111.728 units = m 
+~ linecode = CAB202_3_3
+
+New line.8753501 phases = 3 bus1 = 4275280 bus2 = 3242549 
+~ length = 78.228 units = m 
+~ linecode = CAB202_3_1
+
+New line.8753508 phases = 3 bus1 = 4275280 bus2 = 5845695 
+~ length = 104.481 units = m 
+~ linecode = CAB103_3_3
+
+New line.8753522 phases = 3 bus1 = 4275301 bus2 = 2291802 
+~ length = 247.544 units = m 
+~ linecode = CAB202_3_1
+
+New line.8753529 phases = 3 bus1 = 4275301 bus2 = 3242556 
+~ length = 153.8 units = m 
+~ linecode = CAB202_3_1
+
+New line.8753746 phases = 3 bus1 = 4275567 bus2 = 794460 
+~ length = 109.564 units = m 
+~ linecode = CAB202_3_1
+
+New line.8753900 phases = 3 bus1 = 4275749 bus2 = 642455 
+~ length = 234.165 units = m 
+~ linecode = CAB202_3_1
+
+New line.8753970 phases = 3 bus1 = 4275875 bus2 = 4275903 
+~ length = 57.973 units = m 
+~ linecode = CAB202_3_1
+
+New line.8753991 phases = 3 bus1 = 4275903 bus2 = 2291690 
+~ length = 139.355 units = m 
+~ linecode = CAB202_3_1
+
+New line.8754103 phases = 3 bus1 = 4276085 bus2 = 2291704 
+~ length = 103.075 units = m 
+~ linecode = CAB202_3_1
+
+New line.8754187 phases = 3 bus1 = 4276239 bus2 = 801922 
+~ length = 180.619 units = m 
+~ linecode = CAB202_3_1
+
+New line.8822465 phases = 3 bus1 = 4369598 bus2 = 4369619 
+~ length = 33.54 units = m 
+~ linecode = CAB202_3_1
+
+New line.8822479 phases = 3 bus1 = 4369619 bus2 = 2291865 
+~ length = 84.342 units = m 
+~ linecode = CAB202_3_1
+
+New line.8833385 phases = 3 bus1 = 4384473 bus2 = 2291893 
+~ length = 48.372 units = m 
+~ linecode = CAB204_3_3
+
+New line.8833469 phases = 3 bus1 = 4384564 bus2 = 2291886 
+~ length = 576.463 units = m 
+~ linecode = CAB204_3_3
+
+New line.8833483 phases = 3 bus1 = 4384578 bus2 = 4384564 
+~ length = 95.705 units = m 
+~ linecode = CAB204_3_3
+
+New line.8833497 phases = 3 bus1 = 4384620 bus2 = 2291879 
+~ length = 340.646 units = m 
+~ linecode = CAB204_3_3
+
+New line.9084979 phases = 3 bus1 = 4728803 bus2 = 802846 
+~ length = 31.89 units = m 
+~ linecode = CAB103_3_3
+
+New line.9188180 phases = 3 bus1 = 4895473 bus2 = 4901332 
+~ length = 30.805 units = m 
+~ linecode = CABA08_3_3
+
+New line.9188187 phases = 3 bus1 = 4895480 bus2 = 4901227 
+~ length = 31.384 units = m 
+~ linecode = CAB905_4_3
+
+New line.9192072 phases = 3 bus1 = 4901234 bus2 = 4895480 
+~ length = 30.082 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192079 phases = 3 bus1 = 4901241 bus2 = 4901234 
+~ length = 27.312 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192086 phases = 3 bus1 = 4901248 bus2 = 4901241 
+~ length = 10.198 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192093 phases = 3 bus1 = 4901255 bus2 = 4901248 
+~ length = 32.31 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192100 phases = 3 bus1 = 4901262 bus2 = 4901255 
+~ length = 30.082 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192107 phases = 3 bus1 = 4901269 bus2 = 4901262 
+~ length = 30.364 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192114 phases = 3 bus1 = 4901276 bus2 = 4901269 
+~ length = 30.593 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192121 phases = 3 bus1 = 4901283 bus2 = 4901276 
+~ length = 25.317 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192128 phases = 3 bus1 = 4901290 bus2 = 4901283 
+~ length = 23.345 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192135 phases = 3 bus1 = 4901297 bus2 = 4901290 
+~ length = 30.016 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192142 phases = 3 bus1 = 4901304 bus2 = 4901297 
+~ length = 24.515 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192149 phases = 3 bus1 = 4901311 bus2 = 4901304 
+~ length = 30.364 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192156 phases = 3 bus1 = 4901318 bus2 = 4901311 
+~ length = 31.764 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192163 phases = 3 bus1 = 4901325 bus2 = 4901318 
+~ length = 30.805 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192170 phases = 3 bus1 = 4901332 bus2 = 4901325 
+~ length = 30.232 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192177 phases = 3 bus1 = 4901339 bus2 = 4895473 
+~ length = 29.999 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192184 phases = 3 bus1 = 4901346 bus2 = 4901339 
+~ length = 31.4 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192191 phases = 3 bus1 = 4901353 bus2 = 4901346 
+~ length = 29.999 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192198 phases = 3 bus1 = 4901360 bus2 = 4901353 
+~ length = 31.4 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192205 phases = 3 bus1 = 4901367 bus2 = 4901360 
+~ length = 42.8 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192212 phases = 3 bus1 = 4901374 bus2 = 4901367 
+~ length = 34.999 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192219 phases = 3 bus1 = 4901381 bus2 = 4901374 
+~ length = 34.408 units = m 
+~ linecode = CABA08_3_3
+
+New line.9192226 phases = 3 bus1 = 4901388 bus2 = 4901381 
+~ length = 40.248 units = m 
+~ linecode = CABA08_3_3
+
+New line.9387897 phases = 3 bus1 = 5174822 bus2 = 642560 
+~ length = 13 units = m 
+~ linecode = CAB202_3_1
+
+New line.9688911 phases = 3 bus1 = 5557834 bus2 = 5557841 
+~ length = 45.485 units = m 
+~ linecode = CAB102_3_1
+
+New line.9688918 phases = 3 bus1 = 5557841 bus2 = 2907291 
+~ length = 20.223 units = m 
+~ linecode = CAB102_3_1
+
+New line.9688995 phases = 3 bus1 = 5557946 bus2 = 4255995 
+~ length = 34.014 units = m 
+~ linecode = CAB202_3_3
+
+New line.9829604 phases = 3 bus1 = 5746057 bus2 = 642378 
+~ length = 52.999 units = m 
+~ linecode = CAB202_3_1
+
+New line.9905645 phases = 3 bus1 = 5845569 bus2 = 5845576 
+~ length = 33.615 units = m 
+~ linecode = CAB202_3_3
+
+New line.9905652 phases = 3 bus1 = 5845576 bus2 = 5845583 
+~ length = 26.019 units = m 
+~ linecode = CAB202_3_3
+
+New line.9905659 phases = 3 bus1 = 5845583 bus2 = 5845590 
+~ length = 27.73 units = m 
+~ linecode = CAB202_3_3
+
+New line.9905666 phases = 3 bus1 = 5845590 bus2 = 5845597 
+~ length = 30.528 units = m 
+~ linecode = CAB202_3_3
+
+New line.9905673 phases = 3 bus1 = 5845597 bus2 = 5845604 
+~ length = 125.156 units = m 
+~ linecode = CAB202_3_3
+
+New line.9905680 phases = 3 bus1 = 5845604 bus2 = 2291767 
+~ length = 118.187 units = m 
+~ linecode = CAB202_3_3
+
+New line.9905687 phases = 3 bus1 = 5845611 bus2 = 4275280 
+~ length = 18.248 units = m 
+~ linecode = CAB202_3_3
+
+New line.9905694 phases = 3 bus1 = 5845611 bus2 = 5877419 
+~ length = 52.037 units = m 
+~ linecode = CAB103_3_1
+
+New line.9905771 phases = 3 bus1 = 5845688 bus2 = 794446 
+~ length = 39.05 units = m 
+~ linecode = CAB103_3_1
+
+New line.9931433 phases = 3 bus1 = 5877419 bus2 = 5877412 
+~ length = 18.248 units = m 
+~ linecode = CAB103_3_1
+
+New line.9947645 phases = 3 bus1 = 5902185 bus2 = 663168 
+~ length = 49.767 units = m 
+~ linecode = CABA06_3_1
+
+New line.9947652 phases = 3 bus1 = 5902185 bus2 = 663175 
+~ length = 9.487 units = m 
+~ linecode = CAB103_3_3
+
+New line.9947659 phases = 3 bus1 = 5902192 bus2 = 5902199 
+~ length = 37.214 units = m 
+~ linecode = CABA06_3_1
+
+New line.9947666 phases = 3 bus1 = 5902199 bus2 = 5902206 
+~ length = 34.927 units = m 
+~ linecode = CABA06_3_1
+
+New line.9947673 phases = 3 bus1 = 5902206 bus2 = 5902213 
+~ length = 32.755 units = m 
+~ linecode = CABA06_3_1
+
+New line.9947680 phases = 3 bus1 = 5902213 bus2 = 5902220 
+~ length = 41.592 units = m 
+~ linecode = CABA06_3_1
+
+New line.10002259 phases = 3 bus1 = 5994382 bus2 = 2291725 
+~ length = 20.615 units = m 
+~ linecode = CAB102_3_1
+
+New line.10012906 phases = 3 bus1 = 6009747 bus2 = 643344 
+~ length = 28.442 units = m 
+~ linecode = CABA06_3_1
+
+New line.10126089 phases = 3 bus1 = 6218452 bus2 = 649735 
+~ length = 24.186 units = m 
+~ linecode = CAB102_3_1
+
+New line.10229990 phases = 3 bus1 = 6407263 bus2 = 802377 
+~ length = 31.064 units = m 
+~ linecode = CAB902_4_3
+
+New line.10889236 phases = 3 bus1 = 643771 bus2 = 643764 
+~ length = 37.642 units = m 
+~ linecode = CAB103_3_1
+
+New line.10889243 phases = 3 bus1 = 643764 bus2 = 643757 
+~ length = 38.599 units = m 
+~ linecode = CAB103_3_1
+
+New line.10899876 phases = 3 bus1 = 643862 bus2 = 7145490 
+~ length = 4 units = m 
+~ linecode = CAB103_3_1
+
+New line.10899883 phases = 3 bus1 = 7145490 bus2 = 643771 
+~ length = 26.076 units = m 
+~ linecode = CAB103_3_1
+
+New line.11273963 phases = 3 bus1 = 4276239 bus2 = 7486628 
+~ length = 162.796 units = m 
+~ linecode = CAB202_3_1
+
+New line.11273970 phases = 3 bus1 = 7486628 bus2 = 7486642 
+~ length = 71.608 units = m 
+~ linecode = CAB202_3_1
+
+New line.11273977 phases = 3 bus1 = 7486642 bus2 = 7486649 
+~ length = 163.62 units = m 
+~ linecode = CAB202_3_1
+
+New line.11451861 phases = 3 bus1 = 2284543 bus2 = 7652423 
+~ length = 11 units = m 
+~ linecode = CAB907_4_3
+
+New line.11451868 phases = 3 bus1 = 7652423 bus2 = 2284550 
+~ length = 20.099 units = m 
+~ linecode = CAB108_3_3
+
+New line.11481870 phases = 3 bus1 = 642483 bus2 = 7688991 
+~ length = 12.166 units = m 
+~ linecode = CAB102_3_1
+
+New line.11481877 phases = 3 bus1 = 642490 bus2 = 7688991 
+~ length = 10.44 units = m 
+~ linecode = CAB102_3_1
+
+New line.11481898 phases = 3 bus1 = 7688991 bus2 = 7688998 
+~ length = 31.78 units = m 
+~ linecode = CAB103_3_1
+
+New line.11481905 phases = 3 bus1 = 7688998 bus2 = 2291753 
+~ length = 47.853 units = m 
+~ linecode = CAB103_3_1
+
+New line.11929604 phases = 3 bus1 = 643400 bus2 = 8078114 
+~ length = 2.236 units = m 
+~ linecode = CABA06_3_1
+
+New line.11929611 phases = 3 bus1 = 6009747 bus2 = 8078114 
+~ length = 8.485 units = m 
+~ linecode = CABA06_3_1
+
+New line.11938970 phases = 3 bus1 = 807025 bus2 = 8086955 
+~ length = 32.015 units = m 
+~ linecode = CABA06_3_3
+
+New line.11938991 phases = 3 bus1 = 8086955 bus2 = 8086962 
+~ length = 34.058 units = m 
+~ linecode = CABA06_3_3
+
+New line.11938998 phases = 3 bus1 = 8086962 bus2 = 8086969 
+~ length = 38.287 units = m 
+~ linecode = CABA06_3_3
+
+New line.11939019 phases = 3 bus1 = 8086969 bus2 = 8086990 
+~ length = 19.849 units = m 
+~ linecode = CABA06_3_3
+
+New line.11939166 phases = 3 bus1 = 8086990 bus2 = 8087123 
+~ length = 13.454 units = m 
+~ linecode = CAB902_4_3
+
+New line.12015900 phases = 3 bus1 = 642987 bus2 = 642980 
+~ length = 33.241 units = m 
+~ linecode = CABA06_3_1
+
+New line.12015921 phases = 3 bus1 = 642980 bus2 = 3535478 
+~ length = 34.655 units = m 
+~ linecode = CABA06_3_1
+
+New line.12015928 phases = 3 bus1 = 3535478 bus2 = 3535485 
+~ length = 37.642 units = m 
+~ linecode = CABA06_3_1
+
+New line.12022851 phases = 3 bus1 = 807151 bus2 = 807144 
+~ length = 34.204 units = m 
+~ linecode = CAB103_3_3
+
+New line.12022858 phases = 3 bus1 = 807144 bus2 = 807137 
+~ length = 23.345 units = m 
+~ linecode = CAB103_3_3
+
+New line.12022865 phases = 3 bus1 = 807137 bus2 = 807130 
+~ length = 37.201 units = m 
+~ linecode = CAB103_3_3
+
+New line.12022872 phases = 3 bus1 = 807130 bus2 = 647845 
+~ length = 32.649 units = m 
+~ linecode = CAB103_3_3
+
+New line.12022956 phases = 3 bus1 = 5023678 bus2 = 647845 
+~ length = 16.401 units = m 
+~ linecode = CAB103_3_3
+
+New line.12059755 phases = 3 bus1 = 647425 bus2 = 8183149 
+~ length = 15.62 units = m 
+~ linecode = CABA06_3_3
+
+New line.12059762 phases = 3 bus1 = 8183149 bus2 = 647418 
+~ length = 24.839 units = m 
+~ linecode = CABA06_3_3
+
+New line.12059769 phases = 3 bus1 = 8183149 bus2 = 8183156 
+~ length = 13.153 units = m 
+~ linecode = CAB902_4_3
+
+New line.12108860 phases = 3 bus1 = 642581 bus2 = 5174836 
+~ length = 41.048 units = m 
+~ linecode = CAB103_3_1
+
+New line.12108867 phases = 3 bus1 = 8701211 bus2 = 8701214 
+~ length = 54.202 units = m 
+~ linecode = CAB103_3_1
+
+New line.12108868 phases = 3 bus1 = 8701214 bus2 = 8701216 
+~ length = 47.009 units = m 
+~ linecode = CAB103_3_1
+
+New line.12108883 phases = 3 bus1 = 8701216 bus2 = 8701217 
+~ length = 76.483 units = m 
+~ linecode = CAB103_3_1
+
+New line.12128883 phases = 3 bus1 = 646683 bus2 = 8722483 
+~ length = 24.839 units = m 
+~ linecode = CAB102_3_3
+
+New line.12128884 phases = 3 bus1 = 8722483 bus2 = 646704 
+~ length = 26.419 units = m 
+~ linecode = CAB102_3_3
+
+New line.12135660 phases = 3 bus1 = 2291739 bus2 = 8729303 
+~ length = 304.033 units = m 
+~ linecode = CAB202_3_1
+
+New line.12135661 phases = 3 bus1 = 8729303 bus2 = 8729306 
+~ length = 173.284 units = m 
+~ linecode = CAB202_3_1
+
+New line.12135662 phases = 3 bus1 = 8729303 bus2 = 793270 
+~ length = 9 units = m 
+~ linecode = CAB103_3_1
+
+New line.12143905 phases = 3 bus1 = 3410493 bus2 = 8738700 
+~ length = 51.311 units = m 
+~ linecode = CAB202_3_1
+
+New line.12143906 phases = 3 bus1 = 8738700 bus2 = 812800 
+~ length = 60.744 units = m 
+~ linecode = CAB202_3_1
+
+New line.12179629 phases = 3 bus1 = 653585 bus2 = 8141373 
+~ length = 36.344 units = m 
+~ linecode = CABA06_3_3
+
+New line.12179630 phases = 3 bus1 = 8141373 bus2 = 8141380 
+~ length = 39.697 units = m 
+~ linecode = CABA06_3_3
+
+New line.12179631 phases = 3 bus1 = 8141380 bus2 = 8778534 
+~ length = 39.622 units = m 
+~ linecode = CABA06_3_3
+
+New line.12181324 phases = 3 bus1 = 5845604 bus2 = 8780322 
+~ length = 84.596 units = m 
+~ linecode = CAB202_3_3
+
+New line.12181329 phases = 3 bus1 = 2291760 bus2 = 8780322 
+~ length = 59.681 units = m 
+~ linecode = CAB202_3_3
+
+New line.12181343 phases = 3 bus1 = 2291774 bus2 = 8780337 
+~ length = 28.653 units = m 
+~ linecode = CAB202_3_3
+
+New line.12181352 phases = 3 bus1 = 2291774 bus2 = 811659 
+~ length = 32.649 units = m 
+~ linecode = CAB103_3_1
+
+New line.12181405 phases = 3 bus1 = 644135 bus2 = 8780432 
+~ length = 29.41 units = m 
+~ linecode = CAB102_3_3
+
+New line.12181406 phases = 3 bus1 = 644170 bus2 = 8780432 
+~ length = 30.364 units = m 
+~ linecode = CAB102_3_3
+
+New line.12181410 phases = 3 bus1 = 644142 bus2 = 8780434 
+~ length = 30.364 units = m 
+~ linecode = CAB103_3_3
+
+New line.12181411 phases = 3 bus1 = 8780434 bus2 = 644135 
+~ length = 29.41 units = m 
+~ linecode = CAB103_3_3
+
+New line.12181413 phases = 3 bus1 = 644149 bus2 = 8780435 
+~ length = 31.32 units = m 
+~ linecode = CAB103_3_3
+
+New line.12181414 phases = 3 bus1 = 644142 bus2 = 8780435 
+~ length = 31.32 units = m 
+~ linecode = CAB103_3_3
+
+New line.12240458 phases = 3 bus1 = 651163 bus2 = 651156 
+~ length = 5 units = m 
+~ linecode = CABA06_3_3
+
+New line.12240460 phases = 3 bus1 = 651156 bus2 = 651170 
+~ length = 26.476 units = m 
+~ linecode = CABA06_3_3
+
+New line.12240463 phases = 3 bus1 = 651170 bus2 = 651184 
+~ length = 28.635 units = m 
+~ linecode = CABA06_3_3
+
+New line.12240465 phases = 3 bus1 = 651184 bus2 = 651198 
+~ length = 32.756 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255074 phases = 3 bus1 = 807032 bus2 = 807039 
+~ length = 35.467 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255077 phases = 3 bus1 = 807039 bus2 = 807046 
+~ length = 36.877 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255100 phases = 3 bus1 = 807074 bus2 = 807081 
+~ length = 32.015 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255103 phases = 3 bus1 = 807081 bus2 = 807088 
+~ length = 28.319 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255104 phases = 3 bus1 = 807088 bus2 = 4881942 
+~ length = 26.907 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255106 phases = 3 bus1 = 4881942 bus2 = 5657122 
+~ length = 29.068 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255107 phases = 3 bus1 = 5657122 bus2 = 5657129 
+~ length = 29.832 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255109 phases = 3 bus1 = 5657129 bus2 = 5657136 
+~ length = 34.827 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255137 phases = 3 bus1 = 5657136 bus2 = 5898370 
+~ length = 36.877 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255138 phases = 3 bus1 = 5898370 bus2 = 5994396 
+~ length = 30.805 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255141 phases = 3 bus1 = 5994396 bus2 = 5994403 
+~ length = 33.241 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255146 phases = 3 bus1 = 5994403 bus2 = 5994410 
+~ length = 40.459 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255148 phases = 3 bus1 = 5994410 bus2 = 5994417 
+~ length = 41.868 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255154 phases = 3 bus1 = 5994417 bus2 = 8856771 
+~ length = 41.108 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255155 phases = 3 bus1 = 8856771 bus2 = 8856772 
+~ length = 40.459 units = m 
+~ linecode = CABA06_3_3
+
+New line.12255162 phases = 3 bus1 = 8856772 bus2 = 8856774 
+~ length = 39.05 units = m 
+~ linecode = CABA06_3_3
+
+New line.12287981 phases = 3 bus1 = 8873912 bus2 = 644989 
+~ length = 12.042 units = m 
+~ linecode = CABA08_3_3
+
+New line.12321498 phases = 3 bus1 = 2284557 bus2 = 8922188 
+~ length = 21.54 units = m 
+~ linecode = CABA08_3_3
+
+New line.12321848 phases = 3 bus1 = 644163 bus2 = 8922480 
+~ length = 30.413 units = m 
+~ linecode = CAB202_3_3
+
+New line.12328996 phases = 3 bus1 = 645822 bus2 = 3535506 
+~ length = 26.248 units = m 
+~ linecode = CABA06_3_3
+
+New line.12328997 phases = 3 bus1 = 3535506 bus2 = 4798355 
+~ length = 44.597 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329001 phases = 3 bus1 = 4798355 bus2 = 8929838 
+~ length = 34.885 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329002 phases = 3 bus1 = 8929838 bus2 = 8929840 
+~ length = 31.144 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329003 phases = 3 bus1 = 8929840 bus2 = 8929845 
+~ length = 39.318 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329005 phases = 3 bus1 = 8929845 bus2 = 8929849 
+~ length = 39.318 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329006 phases = 3 bus1 = 8929849 bus2 = 8929852 
+~ length = 23.086 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329007 phases = 3 bus1 = 8929852 bus2 = 8929842 
+~ length = 27.458 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329008 phases = 3 bus1 = 8929842 bus2 = 8929853 
+~ length = 38.012 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329063 phases = 3 bus1 = 8897200 bus2 = 8929833 
+~ length = 37.442 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329065 phases = 3 bus1 = 8897200 bus2 = 8897201 
+~ length = 28.177 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329070 phases = 3 bus1 = 8929833 bus2 = 8929830 
+~ length = 42.543 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329071 phases = 3 bus1 = 8929830 bus2 = 8929828 
+~ length = 41.011 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329072 phases = 3 bus1 = 8929828 bus2 = 8929824 
+~ length = 41.193 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329074 phases = 3 bus1 = 8929824 bus2 = 8929825 
+~ length = 35.227 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329075 phases = 3 bus1 = 8929825 bus2 = 8929930 
+~ length = 38.326 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329076 phases = 3 bus1 = 8929930 bus2 = 8929928 
+~ length = 41.145 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329077 phases = 3 bus1 = 8929928 bus2 = 8929927 
+~ length = 49.728 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329080 phases = 3 bus1 = 8929927 bus2 = 8929921 
+~ length = 46.517 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329081 phases = 3 bus1 = 8929921 bus2 = 8929923 
+~ length = 16.401 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329082 phases = 3 bus1 = 8929923 bus2 = 8929924 
+~ length = 41.048 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329084 phases = 3 bus1 = 8929924 bus2 = 8929926 
+~ length = 41.88 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329086 phases = 3 bus1 = 8929926 bus2 = 8929880 
+~ length = 31.622 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329124 phases = 3 bus1 = 8929922 bus2 = 8929913 
+~ length = 31.622 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329128 phases = 3 bus1 = 8929913 bus2 = 8930188 
+~ length = 34.985 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329153 phases = 3 bus1 = 8930188 bus2 = 8930189 
+~ length = 35.734 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329156 phases = 3 bus1 = 8930189 bus2 = 8930190 
+~ length = 45.099 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329158 phases = 3 bus1 = 8930190 bus2 = 8930191 
+~ length = 45.176 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329160 phases = 3 bus1 = 8930191 bus2 = 8930192 
+~ length = 48.506 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329161 phases = 3 bus1 = 8930192 bus2 = 8930276 
+~ length = 31.144 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329163 phases = 3 bus1 = 8930276 bus2 = 8930277 
+~ length = 39.356 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329166 phases = 3 bus1 = 8930277 bus2 = 8930278 
+~ length = 39.811 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329196 phases = 3 bus1 = 8930275 bus2 = 8930274 
+~ length = 36.769 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329197 phases = 3 bus1 = 8930274 bus2 = 8930267 
+~ length = 18.028 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329198 phases = 3 bus1 = 8930267 bus2 = 8930273 
+~ length = 27.294 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329199 phases = 3 bus1 = 8930273 bus2 = 8930272 
+~ length = 37.589 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329200 phases = 3 bus1 = 8930272 bus2 = 8930270 
+~ length = 39.356 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329201 phases = 3 bus1 = 8930270 bus2 = 8930269 
+~ length = 40.248 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329202 phases = 3 bus1 = 8930269 bus2 = 8930268 
+~ length = 41.145 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329203 phases = 3 bus1 = 8930268 bus2 = 8930240 
+~ length = 47.412 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329204 phases = 3 bus1 = 8930240 bus2 = 8930241 
+~ length = 38.909 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329205 phases = 3 bus1 = 8930241 bus2 = 8930242 
+~ length = 39.811 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329206 phases = 3 bus1 = 8930242 bus2 = 8930243 
+~ length = 38.483 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329208 phases = 3 bus1 = 8930243 bus2 = 8930244 
+~ length = 41.145 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329211 phases = 3 bus1 = 8930266 bus2 = 8930265 
+~ length = 40.717 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329212 phases = 3 bus1 = 8930265 bus2 = 8930263 
+~ length = 36.891 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329214 phases = 3 bus1 = 8930263 bus2 = 8930260 
+~ length = 39.824 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329215 phases = 3 bus1 = 8930192 bus2 = 8930193 
+~ length = 28.635 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329216 phases = 3 bus1 = 8930193 bus2 = 8930194 
+~ length = 33.241 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329217 phases = 3 bus1 = 8930194 bus2 = 8930195 
+~ length = 31.78 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329218 phases = 3 bus1 = 8930195 bus2 = 8930196 
+~ length = 35.846 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329219 phases = 3 bus1 = 8930196 bus2 = 8930197 
+~ length = 37.161 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329220 phases = 3 bus1 = 8930197 bus2 = 8930219 
+~ length = 28.792 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329221 phases = 3 bus1 = 8930219 bus2 = 8930217 
+~ length = 23.706 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329222 phases = 3 bus1 = 8930217 bus2 = 8930215 
+~ length = 50.536 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329223 phases = 3 bus1 = 8930215 bus2 = 8930213 
+~ length = 34.885 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329224 phases = 3 bus1 = 8930213 bus2 = 8930212 
+~ length = 32.649 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329227 phases = 3 bus1 = 8930212 bus2 = 8930211 
+~ length = 39.356 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329228 phases = 3 bus1 = 8930211 bus2 = 8930210 
+~ length = 17.088 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329233 phases = 3 bus1 = 8930210 bus2 = 8930228 
+~ length = 38.012 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329234 phases = 3 bus1 = 8930228 bus2 = 8930229 
+~ length = 33.54 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329319 phases = 3 bus1 = 8930618 bus2 = 795986 
+~ length = 22.09 units = m 
+~ linecode = CABA06_3_3
+
+New line.12329320 phases = 3 bus1 = 795993 bus2 = 8930619 
+~ length = 59.133 units = m 
+~ linecode = CABA08_3_3
+
+New line.12329321 phases = 3 bus1 = 8930619 bus2 = 2291627 
+~ length = 21.023 units = m 
+~ linecode = CAB103_3_3
+
+New line.12337072 phases = 3 bus1 = 5174836 bus2 = 8939250 
+~ length = 35.056 units = m 
+~ linecode = CAB103_3_1
+
+New line.12337073 phases = 3 bus1 = 8939250 bus2 = 8701211 
+~ length = 38.896 units = m 
+~ linecode = CAB103_3_1
+
+New line.12350628 phases = 3 bus1 = 644422 bus2 = 8954480 
+~ length = 18.681 units = m 
+~ linecode = CABA08_3_3
+
+New line.12350629 phases = 3 bus1 = 8954480 bus2 = 644415 
+~ length = 31.622 units = m 
+~ linecode = CABA08_3_3
+
+New line.12403965 phases = 3 bus1 = 4798355 bus2 = 9010490 
+~ length = 17.692 units = m 
+~ linecode = CABA06_3_3
+
+New line.12403966 phases = 3 bus1 = 9010490 bus2 = 8897200 
+~ length = 17.204 units = m 
+~ linecode = CABA06_3_3
+
+New line.12420933 phases = 3 bus1 = 3535485 bus2 = 5911894 
+~ length = 28.301 units = m 
+~ linecode = CABA06_3_1
+
+New line.12420937 phases = 3 bus1 = 5911894 bus2 = 5911901 
+~ length = 32.984 units = m 
+~ linecode = CABA06_3_1
+
+New line.12420938 phases = 3 bus1 = 5911901 bus2 = 8064212 
+~ length = 29.154 units = m 
+~ linecode = CABA06_3_1
+
+New line.12420939 phases = 3 bus1 = 8064212 bus2 = 8064219 
+~ length = 32.14 units = m 
+~ linecode = CABA06_3_1
+
+New line.12420940 phases = 3 bus1 = 8064219 bus2 = 8945600 
+~ length = 45.176 units = m 
+~ linecode = CABA06_3_1
+
+New line.12421064 phases = 3 bus1 = 8945600 bus2 = 9027235 
+~ length = 45.176 units = m 
+~ linecode = CABA06_3_1
+
+New line.12421065 phases = 3 bus1 = 9027235 bus2 = 9027236 
+~ length = 37.161 units = m 
+~ linecode = CABA06_3_1
+
+New line.12425341 phases = 3 bus1 = 808922 bus2 = 808929 
+~ length = 36.234 units = m 
+~ linecode = CABA06_3_3
+
+New line.12425358 phases = 3 bus1 = 808929 bus2 = 9031322 
+~ length = 36.124 units = m 
+~ linecode = CABA06_3_3
+
+New line.12425359 phases = 3 bus1 = 9031322 bus2 = 9031324 
+~ length = 44.597 units = m 
+~ linecode = CABA06_3_3
+
+New line.12425360 phases = 3 bus1 = 9031324 bus2 = 9031326 
+~ length = 32.557 units = m 
+~ linecode = CABA06_3_3
+
+New line.12425361 phases = 3 bus1 = 9031326 bus2 = 9031329 
+~ length = 31.24 units = m 
+~ linecode = CABA06_3_3
+
+New line.12425364 phases = 3 bus1 = 9031329 bus2 = 9031330 
+~ length = 45.606 units = m 
+~ linecode = CABA06_3_3
+
+New line.12425365 phases = 3 bus1 = 9031330 bus2 = 9031334 
+~ length = 44.686 units = m 
+~ linecode = CABA06_3_3
+
+New line.12459654 phases = 3 bus1 = 2284536 bus2 = 9068320 
+~ length = 9.22 units = m 
+~ linecode = CABA08_3_3
+
+New line.12459655 phases = 3 bus1 = 2284543 bus2 = 9068320 
+~ length = 7.616 units = m 
+~ linecode = CAB905_4_3
+
+New line.12509703 phases = 3 bus1 = 643148 bus2 = 9118534 
+~ length = 27.166 units = m 
+~ linecode = CAB102_3_3
+
+New line.12509704 phases = 3 bus1 = 9118534 bus2 = 643099 
+~ length = 45.397 units = m 
+~ linecode = CAB102_3_3
+
+New line.12509705 phases = 3 bus1 = 643673 bus2 = 9118535 
+~ length = 33.135 units = m 
+~ linecode = CAB102_3_3
+
+New line.12509706 phases = 3 bus1 = 9118535 bus2 = 643148 
+~ length = 35.056 units = m 
+~ linecode = CAB102_3_3
+
+New line.12555728 phases = 3 bus1 = 9164376 bus2 = 8930618 
+~ length = 17.029 units = m 
+~ linecode = CABA06_3_3
+
+New line.12555732 phases = 3 bus1 = 795993 bus2 = 9164382 
+~ length = 7.071 units = m 
+~ linecode = CABA06_3_3
+
+New line.12555733 phases = 3 bus1 = 9164382 bus2 = 796000 
+~ length = 18.439 units = m 
+~ linecode = CABA06_3_3
+
+New line.12555738 phases = 3 bus1 = 9164382 bus2 = 9164376 
+~ length = 17.72 units = m 
+~ linecode = CABA06_3_3
+
+New line.12555741 phases = 3 bus1 = 3541862 bus2 = 9164382 
+~ length = 69.121 units = m 
+~ linecode = CABA06_3_3
+
+New line.12564103 phases = 3 bus1 = 7486642 bus2 = 9173149 
+~ length = 89.2 units = m 
+~ linecode = CAB202_3_1
+
+New line.12564106 phases = 3 bus1 = 9173149 bus2 = 9173151 
+~ length = 110.437 units = m 
+~ linecode = CAB202_3_1
+
+New line.12564109 phases = 3 bus1 = 9173151 bus2 = 9173152 
+~ length = 406.088 units = m 
+~ linecode = CAB202_3_1
+
+New line.12564131 phases = 3 bus1 = 9173152 bus2 = 9173182 
+~ length = 31.827 units = m 
+~ linecode = CAB202_3_1
+
+New line.12564132 phases = 3 bus1 = 9173182 bus2 = 9173155 
+~ length = 178.326 units = m 
+~ linecode = CAB202_3_1
+
+New line.12571797 phases = 3 bus1 = 660270 bus2 = 660284 
+~ length = 23.769 units = m 
+~ linecode = CABA08_3_3
+
+New line.12571798 phases = 3 bus1 = 660284 bus2 = 660291 
+~ length = 35.734 units = m 
+~ linecode = CABA08_3_3
+
+New line.12571803 phases = 3 bus1 = 660291 bus2 = 9181411 
+~ length = 17.72 units = m 
+~ linecode = CABA08_3_3
+
+New line.12572731 phases = 3 bus1 = 646326 bus2 = 2289590 
+~ length = 11.045 units = m 
+~ linecode = CAB107_3_3
+
+New line.12586685 phases = 3 bus1 = 646424 bus2 = 9195206 
+~ length = 26.626 units = m 
+~ linecode = CABA06_3_3
+
+New line.12586686 phases = 3 bus1 = 9195206 bus2 = 645892 
+~ length = 23.021 units = m 
+~ linecode = CABA06_3_3
+
+New line.12586818 phases = 3 bus1 = 8929880 bus2 = 9195404 
+~ length = 32.984 units = m 
+~ linecode = CABA06_3_3
+
+New line.12586819 phases = 3 bus1 = 9195404 bus2 = 8929878 
+~ length = 25.317 units = m 
+~ linecode = CABA06_3_3
+
+New line.12587583 phases = 3 bus1 = 8930210 bus2 = 9196276 
+~ length = 24.596 units = m 
+~ linecode = CABA06_3_3
+
+New line.12587584 phases = 3 bus1 = 9196276 bus2 = 8930207 
+~ length = 23.259 units = m 
+~ linecode = CABA06_3_3
+
+New line.12587602 phases = 3 bus1 = 8930240 bus2 = 9196307 
+~ length = 23.259 units = m 
+~ linecode = CABA06_3_3
+
+New line.12587603 phases = 3 bus1 = 9196307 bus2 = 8930266 
+~ length = 21.54 units = m 
+~ linecode = CABA06_3_3
+
+New line.12587608 phases = 3 bus1 = 8930192 bus2 = 9196316 
+~ length = 16.279 units = m 
+~ linecode = CABA06_3_3
+
+New line.12587609 phases = 3 bus1 = 9196316 bus2 = 8930275 
+~ length = 16.492 units = m 
+~ linecode = CABA06_3_3
+
+New line.12587618 phases = 3 bus1 = 8930229 bus2 = 9196330 
+~ length = 13.416 units = m 
+~ linecode = CABA06_3_3
+
+New line.12587619 phases = 3 bus1 = 9196330 bus2 = 8930249 
+~ length = 17.464 units = m 
+~ linecode = CABA06_3_3
+
+New line.12588045 phases = 3 bus1 = 8929921 bus2 = 9196774 
+~ length = 10.296 units = m 
+~ linecode = CABA06_3_3
+
+New line.12588046 phases = 3 bus1 = 9196774 bus2 = 8929922 
+~ length = 20.248 units = m 
+~ linecode = CABA06_3_3
+
+New line.12627210 phases = 3 bus1 = 9181411 bus2 = 662552 
+~ length = 22.999 units = m 
+~ linecode = CABA08_3_3
+
+New line.12627211 phases = 3 bus1 = 662552 bus2 = 662559 
+~ length = 28.177 units = m 
+~ linecode = CABA08_3_3
+
+New line.12627214 phases = 3 bus1 = 662566 bus2 = 662559 
+~ length = 37.201 units = m 
+~ linecode = CABA08_3_3
+
+New line.12627235 phases = 3 bus1 = 659626 bus2 = 9236914 
+~ length = 15.264 units = m 
+~ linecode = CAB004_3_3
+
+New line.12627236 phases = 3 bus1 = 9236914 bus2 = 662566 
+~ length = 15.264 units = m 
+~ linecode = CAB103_3_3
+
+New line.12627320 phases = 3 bus1 = 662608 bus2 = 662629 
+~ length = 7.211 units = m 
+~ linecode = CABA08_3_3
+
+New line.12627324 phases = 3 bus1 = 662629 bus2 = 662622 
+~ length = 29.068 units = m 
+~ linecode = CABA08_3_3
+
+New line.12627328 phases = 3 bus1 = 662622 bus2 = 664197 
+~ length = 23.021 units = m 
+~ linecode = CABA08_3_3
+
+New line.12627329 phases = 3 bus1 = 664197 bus2 = 664218 
+~ length = 21.931 units = m 
+~ linecode = CABA08_3_3
+
+New line.12627340 phases = 3 bus1 = 664218 bus2 = 664225 
+~ length = 27.658 units = m 
+~ linecode = CABA08_3_3
+
+New line.12644248 phases = 3 bus1 = 3976219 bus2 = 8769202 
+~ length = 30.066 units = m 
+~ linecode = CABA06_3_3
+
+New line.12644250 phases = 3 bus1 = 3976219 bus2 = 9254991 
+~ length = 9.22 units = m 
+~ linecode = CABA06_3_3
+
+New line.12645340 phases = 3 bus1 = 2291669 bus2 = 9255994 
+~ length = 61.399 units = m 
+~ linecode = CABA06_3_3
+
+New line.12645341 phases = 3 bus1 = 9255994 bus2 = 9255996 
+~ length = 35.608 units = m 
+~ linecode = CABA06_3_3
+
+New line.12645344 phases = 3 bus1 = 9255996 bus2 = 9255997 
+~ length = 44.821 units = m 
+~ linecode = CABA06_3_3
+
+New line.12645350 phases = 3 bus1 = 9255997 bus2 = 9255999 
+~ length = 43.931 units = m 
+~ linecode = CABA06_3_3
+
+New line.12662948 phases = 3 bus1 = 646396 bus2 = 9273061 
+~ length = 16.124 units = m 
+~ linecode = CAB107_3_3
+
+New line.12662949 phases = 3 bus1 = 9273061 bus2 = 649245 
+~ length = 20 units = m 
+~ linecode = CAB107_3_3
+
+New line.12712091 phases = 3 bus1 = 644667 bus2 = 644660 
+~ length = 17.117 units = m 
+~ linecode = CABA06_3_1
+
+New line.12712095 phases = 3 bus1 = 644660 bus2 = 4800217 
+~ length = 11.402 units = m 
+~ linecode = CABA06_3_1
+
+New line.12712099 phases = 3 bus1 = 4800217 bus2 = 644639 
+~ length = 17.804 units = m 
+~ linecode = CABA06_3_1
+
+New line.12712104 phases = 3 bus1 = 644639 bus2 = 644625 
+~ length = 39.203 units = m 
+~ linecode = CABA06_3_1
+
+New line.12712105 phases = 3 bus1 = 644625 bus2 = 644611 
+~ length = 31.384 units = m 
+~ linecode = CABA06_3_1
+
+New line.12712106 phases = 3 bus1 = 644611 bus2 = 644597 
+~ length = 36.013 units = m 
+~ linecode = CABA06_3_1
+
+New line.12712278 phases = 3 bus1 = 4276631 bus2 = 9320030 
+~ length = 67.533 units = m 
+~ linecode = CAB202_3_1
+
+New line.12712288 phases = 3 bus1 = 9320030 bus2 = 642560 
+~ length = 26.019 units = m 
+~ linecode = CAB103_3_1
+
+New line.12719993 phases = 3 bus1 = 8922188 bus2 = 9327227 
+~ length = 18.788 units = m 
+~ linecode = CABA08_3_3
+
+New line.12719994 phases = 3 bus1 = 9327227 bus2 = 8873912 
+~ length = 7.616 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720061 phases = 3 bus1 = 9327357 bus2 = 644422 
+~ length = 28.16 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720123 phases = 3 bus1 = 8873912 bus2 = 6217654 
+~ length = 14.318 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720124 phases = 3 bus1 = 6217654 bus2 = 645003 
+~ length = 10.05 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720125 phases = 3 bus1 = 645003 bus2 = 645010 
+~ length = 32.248 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720127 phases = 3 bus1 = 645010 bus2 = 645017 
+~ length = 32.248 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720129 phases = 3 bus1 = 645017 bus2 = 645031 
+~ length = 28.16 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720134 phases = 3 bus1 = 645031 bus2 = 645038 
+~ length = 42.425 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720137 phases = 3 bus1 = 645038 bus2 = 645045 
+~ length = 29.154 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720138 phases = 3 bus1 = 645045 bus2 = 645052 
+~ length = 31.144 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720140 phases = 3 bus1 = 645052 bus2 = 645059 
+~ length = 30.265 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720142 phases = 3 bus1 = 645059 bus2 = 4901815 
+~ length = 46.009 units = m 
+~ linecode = CABA08_3_3
+
+New line.12720143 phases = 3 bus1 = 4901815 bus2 = 644422 
+~ length = 28.16 units = m 
+~ linecode = CABA08_3_3
+
+New line.12727430 phases = 3 bus1 = 815817 bus2 = 9334489 
+~ length = 17.262 units = m 
+~ linecode = CAB103_3_1
+
+New line.12727431 phases = 3 bus1 = 9334489 bus2 = 815789 
+~ length = 17.262 units = m 
+~ linecode = CAB103_3_1
+
+New line.12735619 phases = 3 bus1 = 656952 bus2 = 656945 
+~ length = 29.731 units = m 
+~ linecode = CABA06_3_3
+
+New line.12735620 phases = 3 bus1 = 656945 bus2 = 656938 
+~ length = 22.472 units = m 
+~ linecode = CABA06_3_3
+
+New line.12735622 phases = 3 bus1 = 656938 bus2 = 655293 
+~ length = 27.73 units = m 
+~ linecode = CABA06_3_3
+
+New line.12735637 phases = 3 bus1 = 655293 bus2 = 5378123 
+~ length = 17.691 units = m 
+~ linecode = CABA06_3_3
+
+New line.12735638 phases = 3 bus1 = 5378123 bus2 = 5378130 
+~ length = 23.409 units = m 
+~ linecode = CABA06_3_3
+
+New line.12735729 phases = 3 bus1 = 645731 bus2 = 645717 
+~ length = 33.301 units = m 
+~ linecode = CABA06_3_3
+
+New line.12735731 phases = 3 bus1 = 645717 bus2 = 7755512 
+~ length = 44.686 units = m 
+~ linecode = CABA06_3_3
+
+New line.12735732 phases = 3 bus1 = 7755512 bus2 = 3739199 
+~ length = 31.24 units = m 
+~ linecode = CABA06_3_3
+
+New line.12735733 phases = 3 bus1 = 3739199 bus2 = 807102 
+~ length = 27.202 units = m 
+~ linecode = CABA06_3_3
+
+New line.12742602 phases = 3 bus1 = 807403 bus2 = 807396 
+~ length = 34.175 units = m 
+~ linecode = CABA08_3_3
+
+New line.12743086 phases = 3 bus1 = 649588 bus2 = 649049 
+~ length = 17.888 units = m 
+~ linecode = CABA08_3_3
+
+New line.12749573 phases = 3 bus1 = 664603 bus2 = 9356171 
+~ length = 26.248 units = m 
+~ linecode = CABA08_3_3
+
+New line.12749574 phases = 3 bus1 = 9356171 bus2 = 664792 
+~ length = 10.63 units = m 
+~ linecode = CABA08_3_3
+

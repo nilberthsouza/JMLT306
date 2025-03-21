@@ -1,0 +1,25 @@
+clear
+
+New Circuit.JMLT306 bus1 = 642490 basekv = 13.8 pu = 1.00 phases = 3 frequency = 60 mvasc3 = 300 mvasc1 = 300
+
+Redirect LineCode_SSDBT_JMLT306.txt
+Redirect LineCode_SSDMT_JMLT306.txt
+Redirect Lines_SSDMT_JMLT306.txt
+Redirect Lines_SSDBT_JMLT306.txt
+Redirect LoadShapes.txt
+Redirect Loads_UCBT_JMLT306.txt
+Redirect Loads_UCMT_JMLT306.txt
+Redirect Transformers_JMLT306.txt
+Redirect PIP_JMLT306.txt
+
+Set VoltageBases = [13.8, 0.22] 
+CalcVoltageBases
+
+New energymeter.medidor element = line.947017 terminal = 1
+
+set tolerance = 0.0000001
+set Maxiter=500
+set mode = daily
+set stepsize = 1h
+set number = 24
+solve

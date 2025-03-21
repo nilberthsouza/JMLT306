@@ -1,0 +1,255 @@
+New linecode.BT808_BT808_4_2_3 nphases = 3 basefreq = 60 units = km Normamps = 110 
+~ R1 = 1.0429 !ohm/km 
+~ X1 = 0.07827 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT803_BT803_4_3_4 nphases = 4 basefreq = 60 units = km Normamps = 147 
+~ R1 = 0.53226 !ohm/km 
+~ X1 = 0.08001 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT518_BT518_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 138 
+~ R1 = 0.822 !ohm/km 
+~ X1 = 0.1301 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT106_BT106_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 111 
+~ R1 = 1.6118 !ohm/km 
+~ X1 = 0.3634 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT810_BT810_4_3_4 nphases = 4 basefreq = 60 units = km Normamps = 110 
+~ R1 = 1.0429 !ohm/km 
+~ X1 = 0.06979 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT509_BT509_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 232 
+~ R1 = 0.6913 !ohm/km 
+~ X1 = 0.12075 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT518_BT518_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 138 
+~ R1 = 0.822 !ohm/km 
+~ X1 = 0.1301 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT505_BT505_5_3_1 nphases = 4 basefreq = 60 units = km Normamps = 101 
+~ R1 = 1.6119 !ohm/km 
+~ X1 = 0.13815 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT809_BT809_4_3_4 nphases = 4 basefreq = 60 units = km Normamps = 110 
+~ R1 = 1.0429 !ohm/km 
+~ X1 = 0.08178 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT108_BT108_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 201 
+~ R1 = 0.6375 !ohm/km 
+~ X1 = 0.32431 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT108_BT107_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 201 
+~ R1 = 0.6375 !ohm/km 
+~ X1 = 0.32431 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT513_BT513_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 386 
+~ R1 = 0.5147 !ohm/km 
+~ X1 = 0.12139 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT107_BT106_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 149 
+~ R1 = 1.0145 !ohm/km 
+~ X1 = 0.32899 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT108_BT107_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 201 
+~ R1 = 0.6375 !ohm/km 
+~ X1 = 0.32431 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT107_BT107_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 149 
+~ R1 = 1.0145 !ohm/km 
+~ X1 = 0.32899 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT508_BT508_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 201 
+~ R1 = 1.0994 !ohm/km 
+~ X1 = 0.12359 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT807_BT807_4_2_3 nphases = 3 basefreq = 60 units = km Normamps = 200 
+~ R1 = 0.53226 !ohm/km 
+~ X1 = 0.0897 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT107_BT107_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 149 
+~ R1 = 1.0145 !ohm/km 
+~ X1 = 0.32899 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT513_BT513_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 386 
+~ R1 = 0.5147 !ohm/km 
+~ X1 = 0.12139 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT814_BT814_4_2_3 nphases = 3 basefreq = 60 units = km Normamps = 125 
+~ R1 = 1.4418 !ohm/km 
+~ X1 = 0.08327 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT107_BT106_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 149 
+~ R1 = 1.0145 !ohm/km 
+~ X1 = 0.32899 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT307_BT307_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 192 
+~ R1 = 0.6694 !ohm/km 
+~ X1 = 0.12554 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT801_BT801_4_2_3 nphases = 3 basefreq = 60 units = km Normamps = 99 
+~ R1 = 1.0429 !ohm/km 
+~ X1 = 0.08178 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT803_BT803_4_2_4 nphases = 3 basefreq = 60 units = km Normamps = 147 
+~ R1 = 0.53226 !ohm/km 
+~ X1 = 0.08001 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT514_BT514_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 612 
+~ R1 = 0.325 !ohm/km 
+~ X1 = 0.11988 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT805_BT805_4_3_4 nphases = 4 basefreq = 60 units = km Normamps = 201 
+~ R1 = 0.30398 !ohm/km 
+~ X1 = 0.09113 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT111_BT108_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 314 
+~ R1 = 0.3184 !ohm/km 
+~ X1 = 0.29792 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT106_BT106_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 111 
+~ R1 = 1.6118 !ohm/km 
+~ X1 = 0.3634 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT108_BT108_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 201 
+~ R1 = 0.6375 !ohm/km 
+~ X1 = 0.32431 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT810_BT810_4_2_4 nphases = 3 basefreq = 60 units = km Normamps = 110 
+~ R1 = 1.0429 !ohm/km 
+~ X1 = 0.06979 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT309_BT309_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 298 
+~ R1 = 0.3208 !ohm/km 
+~ X1 = 0.12075 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT107_BT108_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 149 
+~ R1 = 1.0145 !ohm/km 
+~ X1 = 0.32899 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT507_BT507_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 150 
+~ R1 = 1.268 !ohm/km 
+~ X1 = 0.12551 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT107_BT108_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 149 
+~ R1 = 1.0145 !ohm/km 
+~ X1 = 0.32899 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT311_BT311_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 400 
+~ R1 = 0.2078 !ohm/km 
+~ X1 = 0.11286 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT808_BT808_4_3_3 nphases = 4 basefreq = 60 units = km Normamps = 110 
+~ R1 = 1.0429 !ohm/km 
+~ X1 = 0.07827 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT809_BT809_4_2_4 nphases = 3 basefreq = 60 units = km Normamps = 110 
+~ R1 = 1.0429 !ohm/km 
+~ X1 = 0.08178 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT005_BT005_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 101 
+~ R1 = 0.77257 !ohm/km 
+~ X1 = 0.3546 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT503_BT503_5_3_1 nphases = 4 basefreq = 60 units = km Normamps = 82 
+~ R1 = 0.1335 !ohm/km 
+~ X1 = 0.13241 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT007_BT005_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 194 
+~ R1 = 0.635 !ohm/km 
+~ X1 = 0.34589 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT503_BT503_5_2_1 nphases = 3 basefreq = 60 units = km Normamps = 82 
+~ R1 = 0.1335 !ohm/km 
+~ X1 = 0.13241 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT108_BT106_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 201 
+~ R1 = 0.6375 !ohm/km 
+~ X1 = 0.32431 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT005_BT005_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 101 
+~ R1 = 0.77257 !ohm/km 
+~ X1 = 0.3546 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT007_BT007_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 194 
+~ R1 = 0.635 !ohm/km 
+~ X1 = 0.34589 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT007_BT006_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 194 
+~ R1 = 0.635 !ohm/km 
+~ X1 = 0.34589 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT106_BT107_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 111 
+~ R1 = 1.6118 !ohm/km 
+~ X1 = 0.3634 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT514_BT514_5_3_1 nphases = 4 basefreq = 60 units = km Normamps = 612 
+~ R1 = 0.325 !ohm/km 
+~ X1 = 0.11988 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT504_BT504_5_3_1 nphases = 4 basefreq = 60 units = km Normamps = 85 
+~ R1 = 2.5427 !ohm/km 
+~ X1 = 0.13522 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT103_BT103_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 81 
+~ R1 = 2.5676 !ohm/km 
+~ X1 = 0.35814 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT315_BT315_7_2_1 nphases = 3 basefreq = 60 units = km Normamps = 12 
+~ R1 = 13.7518 !ohm/km 
+~ X1 = 0.18039 !ohm/km 
+~ C1 = 0.00
+
+New linecode.BT006_BT007_7_3_1 nphases = 4 basefreq = 60 units = km Normamps = 136 
+~ R1 = 1.0019 !ohm/km 
+~ X1 = 0.3634 !ohm/km 
+~ C1 = 0.00
+

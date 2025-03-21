@@ -1,0 +1,852 @@
+New transformer.273457 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 643498.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_643498.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273583 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 644765.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_644765.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.273541 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 644366.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_644366.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.273709 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 646137.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_646137.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.273744 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 646606.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_646606.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1394006 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 647453.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_647453.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273688 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 645850.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_645850.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.273674 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 645731.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_645731.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.273653 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 645563.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_645563.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.721492 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 646403.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_646403.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273555 xhl = 3.771 windings = 2 %loadloss = 0.924107 %noloadloss = 0.299107  phases=3 
+~ wdg = 1 bus = 644485.1.2.3 kv = 13.8 kva = 112 conn = delta %r = 1.218 tap = 0.9565 
+~ wdg = 2 bus = BT_644485.1.2.3.0 kv = 0.22 kva = 112 conn = wye %r = 1.218 tap = 1
+
+New transformer.273723 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 646361.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_646361.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274073 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 650169.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_650169.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273849 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 647698.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_647698.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.273996 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 649301.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_649301.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273989 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 649224.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_649224.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273751 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 646655.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_646655.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273758 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 646704.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_646704.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273513 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 644135.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_644135.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273646 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 645451.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_645451.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.273702 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 646053.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_646053.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.273912 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 648342.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_648342.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.274136 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 650918.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_650918.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273968 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 648944.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_648944.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.318754 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 643477.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_643477.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.273730 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 646438.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_646438.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274052 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 649833.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_649833.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274024 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 649546.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_649546.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1409746 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 651198.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_651198.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273737 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 646522.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_646522.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.274241 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 652080.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_652080.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273492 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 643869.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_643869.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1467696 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 647446.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_647446.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.273499 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 643988.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_643988.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274094 xhl = 3.805 windings = 2 %loadloss = 0.846667 %noloadloss = 0.28  phases=3 
+~ wdg = 1 bus = 650414.1.2.3 kv = 13.8 kva = 150 conn = delta %r = 1.127 tap = 0.9565 
+~ wdg = 2 bus = BT_650414.1.2.3.0 kv = 0.22 kva = 150 conn = wye %r = 1.127 tap = 1
+
+New transformer.273821 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 647369.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_647369.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.273835 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 647481.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_647481.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274311 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 652815.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_652815.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274283 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 652465.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_652465.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274157 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 651142.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_651142.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.273520 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 644205.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_644205.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.273828 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 647404.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_647404.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274598 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 656231.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_656231.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274269 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 652318.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_652318.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273863 xhl = 3.771 windings = 2 %loadloss = 0.924107 %noloadloss = 0.299107  phases=3 
+~ wdg = 1 bus = 647831.1.2.3 kv = 13.8 kva = 112 conn = delta %r = 1.218 tap = 0.9565 
+~ wdg = 2 bus = BT_647831.1.2.3.0 kv = 0.22 kva = 112 conn = wye %r = 1.218 tap = 1
+
+New transformer.274507 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 655097.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_655097.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274661 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 656959.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_656959.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1441021 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 652591.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_652591.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274472 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 654670.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_654670.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274990 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 660347.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_660347.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274528 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 655328.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_655328.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274920 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 659605.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_659605.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274738 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 657806.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_657806.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274857 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 658940.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_658940.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274913 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 659528.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_659528.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275242 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 662895.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_662895.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.275074 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 661341.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_661341.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274850 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 658828.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_658828.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.275158 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 662083.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_662083.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274381 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 653613.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_653613.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275214 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 662650.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_662650.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274521 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 655237.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_655237.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275256 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 663084.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_663084.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275032 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 660886.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_660886.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275004 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 660564.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_660564.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1392244 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 656357.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_656357.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.274822 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 658604.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_658604.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275144 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 661971.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_661971.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275340 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 663896.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_663896.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.275417 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 664617.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_664617.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274808 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 658478.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_658478.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.275270 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 663175.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_663175.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275333 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 663889.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_663889.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275326 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 663840.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_663840.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275564 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 666101.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_666101.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.275431 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 664806.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_664806.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.274955 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 659948.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_659948.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275361 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 664225.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_664225.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.275207 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 662587.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_662587.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.275228 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 662755.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_662755.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.275515 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 665639.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_665639.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.304866 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 795972.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_795972.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.316255 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 796000.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_796000.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.309276 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 802846.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_802846.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.309290 xhl = 3.805 windings = 2 %loadloss = 0.846667 %noloadloss = 0.28  phases=3 
+~ wdg = 1 bus = 802853.1.2.3 kv = 13.8 kva = 150 conn = delta %r = 1.127 tap = 0.9565 
+~ wdg = 2 bus = BT_802853.1.2.3.0 kv = 0.22 kva = 150 conn = wye %r = 1.127 tap = 1
+
+New transformer.1494668 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 807102.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_807102.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1473673 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 806913.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_806913.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.312139 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 808922.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_808922.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.311936 xhl = 3.805 windings = 2 %loadloss = 0.846667 %noloadloss = 0.28  phases=3 
+~ wdg = 1 bus = 808103.1.2.3 kv = 13.8 kva = 150 conn = delta %r = 1.127 tap = 0.9565 
+~ wdg = 2 bus = BT_808103.1.2.3.0 kv = 0.22 kva = 150 conn = wye %r = 1.127 tap = 1
+
+New transformer.308814 xhl = 4.886 windings = 2 %loadloss = 0.425 %noloadloss = 0.105  phases=3 
+~ wdg = 1 bus = 802377.1.2.3 kv = 13.8 kva = 2000 conn = delta %r = 1.06 tap = 0.9565 
+~ wdg = 2 bus = BT_802377.1.2.3.0 kv = 0.22 kva = 2000 conn = wye %r = 1.06 tap = 1
+
+New transformer.311649 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 806955.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_806955.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1430088 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 807130.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_807130.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.311656 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 807046.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_807046.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.311922 xhl = 3.805 windings = 2 %loadloss = 0.846667 %noloadloss = 0.28  phases=3 
+~ wdg = 1 bus = 808082.1.2.3 kv = 13.8 kva = 150 conn = delta %r = 1.127 tap = 0.9565 
+~ wdg = 2 bus = BT_808082.1.2.3.0 kv = 0.22 kva = 150 conn = wye %r = 1.127 tap = 1
+
+New transformer.311642 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 806857.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_806857.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.833513 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 2291816.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_2291816.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1276473 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 2291837.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_2291837.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.778731 xhl = 4.864 windings = 2 %loadloss = 0.811111 %noloadloss = 0.248889  phases=3 
+~ wdg = 1 bus = 3410668.1.2.3 kv = 13.8 kva = 225 conn = delta %r = 1.06 tap = 0.9565 
+~ wdg = 2 bus = BT_3410668.1.2.3.0 kv = 0.22 kva = 225 conn = wye %r = 1.06 tap = 1
+
+New transformer.782371 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 3447796.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_3447796.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.796805 xhl = 3.805 windings = 2 %loadloss = 0.846667 %noloadloss = 0.28  phases=3 
+~ wdg = 1 bus = 3603301.1.2.3 kv = 13.8 kva = 150 conn = delta %r = 1.127 tap = 0.9565 
+~ wdg = 2 bus = BT_3603301.1.2.3.0 kv = 0.22 kva = 150 conn = wye %r = 1.127 tap = 1
+
+New transformer.1439933 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 3976191.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_3976191.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.853694 xhl = 3.805 windings = 2 %loadloss = 0.846667 %noloadloss = 0.28  phases=3 
+~ wdg = 1 bus = 4778062.1.2.3 kv = 13.8 kva = 150 conn = delta %r = 1.127 tap = 0.9565 
+~ wdg = 2 bus = BT_4778062.1.2.3.0 kv = 0.22 kva = 150 conn = wye %r = 1.127 tap = 1
+
+New transformer.868555 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 4901255.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_4901255.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.868618 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 4895473.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_4895473.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.867624 xhl = 3.805 windings = 2 %loadloss = 0.846667 %noloadloss = 0.28  phases=3 
+~ wdg = 1 bus = 4897769.1.2.3 kv = 13.8 kva = 150 conn = delta %r = 1.127 tap = 0.9565 
+~ wdg = 2 bus = BT_4897769.1.2.3.0 kv = 0.22 kva = 150 conn = wye %r = 1.127 tap = 1
+
+New transformer.1494649 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 5378130.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_5378130.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1042925 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 5845590.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_5845590.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1038529 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 5845695.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_5845695.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1412039 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 5994396.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_5994396.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1394274 xhl = 4.864 windings = 2 %loadloss = 0.811111 %noloadloss = 0.248889  phases=3 
+~ wdg = 1 bus = 8087123.1.2.3 kv = 13.8 kva = 225 conn = delta %r = 1.06 tap = 0.9565 
+~ wdg = 2 bus = BT_8087123.1.2.3.0 kv = 0.22 kva = 225 conn = wye %r = 1.06 tap = 1
+
+New transformer.1494001 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 8086962.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_8086962.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1382439 xhl = 4.881 windings = 2 %loadloss = 0.756667 %noloadloss = 0.233333  phases=3 
+~ wdg = 1 bus = 8183156.1.2.3 kv = 13.8 kva = 300 conn = delta %r = 0.99 tap = 0.9565 
+~ wdg = 2 bus = BT_8183156.1.2.3.0 kv = 0.22 kva = 300 conn = wye %r = 0.99 tap = 1
+
+New transformer.1478394 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 8769202.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_8769202.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1400663 xhl = 3.564 windings = 2 %loadloss = 1.23333 %noloadloss = 0.433333  phases=3 
+~ wdg = 1 bus = 8778534.1.2.3 kv = 13.8 kva = 30 conn = delta %r = 1.667 tap = 0.9565 
+~ wdg = 2 bus = BT_8778534.1.2.3.0 kv = 0.22 kva = 30 conn = wye %r = 1.667 tap = 1
+
+New transformer.318299 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 8780337.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_8780337.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1412049 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 8856774.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_8856774.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1423660 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 8897201.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_8897201.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1423703 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 8930260.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_8930260.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1423702 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 8930244.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_8930244.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1423689 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 8930207.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_8930207.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1423654 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 8929853.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_8929853.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1423699 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 8930270.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_8930270.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1423708 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 8930249.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_8930249.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1423674 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 8930188.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_8930188.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1423673 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 8929825.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_8929825.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1423666 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 8929878.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_8929878.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1423694 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 8930196.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_8930196.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1423696 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 8930278.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_8930278.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1435970 xhl = 3.721 windings = 2 %loadloss = 1 %noloadloss = 0.34  phases=3 
+~ wdg = 1 bus = 9010490.1.2.3 kv = 13.8 kva = 75 conn = delta %r = 1.34 tap = 0.9565 
+~ wdg = 2 bus = BT_9010490.1.2.3.0 kv = 0.22 kva = 75 conn = wye %r = 1.34 tap = 1
+
+New transformer.1439820 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 9031334.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_9031334.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1478395 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 9254991.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_9254991.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.1478605 xhl = 3.636 windings = 2 %loadloss = 1.14444 %noloadloss = 0.377778  phases=3 
+~ wdg = 1 bus = 9255999.1.2.3 kv = 13.8 kva = 45 conn = delta %r = 1.522 tap = 0.9565 
+~ wdg = 2 bus = BT_9255999.1.2.3.0 kv = 0.22 kva = 45 conn = wye %r = 1.522 tap = 1
+
+New transformer.273352 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 642462.3 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_642462.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273366 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 642574.3 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_642574.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.1490838 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 644597.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_644597.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273380 xhl = 2.344 windings = 2 %loadloss = 1.1 %noloadloss = 0.32  phases=1 
+~ wdg = 1 bus = 642630.2 kv = 13.8 kva = 25 conn = wye %r = 1.42 tap = 0.9565 
+~ wdg = 2 bus = BT_642630.1.0 kv = 0.24 kva = 25 conn = wye %r = 1.42 tap = 1
+
+New transformer.273394 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 642749.3 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_642749.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273639 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 645367.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_645367.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273478 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 643659.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_643659.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273422 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 643057.3 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_643057.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273450 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 643414.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_643414.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273401 xhl = 2.344 windings = 2 %loadloss = 1.1 %noloadloss = 0.32  phases=1 
+~ wdg = 1 bus = 642847.2 kv = 13.8 kva = 25 conn = wye %r = 1.42 tap = 0.9565 
+~ wdg = 2 bus = BT_642847.1.0 kv = 0.24 kva = 25 conn = wye %r = 1.42 tap = 1
+
+New transformer.273387 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 642714.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_642714.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.273485 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 643757.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_643757.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.273443 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 643407.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_643407.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273296 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 642189.3 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_642189.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.273415 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 643022.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_643022.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.273310 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 642238.3 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_642238.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.273534 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 644261.3 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_644261.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273660 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 645605.3 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_645605.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.273471 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 643631.1 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_643631.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.273695 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 645948.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_645948.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273569 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 644667.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_644667.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.273331 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 642336.3 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_642336.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.273338 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 642406.3 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_642406.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273905 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 648272.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_648272.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273506 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 644079.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_644079.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.273590 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 644821.3 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_644821.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.273345 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 642441.3 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_642441.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.273289 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 642133.3 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_642133.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.822418 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 645920.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_645920.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.1243370 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 644618.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_644618.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.273919 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 648419.3 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_648419.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.274290 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 652542.1 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_652542.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.274038 xhl = 2.344 windings = 2 %loadloss = 1.1 %noloadloss = 0.32  phases=1 
+~ wdg = 1 bus = 649735.3 kv = 13.8 kva = 25 conn = wye %r = 1.42 tap = 0.9565 
+~ wdg = 2 bus = BT_649735.1.0 kv = 0.24 kva = 25 conn = wye %r = 1.42 tap = 1
+
+New transformer.274556 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 655692.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_655692.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.273408 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 642952.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_642952.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.274612 xhl = 2.344 windings = 2 %loadloss = 1.1 %noloadloss = 0.32  phases=1 
+~ wdg = 1 bus = 656364.1 kv = 13.8 kva = 25 conn = wye %r = 1.42 tap = 0.9565 
+~ wdg = 2 bus = BT_656364.1.0 kv = 0.24 kva = 25 conn = wye %r = 1.42 tap = 1
+
+New transformer.274731 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 657722.1 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_657722.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.274885 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 659213.1 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_659213.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.302570 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 793116.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_793116.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.303774 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 794460.2 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_794460.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.302612 xhl = 1.628 windings = 2 %loadloss = 1.3 %noloadloss = 0.6  phases=1 
+~ wdg = 1 bus = 793277.2 kv = 13.8 kva = 5 conn = wye %r = 1.9 tap = 0.9565 
+~ wdg = 2 bus = BT_793277.1.0 kv = 0.24 kva = 5 conn = wye %r = 1.9 tap = 1
+
+New transformer.302598 xhl = 1.628 windings = 2 %loadloss = 1.3 %noloadloss = 0.6  phases=1 
+~ wdg = 1 bus = 793263.3 kv = 13.8 kva = 5 conn = wye %r = 1.9 tap = 0.9565 
+~ wdg = 2 bus = BT_793263.1.0 kv = 0.24 kva = 5 conn = wye %r = 1.9 tap = 1
+
+New transformer.303865 xhl = 2.344 windings = 2 %loadloss = 1.1 %noloadloss = 0.32  phases=1 
+~ wdg = 1 bus = 794551.1 kv = 13.8 kva = 25 conn = wye %r = 1.42 tap = 0.9565 
+~ wdg = 2 bus = BT_794551.1.0 kv = 0.24 kva = 25 conn = wye %r = 1.42 tap = 1
+
+New transformer.303879 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 794565.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_794565.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.304019 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 794768.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_794768.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.302745 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 793410.1 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_793410.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.303767 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 794446.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_794446.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.303760 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 794439.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_794439.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.302605 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 793270.3 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_793270.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.302556 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 793004.1 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_793004.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.303872 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 794558.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_794558.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.1137810 xhl = 1.628 windings = 2 %loadloss = 1.3 %noloadloss = 0.6  phases=1 
+~ wdg = 1 bus = 794453.2 kv = 13.8 kva = 5 conn = wye %r = 1.9 tap = 0.9565 
+~ wdg = 2 bus = BT_794453.1.0 kv = 0.24 kva = 5 conn = wye %r = 1.9 tap = 1
+
+New transformer.307883 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 800088.3 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_800088.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.307897 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 800228.3 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_800228.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.308653 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 801922.3 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_801922.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.307890 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 800179.3 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_800179.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.311712 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 807319.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_807319.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.311635 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 806801.1 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_806801.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.314036 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 812793.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_812793.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.314043 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 812800.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_812800.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.314064 xhl = 1.628 windings = 2 %loadloss = 1.3 %noloadloss = 0.6  phases=1 
+~ wdg = 1 bus = 812842.3 kv = 13.8 kva = 5 conn = wye %r = 1.9 tap = 0.9565 
+~ wdg = 2 bus = BT_812842.1.0 kv = 0.24 kva = 5 conn = wye %r = 1.9 tap = 1
+
+New transformer.311719 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 807361.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_807361.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.313343 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 811659.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_811659.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.312755 xhl = 1.628 windings = 2 %loadloss = 1.3 %noloadloss = 0.6  phases=1 
+~ wdg = 1 bus = 811071.2 kv = 13.8 kva = 5 conn = wye %r = 1.9 tap = 0.9565 
+~ wdg = 2 bus = BT_811071.1.0 kv = 0.24 kva = 5 conn = wye %r = 1.9 tap = 1
+
+New transformer.314085 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 812863.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_812863.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.315996 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 815789.1 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_815789.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.314050 xhl = 1.628 windings = 2 %loadloss = 1.3 %noloadloss = 0.6  phases=1 
+~ wdg = 1 bus = 812807.3 kv = 13.8 kva = 5 conn = wye %r = 1.9 tap = 0.9565 
+~ wdg = 2 bus = BT_812807.1.0 kv = 0.24 kva = 5 conn = wye %r = 1.9 tap = 1
+
+New transformer.756107 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 3242073.3 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_3242073.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.1376482 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 3535485.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_3535485.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.830482 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 4035936.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_4035936.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.309283 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 4263989.1 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_4263989.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.273359 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 5687250.3 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_5687250.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.1032803 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 5780721.3 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_5780721.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.1039810 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 5877412.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_5877412.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.1041273 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 5902220.1 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_5902220.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.1051038 xhl = 2.475 windings = 2 %loadloss = 0.986486 %noloadloss = 0.324324  phases=1 
+~ wdg = 1 bus = 6009768.2 kv = 13.8 kva = 37 conn = wye %r = 1.293 tap = 0.9565 
+~ wdg = 2 bus = BT_6009768.1.0 kv = 0.24 kva = 37 conn = wye %r = 1.293 tap = 1
+
+New transformer.1305250 xhl = 1.628 windings = 2 %loadloss = 1.3 %noloadloss = 0.6  phases=1 
+~ wdg = 1 bus = 7486649.3 kv = 13.8 kva = 5 conn = wye %r = 1.9 tap = 0.9565 
+~ wdg = 2 bus = BT_7486649.1.0 kv = 0.24 kva = 5 conn = wye %r = 1.9 tap = 1
+
+New transformer.1390237 xhl = 1.628 windings = 2 %loadloss = 1.3 %noloadloss = 0.6  phases=1 
+~ wdg = 1 bus = 8701217.3 kv = 13.8 kva = 5 conn = wye %r = 1.9 tap = 0.9565 
+~ wdg = 2 bus = BT_8701217.1.0 kv = 0.24 kva = 5 conn = wye %r = 1.9 tap = 1
+
+New transformer.1394259 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 8729306.3 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_8729306.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
+New transformer.1439064 xhl = 2.123 windings = 2 %loadloss = 1.2 %noloadloss = 0.4  phases=1 
+~ wdg = 1 bus = 9027236.2 kv = 13.8 kva = 15 conn = wye %r = 1.6 tap = 0.9565 
+~ wdg = 2 bus = BT_9027236.1.0 kv = 0.24 kva = 15 conn = wye %r = 1.6 tap = 1
+
+New transformer.1463777 xhl = 1.877 windings = 2 %loadloss = 1.35 %noloadloss = 0.45  phases=1 
+~ wdg = 1 bus = 9173155.3 kv = 13.8 kva = 10 conn = wye %r = 1.8 tap = 0.9565 
+~ wdg = 2 bus = BT_9173155.1.0 kv = 0.24 kva = 10 conn = wye %r = 1.8 tap = 1
+
