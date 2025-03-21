@@ -11,6 +11,7 @@ Redirect Loads_UCBT_JMLT306.txt
 Redirect Loads_UCMT_JMLT306.txt
 Redirect Transformers_JMLT306.txt
 Redirect PIP_JMLT306.txt
+Buscoords coords.txt
 
 Set VoltageBases = [13.8, 0.22] 
 CalcVoltageBases
